@@ -23,3 +23,5 @@ I propose to include in the evaluation also the dates of the 'lockdown' measures
 
 These choices are an attempt to standardize the evaluation period with respect to the differences between the various nations.
 The number of days between the various events will allow to evaluate the effectiveness of the lockdown, where this was done.
+
+Please have a look at the attached spreadsheet.
