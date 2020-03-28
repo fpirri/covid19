@@ -1,0 +1,25 @@
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,"today","start num","total today","init date","From init","M1 date","From M1","End date"
+,"Italy",2020-03-26,300,8215,2020-03-10,"=C5-F5",2020-03-12,"=C5-H5",2020-03-27
+,"Spagna",2020-03-26,230,4365,2020-03-17,"=C6-F6",2020-03-23,"=C6-H6",2020-03-27
+,"France",2020-03-26,330,1696,2020-03-22,"=C7-F7",2020-03-24,"=C7-H7",2020-03-27
+,"USA",2020-03-26,1660,1295,2020-03-27,"=C8-F8",2020-03-27,"=C8-H8",2020-03-27
+,"UK",2020-03-26,330,578,2020-03-27,"=C9-F9",2020-03-27,"=C9-H9",2020-03-27
+,"Germany",2020-03-26,414,267,2020-03-27,"=C10-F10",2020-03-27,"=C10-H10",2020-03-27
+,"Sweden",2020-03-26,50,77,2020-03-27,"=C11-F11",2020-03-27,"=C11-H11",2020-03-27
+,,,,,,"=C12-F12",,"=C12-H12",2020-03-27
+,,,,,,"=C13-F13",,"=C13-H13",2020-03-27
+,,,,,,,,,
+,"today","today",,,,,,,
+,"start num","init day, that is the day of more than 5 deaths per million people",,,,,,,
+,"total today","total # of deaths in the Nation",,,,,,,
+,"init date","init day, that is the day of more than 5 deaths per million peaople",,,,,,,
+,"From init","# of days from init",,,,,,,
+,"M1 date","date of lockdown",,,,,,,
+,"From M1","# of days from M1 date",,,,,,,
+,"End date","maximum reached",,,,,,,
+,,,,,,,,,
+,"NOTE:","All data as reported in  https://www.worldometers.info/coronavirus/#countries",,,,,,,
+,,"unknown dates are set in the future, so -1 = unknown",,,,,,,
