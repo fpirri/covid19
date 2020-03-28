@@ -25,6 +25,9 @@ A
 https://github.com/fpirri/covid19 
 there is the spreadsheet with the dates as deduced from
   https://www.worldometers.info/coronavirus/#countries
-the sheet is provided in .xslx and .csv
+the sheet is provided in .xslx and .csv:
+https://raw.githubusercontent.com/fpirri/covid19/master/covid19%20lockdown%20evaluation%20.csv
+https://github.com/fpirri/covid19/blob/master/covid19%20lockdown%20evaluation%20.xlsx?raw=true
+-
 
 
