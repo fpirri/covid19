@@ -16,7 +16,10 @@ I propose to consider as an efficacy parameter the number of days that have pass
 Since this is a statistical phenomenon, the numbers must be large enough. I therefore propose the following criteria:
 - the day on which the total deaths in a country exceeds the threshold of 5 deaths per million inhabitants is taken as the day of the start of the crisis;
 - the end of the period will be taken on the day when the average for the following week is lower than the average for the week preceding the day in question.
+
 At the present time the day of the maximum in the western world is unknown.
+
 I propose to include in the evaluation also the dates of the 'lockdown' measures issued by the governments, to have a second measuring point (date M1).
+
 These choices are an attempt to standardize the evaluation period with respect to the differences between the various nations.
 The number of days between the various events will allow to evaluate the effectiveness of the lockdown, where this was done.
