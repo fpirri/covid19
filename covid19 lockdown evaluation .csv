@@ -1,25 +1,51 @@
 ,,,,,,,,,
+,Effects of the lockdown issued by governments ,,,,,,,,
 ,,,,,,,,,
+,LEGENDA,,,,,,,,
+,today,: today for the data block,,,,,,,
+,start num,: 5 deaths per million people inhabitants,,,,,,,
+,total deaths today,: total # of deaths in the Nation,,,,,,,
+,start of crisis,": init day, that is the day of more than 5 deaths per million peaople",,,,,,,
+,Days from start,: # of days from init to today,,,,,,,
+,Lockdown date,: date of lockdown,,,,,,,
+,Days from lockdown,: # of days from M1 date,,,,,,,
+,End of crisis,: days of maximum for daily deaths,,,,,,,
 ,,,,,,,,,
-,,"today","start num","total today","init date","From init","M1 date","From M1","End date"
-,"Italy",2020-03-26,300,8215,2020-03-10,"=C5-F5",2020-03-12,"=C5-H5",2020-03-27
-,"Spagna",2020-03-26,230,4365,2020-03-17,"=C6-F6",2020-03-23,"=C6-H6",2020-03-27
-,"France",2020-03-26,330,1696,2020-03-22,"=C7-F7",2020-03-24,"=C7-H7",2020-03-27
-,"USA",2020-03-26,1660,1295,2020-03-27,"=C8-F8",2020-03-27,"=C8-H8",2020-03-27
-,"UK",2020-03-26,330,578,2020-03-27,"=C9-F9",2020-03-27,"=C9-H9",2020-03-27
-,"Germany",2020-03-26,414,267,2020-03-27,"=C10-F10",2020-03-27,"=C10-H10",2020-03-27
-,"Sweden",2020-03-26,50,77,2020-03-27,"=C11-F11",2020-03-27,"=C11-H11",2020-03-27
-,,,,,,"=C12-F12",,"=C12-H12",2020-03-27
-,,,,,,"=C13-F13",,"=C13-H13",2020-03-27
-,,,,,,,,,
-,"today","today",,,,,,,
-,"start num","init day, that is the day of more than 5 deaths per million people",,,,,,,
-,"total today","total # of deaths in the Nation",,,,,,,
-,"init date","init day, that is the day of more than 5 deaths per million peaople",,,,,,,
-,"From init","# of days from init",,,,,,,
-,"M1 date","date of lockdown",,,,,,,
-,"From M1","# of days from M1 date",,,,,,,
-,"End date","maximum reached",,,,,,,
-,,,,,,,,,
-,"NOTE:","All data as reported in  https://www.worldometers.info/coronavirus/#countries",,,,,,,
+,NOTE:,All data as reported in  https://www.worldometers.info/coronavirus/#countries,,,,,,,
 ,,"unknown dates are set in the future, so -1 = unknown",,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Today,,,,,,,,
+,2020-03-28,,total deaths,Deaths per,Start of,Days from,Lockdown,Days from,End of
+,,Start num,today,million,crisis,start,date,lockdown,crisis
+,Italy,300,10023,166,2020-03-10,18,2020-03-12,15,2020-03-29
+,Spagna,230,5982,128,2020-03-17,11,2020-03-23,4,2020-03-29
+,France,330,2314,35,2020-03-22,6,2020-03-24,3,2020-03-29
+,USA,1660,2221,7,2020-03-27,1,2020-03-29,-1,2020-03-29
+,UK,330,1019,15,2020-03-26,2,2020-03-29,-1,2020-03-29
+,Germany,414,433,5,2020-03-28,0,2020-03-29,-1,2020-03-29
+,Sweden,50,105,10,2020-03-25,3,2020-03-29,-1,2020-03-29
+,,,,,,,,,
+,,,,,,,,,
+,Today,,,,,,,,
+,2020-03-27,,total deaths,Deaths per,Start of,Days from,Lockdown,Days from,End of
+,,Start num,today,million,crisis,start,date,lockdown,crisis
+,Italy,300,9134,151,2020-03-10,17,2020-03-12,15,2020-03-28
+,Spagna,230,5138,110,2020-03-17,10,2020-03-23,4,2020-03-28
+,France,330,1995,31,2020-03-22,5,2020-03-24,3,2020-03-28
+,USA,1660,1696,5,2020-03-27,0,2020-03-28,-1,2020-03-28
+,UK,330,759,11,2020-03-26,1,2020-03-28,-1,2020-03-28
+,Germany,414,351,4,2020-03-28,-1,2020-03-28,-1,2020-03-28
+,Sweden,50,105,10,2020-03-25,2,2020-03-28,-1,2020-03-28
+,,,,,,,,,
+,,,,,,,,,
+,Today,,,,,,,,
+,2020-03-26,,total deaths,Deaths per,Start of,Days from,Lockdown,Days from,End of
+,,start num,today,million,crisis,start,date,lockdown,crisis
+,Italy,300,8215,136,2020-03-10,16,2020-03-12,14,2020-03-27
+,Spagna,230,4365,93,2020-03-17,9,2020-03-23,3,2020-03-27
+,France,330,1696,26,2020-03-22,4,2020-03-24,2,2020-03-27
+,USA,1660,1295,4,2020-03-27,-1,2020-03-27,-1,2020-03-27
+,UK,330,578,9,2020-03-26,0,2020-03-27,-1,2020-03-27
+,Germany,414,267,3,2020-03-27,-1,2020-03-27,-1,2020-03-27
+,Sweden,50,77,7,2020-03-25,1,2020-03-27,-1,2020-03-27
