@@ -18,6 +18,18 @@
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,Today,,,,,,,,,
+,2020-03-30,,,Deaths per,,Start of,Days from,Lockdown,Days from,End of
+,,Start num,total deaths,million,Deaths today,crisis,start,date,lockdown,crisis
+,Italy,300,11591,192,812,2020-03-10,20,2020-03-12,18,2020-03-30
+,Spagna,230,7716,165,913,2020-03-17,13,2020-03-23,7,2020-03-30
+,France,330,3024,46,418,2020-03-22,8,2020-03-24,6,2020-03-30
+,Sweden,50,146,14,36,2020-03-25,5,2020-03-31,-1,2020-03-30
+,UK,330,1408,21,180,2020-03-26,4,2020-03-31,-1,2020-03-30
+,USA,1660,3156,10,573,2020-03-27,3,2020-03-30,0,2020-03-30
+,Germany,414,645,8,104,2020-03-28,2,2020-03-31,-1,2020-03-30
+,,,,,,,,,,
+,,,,,,,,,,
+,Today,,,,,,,,,
 ,2020-03-29,,,Deaths per,,Start of,Days from,Lockdown,Days from,End of
 ,,Start num,total deaths,million,Deaths today,crisis,start,date,lockdown,crisis
 ,Italy,300,10779,178,756,2020-03-10,19,2020-03-12,17,2020-03-30
