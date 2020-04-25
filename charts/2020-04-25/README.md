@@ -1,4 +1,60 @@
-COVID19
+# Understanding COVID19
+
+A discussion about how some western countries fight with coronavirus  
+<br />  
+
+----
+[What this document discuss](https://github.com/fpirri/gothings-install#what-gothingsinstall-does)  
+[What you may find here](https://github.com/fpirri/gothings-install#what-you-get)  
+[How you can contribute](https://github.com/fpirri/gothings-install#what-you-get)  
+[Document short description](https://github.com/fpirri/gothings-install#gothingssystem-short-description)  
+[Choose what to look at](https://github.com/fpirri/gothings-install#gothingssystem-short-description)  
+[Total Deaths per Country](https://github.com/fpirri/gothings-install#gothingssystem-short-description)  
+[Why I write this document](https://github.com/fpirri/gothings-install#pre-installation-steps)  
+
+----
+
+<br />
+
+What this document discuss
+----  
+
+* The amount of information you get in a single day regarding coronavirus is overwelming: what should you look at ? 
+* Is there a way to use data available on the web to understand differences from a country to the next ?
+* Governements acted against Covid19 at different times with different actions, what consequences there are ?
+* What actions can we suggest to ameliorate the situation ?   
+
+
+----
+
+<br />
+
+Total Deaths per Country
+----  
+
+The site https://www.worldometers.info/coronavirus/#countries present many data. 
+
+![Alt text](Raw data from worldometers site)
+<img src="https://github.com/fpirri/covid19/blob/master/charts/2020-04-25/2020-04-25%20Total%20Deaths%20raw%20data.png">
+
+
+
+https://github.com/fpirri/covid19/blob/master/charts/2020-04-25/2020-04-25%20Total%20Deaths%20raw%20data.png
+
+
+I choose to look at the number  of Deaths caused by Covid19 in many countries is
+* The amount of information you get in a single day regarding coronavirus is overwelming: what should you look at ? 
+* Is there a way to use data available on the web to understand differences from a country to the next ?
+* Governements acted against Covid19 at different times with different actions, what consequences there are ?
+* What actions can we suggest to ameliorate the situation ?   
+
+----
+
+<br />
+
+ROBA VECCHIA - Please disregard all the following
+----
+
 
 How do countries fight with coronavirus?
 
