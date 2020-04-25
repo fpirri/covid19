@@ -13,6 +13,18 @@ A discussion about how some western countries fight with coronavirus
 [Why I write this document](https://github.com/fpirri/gothings-install#pre-installation-steps)  
 
 ----
+  
+----
+
+PLEASE NOTE: this is WORK IN PROGRESS
+===
+
+This document is totally disorganized: I am trying to coordinate my thoughts, but I cannot find a common thread in the many things I read online.
+Help me, please.
+
+<br />
+
+----
 
 <br />
 
@@ -51,6 +63,21 @@ I choose to look at the number  of Deaths caused by Covid19 in many countries is
 ----
 
 <br />
+
+<br />
+
+----
+
+
+<br />
+
+----
+
+
+<br />
+
+----
+
 
 ROBA VECCHIA - Please disregard all the following
 ----
