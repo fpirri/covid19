@@ -5,24 +5,19 @@ A discussion about how some western countries fight with coronavirus
 
 ----
 [What this document discuss](https://github.com/fpirri/gothings-install#what-gothingsinstall-does)  
-[What you may find here](https://github.com/fpirri/gothings-install#what-you-get)  
-[How you can contribute](https://github.com/fpirri/gothings-install#what-you-get)  
-[Document short description](https://github.com/fpirri/gothings-install#gothingssystem-short-description)  
-[Choose what to look at](https://github.com/fpirri/gothings-install#gothingssystem-short-description)  
-[Total Deaths per Country](https://github.com/fpirri/gothings-install#gothingssystem-short-description)  
-[Why I write this document](https://github.com/fpirri/gothings-install#pre-installation-steps)  
-
+[What you may find here](https://github.com/fpirri/gothings-install#What-you-may-find-here)  
+[Where to start](https://github.com/fpirri/gothings-install#Where to start)  
 ----
-  
-----
-
-PLEASE NOTE: this is WORK IN PROGRESS
-===
-
-This document is totally disorganized: I am trying to coordinate my thoughts, but I cannot find a common thread in the many things I read online.
-Help me, please.
 
 <br />
+
+What you may find here
+----  
+
+* The amount of information you get in a single day regarding coronavirus is overwelming: what should you look at ? 
+* Is there a way to use data available on the web to understand differences from a country to the next ?
+* Governements acted against Covid19 at different times with different actions, what consequences there are ?
+* What actions can we suggest to ameliorate the situation ?   
 
 ----
 
@@ -32,10 +27,31 @@ What this document discuss
 ----  
 
 * The amount of information you get in a single day regarding coronavirus is overwelming: what should you look at ? 
-* Is there a way to use data available on the web to understand differences from a country to the next ?
-* Governements acted against Covid19 at different times with different actions, what consequences there are ?
-* What actions can we suggest to ameliorate the situation ?   
 
+
+----
+<br />  
+
+----
+  
+----
+
+PLEASE NOTE: this is WORK IN PROGRESS
+===
+
+This document is very disorganized: I am trying to coordinate my thoughts, but I cannot find a common thread in the many things I read online.
+I need help. Do you have any suggestion?
+<br />
+If you like, you can 'open an issue' on github (2nd element in the top menu)
+
+
+----
+
+[How you can contribute](https://github.com/fpirri/gothings-install#How-you-can-contribute)  
+[Document short description](https://github.com/fpirri/gothings-install#gothingssystem-short-description)  
+[Choose what to look at](https://github.com/fpirri/gothings-install#gothingssystem-short-description)  
+[Total Deaths per Country](https://github.com/fpirri/gothings-install#gothingssystem-short-description)  
+[Why I write this document](https://github.com/fpirri/gothings-install#pre-installation-steps)  
 
 ----
 
