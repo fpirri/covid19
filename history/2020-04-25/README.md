@@ -4,8 +4,8 @@ A discussion about how some western countries fight with coronavirus
 <br />  
 
 ----
-[What this document discuss](https://github.com/fpirri/gothings-install#what-gothingsinstall-does)  
-[What you may find here](https://github.com/fpirri/gothings-install#What-you-may-find-here)  
+[What this document discuss](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#what-this-document-discuss)  
+[What you may find here](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#what-you-may-find-here)  
 [Where to start](https://github.com/fpirri/gothings-install#Where to start)  
 ----
 
@@ -26,7 +26,18 @@ What you may find here
 What this document discuss
 ----  
 
-* The amount of information you get in a single day regarding coronavirus is overwelming: what should you look at ? 
+* This section is under construction
+
+
+
+----
+
+<br />
+
+Where to start
+----  
+
+It is really very difficult to understand what is happening in our world because of the coronavirus! This is an attempt to dispel the fog caused by the numbers that are thrown to us many times a day by the various news programs. The idea was born from a discussion on the following forum: https://e-catworld.com/2020/03/27/covid-19-thread-3-26-2020-mats-lewan-on-the-case-of-sweden/
 
 
 ----
