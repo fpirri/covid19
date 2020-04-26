@@ -55,8 +55,30 @@ It does not seem correct to me to directly compare what happens in a country of 
 Following Mats's thoughts, I then reported the number of deaths per million inhabitants on the graph.  
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/2020-04-25%20Total%20Deaths%20per%20Million%20raw%20data.png">
+   
+Now USA appears to be the second least affected country among those examined.  
+However, there is something important to consider: it does not seem fair to compare countries like Italy, where the pandemic is nearing its peak with countries where it has just started.
+So, we should compare countries by counting the times since the start of the pandemic in each country.  
+But wait, how do you find the departure date?  
+One possible choice is the date of the first victim of the disease.  
+ However this date appears not very reliable.
+If we want to compare statistical events with each other we must use a characterizing moment that is quite similar for everyone.  
+In a totally arbitrary way I choose the moment in which the country exceeds 5 deaths per million inhabitants.   
+For the moment, I will postpone a discussion on this criterion further on.  
+We therefore define 'start' the day on which each country exceeds 5 dead and align the data of each country from the start forward. We thus obtain the following graph, in which the data of each country start for each from its 'start'.
+The X axis will then be called 'Days from start'.  
+The result is shown below.
 
-Now USA ....
+<img src="https://github.com/fpirri/covid19/raw/master/history/images/2020-04-25%20Countries%20Total%20Deaths%20per%20Million.png">
+  
+As you can see, the graph remains very similar to the previous one, but with countries overlapping with respect to their 'start' day.  
+Is there anything interesting in what we see?  
+In my opinion, we identify Spain as the most affected country and Germany as the least affected by the disease.
+The difference is truly remarkable: on the 30th day Spain presents 3.7 times the deaths per million of Germany.  
+
+
+
+
 ----
 <br />  
 
