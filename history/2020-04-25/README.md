@@ -47,7 +47,7 @@ Total Deaths per Country
 The site https://www.worldometers.info/coronavirus/#countries present many data. 
 
 ![Alt text](Raw data from worldometers site)
-<img src="https://github.com/fpirri/covid19/blob/master/charts/2020-04-25/2020-04-25%20Total%20Deaths%20raw%20data.png">
+<img src="history/images/2020-04-25 Total Deaths raw data.png">
 
 
 
