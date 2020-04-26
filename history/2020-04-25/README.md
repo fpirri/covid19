@@ -7,7 +7,7 @@ A discussion about how some western countries fight with coronavirus
 
 [What this document discuss](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#what-this-document-discuss)  
 [What you may find here](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#what-you-may-find-here)  
-[Where to start](https://github.com/fpirri/gothings-install#Where to start)  
+[Where to start](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#where-to-start)  
   
 ----
 
