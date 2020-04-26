@@ -27,12 +27,15 @@ What you may find here
 
 * The amount of information you get in a single day regarding coronavirus is overwelming: what should you look at ? 
 * Is there a way to use data available on the web to understand differences from a country to the next ?
-* Governements acted against Covid19 at different times with different actions, what consequences there are ?
-* What actions can we suggest to ameliorate the situation ?   
+* If the data we have are not reliable, can we, now or in the future, improve them in some way?
+* Governments have acted against COVID19 at different times with different actions, what consequences, if there have been, can be highlighted by the data ?
+* What do we have to prepare to act against the next flu ?
+ <br />
+  
 
 ----
 
-<br />
+
 
 Where to start
 ----  
@@ -49,7 +52,7 @@ The graph collects the following countries: Italy, Spain, France, Sweden, UK, US
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/2020-04-25%20Total%20Deaths%20raw%20data.png">
 
-Looking at the graph, the primacy is immediately assigned to the USA, which dominate all the other countries.  
+Looking at the graph, the primacy is immediately assigned to the USA, which dominates all the other countries.  
 But is that right?  
 It does not seem correct to me to directly compare what happens in a country of 331 million inhabitants with what happens in a country of 10 million inhabitants like Sweden.  
 Following Mats's thoughts, I then reported the number of deaths per million inhabitants on the graph.  
@@ -57,7 +60,7 @@ Following Mats's thoughts, I then reported the number of deaths per million inha
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/2020-04-25%20Total%20Deaths%20per%20Million%20raw%20data.png">
    
 Now USA appears to be the second least affected country among those examined.  
-However, there is something important to consider: it does not seem fair to compare countries like Italy, where the pandemic is nearing its peak with countries where it has just started.
+However, there is something important to consider: it does not seem fair to compare countries like Spain, where the pandemic is nearing its peak with countries where it has just started.
 So, we should compare countries by counting the times since the start of the pandemic in each country.  
 But wait, how do you find the departure date?  
 One possible choice is the date of the first victim of the disease.  
@@ -76,6 +79,43 @@ Is there anything interesting in what we see?
 In my opinion, we identify Spain as the most affected country and Germany as the least affected by the disease.
 The difference is truly remarkable: on the 30th day Spain presents 3.7 times the deaths per million of Germany.  
 
+Furthermore, some countries appear to have similar developments,
+Italy, France and UK, closer to Spain and USA and Sweden closer to Germany.  
+However, it appears difficult to extract comparative data from what is seen in the graph.  
+The worldometers website also reports data on daily deaths.
+These data can also be obtained from the graph above, as a difference of the totals of two successive days, as it is easy to verify.  
+So, we get the next graph.
+
+<img src="https://github.com/fpirri/covid19/raw/master/history/images/2020-04-25%20Countries%20Daily%20Deaths%20per%20Million.all.png">
+
+Oh no! There is too much data to understand something.
+So, let's leave Spain and Germany as extremes and add France to see what we get.
+
+<img src="https://github.com/fpirri/covid19/raw/master/history/images/2020-04-25%20Countries%20Daily%20Deaths%20per%20Million.SFG.png">
+
+Humm ...  
+You see, but it's not clear what.
+Let's try with the Sweden and USA group.
+
+<img src="https://github.com/fpirri/covid19/raw/master/history/images/2020-04-25%20Countries%20Daily%20Deaths%20per%20Million.SSUG.png">
+
+Well.   
+There are periodicities in the data that only lead to confusion. It appears that various countries enter data weekly. What could we do to improve the situation?  
+After a few experiments, a satisfactory result is obtained with a moving weighted average (Details below).
+
+<img src="https://github.com/fpirri/covid19/raw/master/history/images/2020-04-25%20Countries%20Daily%20Deaths%20per%20Million.wma.01.png">
+
+Although all seven countries are above, the confusion is significantly lessened.  
+So let's show the first group.
+
+<img src="https://github.com/fpirri/covid19/raw/master/history/images/2020-04-25%20Countries%20Daily%20Deaths%20per%20Million.wma.02.png">
+
+It is confirmed that the first group, Italy with France and the UK, is fairly homogeneous, considering that at the beginning and at the end of the period the moving average is less effective.  
+Let's move on to the second group, Sweden and USA.
+
+<img src="https://github.com/fpirri/covid19/raw/master/history/images/2020-04-25%20Countries%20Daily%20Deaths%20per%20Million.wma.03.png">
+
+Considering the weekly periodicity, very marked in Sweden, the second group also appears fairly homogeneous.
 
 
 
