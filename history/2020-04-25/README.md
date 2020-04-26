@@ -4,9 +4,20 @@ A discussion about how some western countries fight with coronavirus
 <br />  
 
 ----
+
 [What this document discuss](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#what-this-document-discuss)  
 [What you may find here](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#what-you-may-find-here)  
 [Where to start](https://github.com/fpirri/gothings-install#Where to start)  
+  
+----
+
+<br />
+
+What this document discuss
+----  
+
+* This section is under construction
+
 ----
 
 <br />
@@ -18,17 +29,6 @@ What you may find here
 * Is there a way to use data available on the web to understand differences from a country to the next ?
 * Governements acted against Covid19 at different times with different actions, what consequences there are ?
 * What actions can we suggest to ameliorate the situation ?   
-
-----
-
-<br />
-
-What this document discuss
-----  
-
-* This section is under construction
-
-
 
 ----
 
