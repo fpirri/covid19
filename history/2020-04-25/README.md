@@ -54,7 +54,9 @@ But is that right?
 It does not seem correct to me to directly compare what happens in a country of 331 million inhabitants with what happens in a country of 10 million inhabitants like Sweden.  
 Following Mats's thoughts, I then reported the number of deaths per million inhabitants on the graph.  
 
+<img src="https://github.com/fpirri/covid19/raw/master/history/images/2020-04-25%20Total%20Deaths%20per%20Million%20raw%20data.png">
 
+Now USA ....
 ----
 <br />  
 
