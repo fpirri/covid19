@@ -37,7 +37,18 @@ What you may find here
 Where to start
 ----  
 
-It is really very difficult to understand what is happening in our world because of the coronavirus! This is an attempt to dispel the fog caused by the numbers that are thrown to us many times a day by the various news programs. The idea was born from a discussion on the following forum: https://e-catworld.com/2020/03/27/covid-19-thread-3-26-2020-mats-lewan-on-the-case-of-sweden/
+It is really very difficult to understand what is happening in our world because of the coronavirus! 
+This is an attempt to dispel the fog caused by the numbers that are thrown to us many times a day by the various news programs. The idea was born from a discussion on the following forum: https://e-catworld.com/2020/03/27/covid-19-thread-3-26-2020-mats-lewan-on-the-case-of-sweden/
+  
+Mats Lewan looked at the number of deaths in any given day in several countries and shared is thoughts in the blog.
+So I looked for data on the website https://www.worldometers.info/coronavirus/#countries which presents a lot of data on almost all the nations of the world.
+The site places a lot of emphasis on the number of sick and healed, but also on the total deaths in each individual country.
+TV follows the same format and assigns the 'primacy' to the country with the highest number of deaths. Now it's up to the USA.
+The total number of deaths seems very important, so I took the data from the site and presented it on a single graph to better appreciate the differences.
+The graph collects the following countries: Italy, Spain, France, Sweden, UK, USA and Germany.
+
+[Alt text](Raw data from worldometers site)
+<img src="https://github.com/fpirri/covid19/raw/master/history/images/2020-04-25%20Total%20Deaths%20raw%20data.png">
 
 
 ----
@@ -73,8 +84,6 @@ Total Deaths per Country
 
 The site https://www.worldometers.info/coronavirus/#countries present many data. 
 
-![Alt text](Raw data from worldometers site)
-<img src="https://github.com/fpirri/covid19/raw/master/history/images/2020-04-25%20Total%20Deaths%20raw%20data.png">
 
 
 
