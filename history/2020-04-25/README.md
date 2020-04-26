@@ -8,6 +8,8 @@ A discussion about how some western countries fight with coronavirus
 [What this document discuss](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#what-this-document-discuss)  
 [What you may find here](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#what-you-may-find-here)  
 [Where to start](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#where-to-start)  
+[A second step](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#a-second-step)  
+[How to contribute](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#how-to-contribute)  
   
 ----
 
@@ -117,14 +119,35 @@ Let's move on to the second group, Sweden and USA.
 
 Considering the weekly periodicity, very marked in Sweden, the second group also appears fairly homogeneous.
 
+----
 
+<br />
+
+A second step
+----  
+
+* This section is under construction
 
 ----
 <br />  
 
 ----
-  
+
+<br />
+
+How to contribute
+----  
+
+* If you like, you can 'open an issue' on github (2nd element in the top menu)  
+* I will post a link to this document on the forum: https://e-catworld.com/
+You can comment there, if you like
+
 ----
+<br />  
+
+----
+
+
 
 PLEASE NOTE: this is WORK IN PROGRESS
 ===
@@ -132,7 +155,6 @@ PLEASE NOTE: this is WORK IN PROGRESS
 This document is very disorganized: I am trying to coordinate my thoughts, but I cannot find a common thread in the many things I read online.
 I need help. Do you have any suggestion?
 <br />
-If you like, you can 'open an issue' on github (2nd element in the top menu)
 
 
 ----
@@ -146,46 +168,13 @@ If you like, you can 'open an issue' on github (2nd element in the top menu)
 ----
 
 <br />
-
-Total Deaths per Country
-----  
-
-The site https://www.worldometers.info/coronavirus/#countries present many data. 
-
-
-
-
-https://github.com/fpirri/covid19/blob/master/charts/2020-04-25/2020-04-25%20Total%20Deaths%20raw%20data.png
-
-
-I choose to look at the number  of Deaths caused by Covid19 in many countries is
-* The amount of information you get in a single day regarding coronavirus is overwelming: what should you look at ? 
-* Is there a way to use data available on the web to understand differences from a country to the next ?
-* Governements acted against Covid19 at different times with different actions, what consequences there are ?
-* What actions can we suggest to ameliorate the situation ?   
-
-----
-
-<br />
-
-<br />
-
 ----
 
 
-<br />
-
+OLD POST in the eCat forum
 ----
 
-
-<br />
-
-----
-
-
-ROBA VECCHIA - Please disregard all the following
-----
-
+**Reported here for historical reasons**
 
 How do countries fight with coronavirus?
 
