@@ -142,7 +142,7 @@ So let's show the first group.
 It is confirmed that the first group, Italy with France and the UK, is fairly homogeneous, considering that at the beginning and at the end of the period the moving average is less effective.  
 Let's move on to the second group, Sweden and USA.
 
-<img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-26%20Countries%20Daily%20Deaths%20per%20Million.wma.ISFUG.png">
+<img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-26%20Countries%20Daily%20Deaths%20per%20Million.wma.SIFUG.png">
 
 Considering the weekly periodicity, very marked in Sweden, the second group also appears fairly homogeneous.
 
