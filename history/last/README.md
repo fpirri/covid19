@@ -120,27 +120,29 @@ So, let's leave Spain and Germany as extremes and add France to see what we get.
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-26%20Countries%20Daily%20Deaths%20per%20Million.SFG.png">
 
+
+
 Humm ...  
 You see, but it's not clear what.
 Let's try with the Sweden and USA group.
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-26%20Countries%20Daily%20Deaths%20per%20Million.SSUG.png">
 
-Well.   
+Damn ...   
 There are periodicities in the data that only lead to confusion. It appears that various countries enter data weekly. What could we do to improve the situation?  
 After a few experiments, a satisfactory result is obtained with a moving weighted average (Details below).
 
-<img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-26%20Countries%20Daily%20Deaths%20per%20Million.wma.01.png">
+<img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-26%20Countries%20Daily%20Deaths%20per%20Million.wma.all.png">
 
 Although all seven countries are above, the confusion is significantly lessened.  
 So let's show the first group.
 
-<img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-25%20Countries%20Daily%20Deaths%20per%20Million.wma.02.png">
+<img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-25%20Countries%20Daily%20Deaths%20per%20Million.wma.SSUG.png">
 
 It is confirmed that the first group, Italy with France and the UK, is fairly homogeneous, considering that at the beginning and at the end of the period the moving average is less effective.  
 Let's move on to the second group, Sweden and USA.
 
-<img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-26%20Countries%20Daily%20Deaths%20per%20Million.wma.03.png">
+<img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-26%20Countries%20Daily%20Deaths%20per%20Million.wma.ISFUG.png">
 
 Considering the weekly periodicity, very marked in Sweden, the second group also appears fairly homogeneous.
 
