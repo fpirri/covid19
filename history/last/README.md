@@ -18,31 +18,33 @@ A discussion about how some western countries fight with coronavirus
 What happened ?
 ----  
 
-* This section will be translated ASAP
   
-In Italia siamo tutti chiusi a casa nostra. Siamo inondati di notizie sul COVID19 dai continui notiziari televisivi, i giornali non parlano d'altro e noi stessi, nelle chiacchere (a distanza) con gli amici discutiamo (quasi) sempre del coronavirus.  
-Gli attori principali dei vari discorsi sono principalmente due:  i resoconti medici dagli ospedali e le azioni dei governanti.
-Terzi e distanti attori sono gli esperti, o presunti tali.  
+In Italy we are all at home. We are inundated with news on COVID19 from the continuous television news, the newspapers do not talk about anything else and we, in the chats (at a distance) with friends, we (almost) always discuss the coronavirus.  
+The main actors of the various speeches are mainly two: the medical reports from the hospitals and the actions of the rulers.  
+Third parties and distant actors are the experts, or presumed such.
 
-I resoconti medici sono molto coerenti: e' una guerra, abbiamo rischiato di perderla e non ne siamo ancora usciti.
-A parte i commenti piu' o meno desolanti non ci sono vere discussioni.  
+The medical reports are fairly coherent with each other: it's a war, we risked losing it and we haven't come out yet.
+Apart from the more or less bleak comments, there are no real discussions.
 
-Sulle politiche del governo si sono succedute varie fasi:
-1. Inizialmente, l'epidemia e' stata fortemente sottostimata
-2. Si comincia a dire che qualcosa dovra' essere fatto, comunque andra' tutto bene
-3. Diviene importante mostrare che si fa qualcosa, quindi si mettono restrizioni sui movimenti delle persone e si discute seriamente su cosa fare
-4. ... si ha un frenetico susseguirsi di decisioni nel governo e nelle varie amministrazioni, spesso contraddicendosi l'un l'altro
-5. Governo e popolazione si convincono che la tragedia e' epocale e si rassegnano a seguire una serie di misure per attenuare le conseguenze economiche del disastro.
-Comunque, una parte non trascurabile della popolazione rimane sparpagliata su ipotesi diverse e non si rassegna ad azioni comuni.  
+Various steps have followed on government policies:
+1. Initially, the epidemic was heavily underestimated
+2. Then the government begins to say that something will have to be done, however everything will be fine
+3. Then the government wants to show that it does something and imposes restrictions on people's movements and starts to debate what to do ...
+4. ... then there is a frantic succession of decisions in the government and in the various administrations, often contradicting each other ...
+5. ... finally, government and population are convinced that the tragedy is epoch-making and resign themselves to following a series of measures to mitigate the economic consequences of the disaster.  
 
-Una domanda viene spontanea: **quello che stiamo facendo e' basato su analisi scientifiche o sono solo reazioni istintive?**  
+However, a not negligible part of the population remains scattered on different hypotheses and does not resign itself to common actions.  
 
-Gli esperti ci stanno dando la risposta?  
-Quelli che vediamo in TV o che scrivono sui giornali appaiono spesso 'personaggi' in cerca di notorieta'. In effetti, la scienza non si fa in TV o sui giornali, ma conducendo esperimenti e, durante una pandemia, non e' facile.  
+A question comes naturally: **what are we doing is based on scientific analysis or is it based only on instinctive reactions?**  
 
-Visto che abbiamo tempo da perdere, facciamo un po' di scienza casalinga e vediamo tra noi se riusciamo a capire qualcosa di piu'.  
+Are the experts giving us the answer?
+Those we see on TV or who write in newspapers often appear 'characters' in search of notoriety. In fact, science is not done on TV or in newspapers, but by conducting experiments and, during a pandemic, it is not easy.  
 
-**Questo documento e' un tentativo di analizzare la situazione in un modo leggermente piu' scientifico che guardando la televisione.**
+There is also a strong suspicion that they treat us like children to whom it is good not to tell the naked and raw truth.  
+
+Since we have time to waste, let's do some home science and see if we can understand something more.
+
+**This document is an attempt to analyze the situation in a slightly more scientific way than watching television.**
  
 
 ----
