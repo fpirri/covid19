@@ -37,7 +37,7 @@ However, a not negligible part of the population remains scattered on different 
 
 A question comes naturally: **what are we doing is based on scientific analysis or is it based only on instinctive reactions?**  
 
-Are the experts giving us the answer?
+Are the experts giving us the answer?  
 Those we see on TV or who write in newspapers often appear 'characters' in search of notoriety. In fact, science is not done on TV or in newspapers, but by conducting experiments and, during a pandemic, it is not easy.  
 
 There is also a strong suspicion that they treat us like children to whom it is good not to tell the naked and raw truth.  
@@ -76,15 +76,15 @@ Mats Lewan looked at the number of deaths in any given day in several countries 
 So I looked for data on the website https://www.worldometers.info/coronavirus/#countries which presents a lot of data on almost all the nations of the world.  
 The site places a lot of emphasis on the number of sick and healed, but also on the total deaths in each individual country.  
 TV follows the same format and assigns the 'primacy' to the country with the highest number of deaths. Now it's up to the USA.  
-The total number of deaths seems very important, so I took the data from the site and presented it on a single graph to better appreciate the differences.  
-The graph collects the following countries: Italy, Spain, France, Sweden, UK, USA and Germany.  
+The total number of deaths seems very important, so I took the data from the site and presented it on a single chart to better appreciate the differences.  
+The chart collects the following countries: Italy, Spain, France, Sweden, UK, USA and Germany.  
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Total%20Deaths%20raw%20data.png">
 
-Looking at the graph, the primacy is immediately assigned to the USA, which dominates all the other countries.  
+Looking at the chart, the primacy is immediately assigned to the USA, which dominates all the other countries.  
 But is that right?  
 It does not seem correct to me to directly compare what happens in a country of 331 million inhabitants with what happens in a country of 10 million inhabitants like Sweden.  
-Following Mats's thoughts, I then reported the number of deaths per million inhabitants on the graph.  
+Following Mats's thoughts, I then reported the number of deaths per million inhabitants on the chart.  
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Total%20Deaths%20per%20Million%20raw%20data.png">
    
@@ -97,23 +97,23 @@ One possible choice is the date of the first victim of the disease.
 If we want to compare statistical events with each other we must use a characterizing moment that is quite similar for everyone.  
 In a totally arbitrary way I choose the moment in which the country exceeds 5 deaths per million inhabitants.   
 For the moment, I will postpone a discussion on this criterion further on.  
-We therefore define 'start' the day on which each country exceeds 5 dead and align the data of each country from the start forward. We thus obtain the following graph, in which the data of each country start for each from its 'start'.
+We therefore define 'start' the day on which each country exceeds 5 dead and align the data of each country from the start forward. We thus obtain the following chart, in which the data of each country start for each from its 'start'.
 The X axis will then be called 'Days from start'.  
 The result is shown below.
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Total%20Deaths%20per%20Million.png">
   
-As you can see, the graph remains very similar to the previous one, but with countries overlapping with respect to their 'start' day.  
+As you can see, the chart remains very similar to the previous one, but with countries overlapping with respect to their 'start' day.  
 Is there anything interesting in what we see?  
 In my opinion, we identify Spain as the most affected country and Germany as the least affected by the disease.
-The difference is truly remarkable: on the 30th day Spain presents 3.7 times the deaths per million of Germany.  
+The difference is truly remarkable: on the 30th day Spain presents 5.3 times the deaths per million of Germany.  
 
 Furthermore, some countries appear to have similar developments,
 Italy, France and UK, closer to Spain and USA and Sweden closer to Germany.  
-However, it appears difficult to extract comparative data from what is seen in the graph.  
+However, it appears difficult to extract comparative data from what is seen in the chart.  
 The worldometers website also reports data on daily deaths.
-These data can also be obtained from the graph above, as a difference of the totals of two successive days, as it is easy to verify.  
-So, we get the next graph.
+These data can also be obtained from the chart above, as a difference of the totals of two successive days, as it is easy to verify.  
+So, we get the next chart.
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.all.png">
 
@@ -147,6 +147,12 @@ Let's move on to the second group, Sweden and USA.
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.wma.SSUG.png">
 
 Considering the weekly periodicity, very marked in Sweden, the second group also appears fairly homogeneous.
+
+si raggiunge una veloce risposta ?
+
+At this moment I am perplexed. I was hoping to find the classic bell curve with a long tail tending to very low values.
+The curve had to reach the initial value in about 3 times the time from start to maximum.
+It's early to say, but I get the impression it may take longer.
 
 ----
 
