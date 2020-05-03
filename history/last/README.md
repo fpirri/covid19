@@ -86,7 +86,7 @@ TV follows the same format and assigns the 'primacy' to the country with the hig
 The total number of deaths seems very important, so I took the data from the site and presented it on a single chart to better appreciate the differences.  
 The chart collects the following countries: Italy, Spain, France, Sweden, UK, USA and Germany.  
 
-<img src="http://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Total%20Deaths%20raw%20data.png">
+<img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Total%20Deaths%20raw%20data.png">
 
 Looking at the chart, the primacy is immediately assigned to the USA, which dominates all the other countries.  
 But is that right?  
