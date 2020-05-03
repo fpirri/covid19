@@ -76,7 +76,7 @@ What you may find here
 My first steps
 ----  
 
-It is really very difficult to understand what is happening in our world because of the coronavirus! 
+It is really very difficult to understand what is happening in our world because of the coronavirus!   
 This is an attempt to dispel the fog caused by the numbers that are thrown to us many times a day by the various news programs. The idea was born from a discussion on the following forum: https://e-catworld.com/2020/03/27/covid-19-thread-3-26-2020-mats-lewan-on-the-case-of-sweden/
   
 Mats Lewan looked at the number of deaths in any given day in several countries and shared is thoughts in the blog.  
@@ -85,10 +85,6 @@ The site places a lot of emphasis on the number of sick and healed, but also on 
 TV follows the same format and assigns the 'primacy' to the country with the highest number of deaths. Now it's up to the USA.  
 The total number of deaths seems very important, so I took the data from the site and presented it on a single chart to better appreciate the differences.  
 The chart collects the following countries: Italy, Spain, France, Sweden, UK, USA and Germany.  
-
-![alt text](http://path/to/img.jpg "Title")
-
-![Total Deaths - raw data](http://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Total%20Deaths%20raw%20data.png "Total number of dead people in the country")
 
 <img src="http://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Total%20Deaths%20raw%20data.png">
 
