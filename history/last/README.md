@@ -7,12 +7,19 @@ A discussion about how some western countries fight with coronavirus
 
 [What happened ?](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#what-happened-?)  
 [What you may find here](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#what-you-may-find-here)  
-[Where to start](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#where-to-start)  
-[A second step](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#a-second-step)  
+[My first steps](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#my-first-steps)  
+[Let's analyze !](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#Let's-analyze-!)  
+[Another step](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#a-second-step)  
 [How to contribute](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#how-to-contribute)  
+
+[DETAILS](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#how-to-contribute)  
   
 ----
-
+I started writing this document as a personal reflection, trying to understand something about the ongoing pandemic.
+I wondered how effective the measures of the governments of the various countries were and if they had been the best.
+I have examined the official statistics relating to COVID19 and have documented myself. I discovered a good number of epidemiomogical theories in the last century that talked about herd immunity, social distancing and much more by inserting a series of formulas in the mixture.  
+The history of this phase is in the section [My first steps](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#my-first-steps) below.  
+  
 <br />
 
 What happened ?
@@ -66,7 +73,7 @@ What you may find here
 
 
 
-Where to start
+My first steps
 ----  
 
 It is really very difficult to understand what is happening in our world because of the coronavirus! 
@@ -79,7 +86,11 @@ TV follows the same format and assigns the 'primacy' to the country with the hig
 The total number of deaths seems very important, so I took the data from the site and presented it on a single chart to better appreciate the differences.  
 The chart collects the following countries: Italy, Spain, France, Sweden, UK, USA and Germany.  
 
-<img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Total%20Deaths%20raw%20data.png">
+![alt text](http://path/to/img.jpg "Title")
+
+![Total Deaths - raw data](http://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Total%20Deaths%20raw%20data.png "Total number of dead people in the country")
+
+<img src="http://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Total%20Deaths%20raw%20data.png">
 
 Looking at the chart, the primacy is immediately assigned to the USA, which dominates all the other countries.  
 But is that right?  
@@ -97,7 +108,7 @@ One possible choice is the date of the first victim of the disease.
 If we want to compare statistical events with each other we must use a characterizing moment that is quite similar for everyone.  
 In a totally arbitrary way I choose the moment in which the country exceeds 5 deaths per million inhabitants.   
 For the moment, I will postpone a discussion on this criterion further on.  
-We therefore define 'start' the day on which each country exceeds 5 dead and align the data of each country from the start forward. We thus obtain the following chart, in which the data of each country start for each from its 'start'.
+We therefore define 'start' the day on which each country exceeds 5 dead per million and align the data of each country from the start forward. We thus obtain the following chart, in which the data of each country starts for each one from its 'start'.
 The X axis will then be called 'Days from start'.  
 The result is shown below.
 
@@ -148,17 +159,34 @@ Let's move on to the second group, Sweden and USA.
 
 Considering the weekly periodicity, very marked in Sweden, the second group also appears fairly homogeneous.
 
-si raggiunge una veloce risposta ?
+All the graphs present an initial phase of rapid growth. Then growth slows down to a maximum, followed by a slow descent.
+The main differences concern the size of the maximum, with a worse / better ratio of about 6 times.  
+The duration seems surprisingly similar for all countries, with the peaks a few days apart. On TV I had received a message of great difference from one country to another.  
 
-At this moment I am perplexed. I was hoping to find the classic bell curve with a long tail tending to very low values.
-The curve had to reach the initial value in about 3 times the time from start to maximum.
-It's early to say, but I get the impression it may take longer.
+**Do I reached an answer?**  
+
+No, not really, at this moment I am perplexed.  
+Obviously, a more in-depth analysis is needed.
 
 ----
 
 <br />
 
-A second step
+Let's analyze !
+----  
+
+* This section is under construction  
+Here I will try to add other parameters, such as the number of patients and others, in light of some of the theories that are being discussed.
+
+----
+
+
+
+----
+
+<br />
+
+Another step
 ----  
 
 * This section is under construction
@@ -177,6 +205,17 @@ How to contribute
 * I will post a link to this document on the forum: https://e-catworld.com/
 You can comment there, if you like
 
+<br />
+
+DETAILS
+----  
+
+* This section is under construction  
+
+This section is organized into several parts. Each will discuss a particular point that needs a specific discussion.  
+For example: why start with the dead?  
+Or: why carry out the comparison starting from the value of 5 deaths per million inhabitants?  
+
 ----
 <br />  
 
@@ -187,21 +226,30 @@ You can comment there, if you like
 PLEASE NOTE: this is WORK IN PROGRESS
 ===
 
-This document is very disorganized: I am trying to coordinate my thoughts, but I cannot find a common thread in the many things I read online.
-I need help. Do you have any suggestion?
+This document is incomplete: I am trying to coordinate my thoughts, but I cannot find a common thread in the many things I read online.
+I need help.  
+ Do you have any suggestion?
 <br />
 
 
 ----
 
-Tentative sections
+Tentative sections.  
+I accept suggestions.  
 
-[How you can contribute](https://github.com/fpirri/gothings-install#How-you-can-contribute)  
-[Document short description](https://github.com/fpirri/gothings-install#gothingssystem-short-description)  
-[Choose what to look at](https://github.com/fpirri/gothings-install#gothingssystem-short-description)  
-[Total Deaths per Country](https://github.com/fpirri/gothings-install#gothingssystem-short-description)  
-[Why I write this document](https://github.com/fpirri/gothings-install#pre-installation-steps)  
-[What this document discuss](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#what-this-document-discuss)  
+[Document short description]()  
+Not easy!  
+  
+  
+[Herd immunity]()  
+Is it applicable?  
+  
+
+[Why I write this document]()  
+Probably thi is not important.
+  
+
+[What this document discuss]()  
 
 ----
 
