@@ -79,9 +79,6 @@ My first steps
 It is really very difficult to understand what is happening in our world because of the coronavirus!   
 I started discussing an idea by Mats Lewan on a blog. 
 [==> DETAILS](https://github.com/fpirri/covid19/tree/master/history/last/#details-ecat-blog-mats-lewan)  
-
-
-This is an attempt to dispel the fog caused by the numbers that are thrown to us many times a day by the various news programs. The idea was born from a discussion on the following forum: https://e-catworld.com/2020/03/27/covid-19-thread-3-26-2020-mats-lewan-on-the-case-of-sweden/
   
 Mats Lewan looked at the number of deaths in any given day in several countries and shared is thoughts in the blog.  
 So I looked for data on the website https://www.worldometers.info/coronavirus/#countries which presents a lot of data on almost all the nations of the world.  
@@ -262,6 +259,7 @@ Probably thi is not important.
 
 On April 26, I commented on an idea by Mats Lewan on the blog -eCat-.
 As a reference, I report below what I wrote on the blog.
+You find below a link to the blog. Please search for 'fpirri' to find my post.
 
 ----
 [eCat Blog](https://e-catworld.com/2020/03/27/covid-19-thread-3-26-2020-mats-lewan-on-the-case-of-sweden/)  
@@ -271,7 +269,6 @@ How do countries fight with coronavirus?
 
 Let's have a look at total deaths in a few western coountries:
 
-![Alt text](this is a test!)
 <img src="https://github.com/fpirri/covid19/blob/master/charts/2020-04-25/2020-04-25%20Countries%20Daily%20Deaths%20per%20Million.01.png">
 
 ref.: https://e-catworld.com/2020/03/27/covid-19-thread-3-26-2020-mats-lewan-on-the-case-of-sweden/
