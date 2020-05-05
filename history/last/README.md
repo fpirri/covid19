@@ -216,19 +216,6 @@ This section is organized into several parts. Each will discuss a particular poi
 For example: why start with the dead?  
 Or: why carry out the comparison starting from the value of 5 deaths per million inhabitants?  
 
-# DETAILS eCat blog Mats Lewan
-
-bla bla ...
-I started discussing an idea by Mats Lewan on a blog. 
-
-- - link al forum - -
-
-This is an attempt to dispel the fog caused by the numbers that are thrown to us many times a day by the various news programs. The idea was born from a discussion on the following forum: https://e-catworld.com/2020/03/27/covid-19-thread-3-26-2020-mats-lewan-on-the-case-of-sweden/
-
-metti un link al vecchio blog ...
-[Old Blog](https://github.com/fpirri/covid19/tree/master/history/last/#old-post-in-the- ecat-forum)  
-
-
 
 ----
 <br />  
@@ -271,9 +258,19 @@ Probably thi is not important.
 ----
 
 
-# OLD POST in the eCat forum
+# DETAILS eCat blog Mats Lewan
 
-**Reported here for historical reasons**
+bla bla ...
+I started discussing an idea by Mats Lewan on a blog. 
+
+- - link al forum - -
+
+This is an attempt to dispel the fog caused by the numbers that are thrown to us many times a day by the various news programs. The idea was born from a discussion on the following forum: https://e-catworld.com/2020/03/27/covid-19-thread-3-26-2020-mats-lewan-on-the-case-of-sweden/
+
+metti un link al vecchio blog ...
+[Old Blog](https://github.com/fpirri/covid19/tree/master/history/last/#old-post-in-the- ecat-forum)  
+Please find below the old discussion in the blog.
+
 
 How do countries fight with coronavirus?
 
