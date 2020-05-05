@@ -162,8 +162,15 @@ The duration seems surprisingly similar for all countries, with the peaks a few 
 
 **Do I reached an answer?**  
 
-No, not really. At this moment I am perplexed.  
-Obviously, a more in-depth analysis is needed.
+NO, not really.  
+Maybe I just clarified the questions to ask.
+Why are the curves so similar?  
+Why do countermeasures seem to have little influence on the times?  
+Why is the descent much slower than the ascent?  
+What other parameters should I look at immediately?  
+But above all, what should we know about the virus that we do not yet know for sure?  
+What should we have done and we haven't done enough?  
+
 
 ----
 
@@ -277,7 +284,7 @@ It is really very difficult to understand what is happening in our world because
 
 Mats Lewan raised a very interesting question, which I rewrite in this way: are the measures taken by the various governments effective? The choice to consider deaths as an essential element for a first assessment of the COVID19 crisis is a good choice: good Mats!
 
-The crisis consists in a phase of exponential expansion of the infected people and dead, up to a maximum which will be followed by a phase of decrease, which may reach zero or settle on endemic values. I consider it essential to evaluate the extent of the crisis with a formal and objective method. I propose to consider as an efficacy parameter the number of days that have passed since the beginning of the infection until reaching the maximum number of deaths in a day, before the decrease in the number of daily deaths. Since this is a statistical phenomenon, the numbers must be large enough. I therefore propose the following criteria:
+The crisis consists in a phase of exponential expansion of the infected people and dead, up to a maximum which will be followed by a phase of decrease, which may reach zero or settle on endemic values. I consider it essential to evaluate the extent of the crisis with a formal and objective method. I propose to consider as an efficacy parameter the number of days that have passed since the beginning of the infection until reaching the maximum number of deaths in a day, before the decrease in the number of daily deaths. Since this is a statistical phenomenon, the numbers must be large enough. I therefore propose the following crhttp://blog.rubinetteria.com/come-sciogliere-le-incrostazioni-del-sapone/iteria:
 
     the day on which the total deaths in a country exceeds the threshold of 5 deaths per million inhabitants is taken as the day of the start of the crisis;
     the end of the period will be taken on the day when the average for the following week is lower than the average for the week preceding the day in question.
