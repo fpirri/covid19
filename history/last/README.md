@@ -245,11 +245,14 @@ DETAILS
 ----  
 
 * This section is under construction  
-
+ 
+ 
 This section is organized into several parts. Each will discuss a particular point that needs a specific discussion.  
 For example: why start with the dead?  
 Or: why carry out the comparison starting from the value of 5 deaths per million inhabitants?  
 <br />
+
+
 ----
 
 
