@@ -5,20 +5,20 @@ A discussion about how some western countries fight with coronavirus
 
 ----
 
-[What happened ?](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#what-happened-?)  
-[What you may find here](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#what-you-may-find-here)  
-[My first steps](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#my-first-steps)  
-[Let's analyze !](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#Let's-analyze-!)  
-[Another step](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#a-second-step)  
-[How to contribute](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#how-to-contribute)  
+[What happened ?](https://github.com/fpirri/covid19/tree/master/history/last#what-happened-)  
+[What you may find here](https://github.com/fpirri/covid19/tree/master/history/last#what-you-may-find-here)  
+[My first steps](https://github.com/fpirri/covid19/tree/master/history/last#my-first-steps)  
+[Let's analyze !](https://github.com/fpirri/covid19/tree/master/history/last#lets-analyze-)  
+[Another step](https://github.com/fpirri/covid19/tree/master/history/last/#a-second-step)  
+[How to contribute](https://github.com/fpirri/covid19/tree/master/history/last#how-to-contribute)  
 
-[DETAILS](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#how-to-contribute)  
+[DETAILS](https://github.com/fpirri/covid19/tree/master/history/last/#how-to-contribute)  
   
 ----
 I started writing this document as a personal reflection, trying to understand something about the ongoing pandemic.
 I wondered how effective the measures of the governments of the various countries were and if they had been the best.
 I have examined the official statistics relating to COVID19 and have documented myself. I discovered a good number of epidemiomogical theories in the last century that talked about herd immunity, social distancing and much more by inserting a series of formulas in the mixture.  
-The history of this phase is in the section [My first steps](https://github.com/fpirri/covid19/tree/master/history/2020-04-25#my-first-steps) below.  
+The history of this phase is in the section [My first steps](https://github.com/fpirri/covid19/tree/master/history/last/#my-first-steps) below.  
   
 <br />
 
@@ -156,12 +156,12 @@ Let's move on to the second group, Sweden and USA.
 Considering the weekly periodicity, very marked in Sweden, the second group also appears fairly homogeneous.
 
 All the graphs present an initial phase of rapid growth. Then growth slows down to a maximum, followed by a slow descent.
-The main differences concern the size of the maximum, with a worse / better ratio of about 6 times.  
+The main differences concern the size of the maximum, with a worse / better ratio of about 4 times.  
 The duration seems surprisingly similar for all countries, with the peaks a few days apart. On TV I had received a message of great difference from one country to another.  
 
 **Do I reached an answer?**  
 
-No, not really, at this moment I am perplexed.  
+No, not really. At this moment I am perplexed.  
 Obviously, a more in-depth analysis is needed.
 
 ----
