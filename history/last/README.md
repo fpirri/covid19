@@ -169,13 +169,14 @@ The duration seems surprisingly similar for all countries, with the peaks a few 
 **Do I reached an answer?**  
 
 NO, not really.  
-Maybe I just clarified the questions to ask:  
+I now have many more question to answer, such as:
 Why are the curves so similar?  
 Why do countermeasures seem to have little influence on the times?  
 Why is the descent much slower than the ascent?  
 What other parameters should I look at immediately?  
 What should we have done and we haven't done enough?  
-But above all, what should we know about the virus that we do not yet know for sure?  
+I will start next section with the most important question in my mind.
+
 
 
 ----
@@ -189,24 +190,12 @@ Here I will try to add other parameters, such as the number of patients and othe
 
 ----
 
-Starting with the last, but most important of the questions above:
-What should we know about COVID19 and what we don't really know?  
+The first question we have to ask ourself is:
+What do we know about COVID19 and what should we know better about it?
 The answer is disheartening: it seems that the important parameters are either unknown or very inaccurately known.
 To understand this, I had to first study some epidemiological theories.
-[==> DETAILS: the teory](https://github.com/fpirri/covid19/tree/master/history/last/#details-epidiemology)  
+[==> DETAILS: the teory](https://github.com/fpirri/covid19/tree/master/history/last/#details-epidemiology)  
 
-Negli ultimi 100 anni si e' tentato di ottenere modelli matematici formali per analizzare l'andamento delle epidemie. Lo scopo principale del modello matematico e' quello di individuare a priori l'efficacia delle misure preventive che si vogliono usare.
-Senza entrare troppo nello specifico, i modelli dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:
-* M    M
-* S    Susceptible
- * E    Exposed
- * I    Infected
- * R     Removed
- I modelli studiano  i passaggi da una classe all'altra per gli individui in una popolazione assegnata.
- Su internet troviamo il modello SIR, cioe' il modello Suscettibile-Infected-Removed ed altri.
- DETAILS
-  
-  There are many modifications of the SIR model, including those that include births and deaths, where upon recovery there is no immunity (SIS model), where immunity lasts only for a short period of time (SIRS), where there is a latent period of the disease where the person is not infectious (SEIS and SEIR), and where infants can be born with immunity (MSIR). 
   
 ----
 
@@ -271,6 +260,20 @@ Senza entrare troppo nello specifico, i modelli dividono la popolazione in class
  DETAILS
   
   There are many modifications of the SIR model, including those that include births and deaths, where upon recovery there is no immunity (SIS model), where immunity lasts only for a short period of time (SIRS), where there is a latent period of the disease where the person is not infectious (SEIS and SEIR), and where infants can be born with immunity (MSIR). 
+
+Negli ultimi 100 anni si e' tentato di ottenere modelli matematici formali per analizzare l'andamento delle epidemie. Lo scopo principale del modello matematico e' quello di individuare a priori l'efficacia delle misure preventive che si vogliono usare.
+Senza entrare troppo nello specifico, i modelli dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:
+* M    M
+* S    Susceptible
+ * E    Exposed
+ * I    Infected
+ * R     Removed
+ I modelli studiano  i passaggi da una classe all'altra per gli individui in una popolazione assegnata.
+ Su internet troviamo il modello SIR, cioe' il modello Suscettibile-Infected-Removed ed altri.
+ DETAILS
+  
+  There are many modifications of the SIR model, including those that include births and deaths, where upon recovery there is no immunity (SIS model), where immunity lasts only for a short period of time (SIRS), where there is a latent period of the disease where the person is not infectious (SEIS and SEIR), and where infants can be born with immunity (MSIR). 
+
 
 ???????  
 
