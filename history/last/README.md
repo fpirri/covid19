@@ -57,7 +57,9 @@ Since we have time to waste, let's do some home science and see if we can unders
 ----
 
 <br />
-
+Cominciando dall'ultima, ma piu' importante delle domande sopra:
+Cosa dovremmo sapere del COVID19 e che in realta' non sappiamo?
+La risposta e' sconsolante: sembra che i parametri importanti siano o sconosciuti o conosciuti in modo molto impreciso.
 What you may find here
 ----  
 
@@ -103,7 +105,9 @@ But wait, how do you find the departure date?
 One possible choice is the date of the first victim of the disease.  
  However this date appears not very reliable.
 If we want to compare statistical events with each other we must use a characterizing moment that is quite similar for everyone.  
-In a totally arbitrary way I choose the moment in which the country exceeds 5 deaths per million inhabitants.   
+In a totally arbitrary way I choose the moment in which the coCominciando dall'ultima, ma piu' importante delle domande sopra:
+Cosa dovremmo sapere del COVID19 e che in realta' non sappiamo?
+La risposta e' sconsolante: sembra che i parametri importanti siano o sconosciuti o conosciuti in modo molto impreciso.untry exceeds 5 deaths per million inhabitants.   
 For the moment, I will postpone a discussion on this criterion further on.  
 We therefore define 'start' the day on which each country exceeds 5 dead per million and align the data of each country from the start forward. We thus obtain the following chart, in which the data of each country starts for each one from its 'start'.
 The X axis will then be called 'Days from start'.  
@@ -145,7 +149,9 @@ After a few experiments, a satisfactory result is obtained with a moving weighte
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.wma.all.png">
 
 Although all seven countries are above, the confusion is significantly lessened.  
-So let's show the first group.
+So let's show the first group.Cominciando dall'ultima, ma piu' importante delle domande sopra:
+Cosa dovremmo sapere del COVID19 e che in realta' non sappiamo?
+La risposta e' sconsolante: sembra che i parametri importanti siano o sconosciuti o conosciuti in modo molto impreciso.
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.wma.SIFUG.png">
 
@@ -163,13 +169,13 @@ The duration seems surprisingly similar for all countries, with the peaks a few 
 **Do I reached an answer?**  
 
 NO, not really.  
-Maybe I just clarified the questions to ask.
+Maybe I just clarified the questions to ask:  
 Why are the curves so similar?  
 Why do countermeasures seem to have little influence on the times?  
 Why is the descent much slower than the ascent?  
 What other parameters should I look at immediately?  
-But above all, what should we know about the virus that we do not yet know for sure?  
 What should we have done and we haven't done enough?  
+But above all, what should we know about the virus that we do not yet know for sure?  
 
 
 ----
@@ -178,17 +184,41 @@ What should we have done and we haven't done enough?
 
 Let's analyze !
 ----  
-
 * This section is under construction  
-Here I will try to add other parameters, such as the number of patients and others, in light of some of the theories that are being discussed.
+Here I will try to add other parameters, such as the number of patients and others, in light of some of the theories that are being discussed.  
 
 ----
 
+Starting with the last, but most important of the questions above:
+What should we know about COVID19 and what we don't really know?  
+The answer is disheartening: it seems that the important parameters are either unknown or very inaccurately known.
+To understand this, I had to first study some epidemiological theories.
+[==> DETAILS: the teory](https://github.com/fpirri/covid19/tree/master/history/last/#details-epidiemology)  
 
-
+Negli ultimi 100 anni si e' tentato di ottenere modelli matematici formali per analizzare l'andamento delle epidemie. Lo scopo principale del modello matematico e' quello di individuare a priori l'efficacia delle misure preventive che si vogliono usare.
+Senza entrare troppo nello specifico, i modelli dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:
+* M    M
+* S    Susceptible
+ * E    Exposed
+ * I    Infected
+ * R     Removed
+ I modelli studiano  i passaggi da una classe all'altra per gli individui in una popolazione assegnata.
+ Su internet troviamo il modello SIR, cioe' il modello Suscettibile-Infected-Removed ed altri.
+ DETAILS
+  
+  There are many modifications of the SIR model, including those that include births and deaths, where upon recovery there is no immunity (SIS model), where immunity lasts only for a short period of time (SIRS), where there is a latent period of the disease where the person is not infectious (SEIS and SEIR), and where infants can be born with immunity (MSIR). 
+  
 ----
 
 <br />
+
+----
+[==> DETAILS](https://github.com/fpirri/covid19/tree/master/history/last/#details)  
+  
+----
+
+<br />
+
 
 Another step
 ----  
@@ -206,8 +236,8 @@ How to contribute
 ----  
 
 * If you like, you can 'open an issue' on github (2nd element in the top menu)  
-* I will post a link to this document on the forum: https://e-catworld.com/
-You can comment there, if you like
+* I will post about this document on the forum: https://e-catworld.com/
+You can comment there, if you like.
 
 <br />
 
@@ -219,11 +249,30 @@ DETAILS
 This section is organized into several parts. Each will discuss a particular point that needs a specific discussion.  
 For example: why start with the dead?  
 Or: why carry out the comparison starting from the value of 5 deaths per million inhabitants?  
-
-
+<br />
 ----
-<br />  
 
+
+# DETAILS: Epidemiology
+
+???????  
+
+Senza entrare troppo nello specifico, i modelli dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:
+* M    M
+* S    Susceptible
+ * E    Exposed
+ * I    Infected
+ * R     Removed
+ I modelli studiano  i passaggi da una classe all'altra per gli individui in una popolazione assegnata.
+ Su internet troviamo il modello SIR, cioe' il modello Suscettibile-Infected-Removed ed altri.
+ DETAILS
+  
+  There are many modifications of the SIR model, including those that include births and deaths, where upon recovery there is no immunity (SIS model), where immunity lasts only for a short period of time (SIRS), where there is a latent period of the disease where the person is not infectious (SEIS and SEIR), and where infants can be born with immunity (MSIR). 
+
+???????  
+
+
+<br />  
 ----
 
 
