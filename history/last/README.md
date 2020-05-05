@@ -260,17 +260,12 @@ Probably thi is not important.
 
 # DETAILS eCat blog Mats Lewan
 
-bla bla ...
-I started discussing an idea by Mats Lewan on a blog. 
+On April 26, I commented on an idea by Mats Lewan on the blog -eCat-.
+As a reference, I report below what I wrote on the blog.
 
-- - link al forum - -
-
-This is an attempt to dispel the fog caused by the numbers that are thrown to us many times a day by the various news programs. The idea was born from a discussion on the following forum: https://e-catworld.com/2020/03/27/covid-19-thread-3-26-2020-mats-lewan-on-the-case-of-sweden/
-
-metti un link al vecchio blog ...
-[Old Blog](https://github.com/fpirri/covid19/tree/master/history/last/#old-post-in-the- ecat-forum)  
-Please find below the old discussion in the blog.
-
+----
+[eCat Blog](https://e-catworld.com/2020/03/27/covid-19-thread-3-26-2020-mats-lewan-on-the-case-of-sweden/)  
+----
 
 How do countries fight with coronavirus?
 
@@ -278,9 +273,6 @@ Let's have a look at total deaths in a few western coountries:
 
 ![Alt text](this is a test!)
 <img src="https://github.com/fpirri/covid19/blob/master/charts/2020-04-25/2020-04-25%20Countries%20Daily%20Deaths%20per%20Million.01.png">
-
-
-ref.: https://stackoverflow.com/questions/13808020/include-an-svg-hosted-on-github-in-markdown/16462143#16462143
 
 ref.: https://e-catworld.com/2020/03/27/covid-19-thread-3-26-2020-mats-lewan-on-the-case-of-sweden/
 
