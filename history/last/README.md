@@ -26,7 +26,7 @@ What happened ?
 ----  
 
   
-2020-04-28 - In Italy we are all at home. We are inundated with news on COVID19 from the continuous television news, the newspapers do not talk about anything else and we, in the chats (at a distance) with friends, we (almost) always discuss the coronavirus.  
+2020-04-28 - In Italy we are all at home. We are inundated with news on COVID19 from the continuous television news, the newspapers do not talk about anything else and, in the chats (at a distance) with friends, we (almost) always discuss the coronavirus.  
 The main actors of the various speeches are mainly two: the medical reports from the hospitals and the actions of the rulers.  
 Third parties and distant actors are the experts, or presumed such.
 
@@ -47,7 +47,7 @@ A question comes naturally: **what are we doing is based on scientific analysis 
 Are the experts giving us the answer?  
 Those we see on TV or who write in newspapers often appear 'characters' in search of notoriety. In fact, science is not done on TV or in newspapers, but by conducting experiments and, during a pandemic, it is not easy.  
 
-There is also a strong suspicion that they treat us like children to whom it is good not to tell the naked and raw truth.  
+There is also a strong suspicion that **they treat us like children** to whom it is good not to tell the naked and raw truth.  
 
 Since we have time to waste, let's do some home science and see if we can understand something more.
 
@@ -161,18 +161,18 @@ Considering the weekly periodicity, very marked in Sweden, the second group also
 
 All the graphs present an initial phase of rapid growth. Then growth slows down to a maximum, followed by a slow descent.
 The main differences concern the size of the maximum, with a worse / better ratio of about 4 times.  
-The duration seems surprisingly similar for all countries, with the peaks a few days apart. On TV I had received a message of great difference from one country to another.  
+The ascent duration seems surprisingly similar for all countries, with the peaks a few days apart. On TV I had received a message of great difference from one country to another.  
 
 **Do I reached an answer?**  
 
 NO, not really.  
-I now have many more question to answer, such as:
+I now have many more question to answer, such as:  
 Why are the curves so similar?  
 Why do countermeasures seem to have little influence on the times?  
 Why is the descent much slower than the ascent?  
 What other parameters should I look at immediately?  
 What should we have done and we haven't done enough?  
-I will start next section with the most important question in my mind.
+Anyway, I will start next section with the most important new question in my mind.
 
 
 
