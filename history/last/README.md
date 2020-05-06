@@ -77,7 +77,7 @@ I started discussing an idea by Mats Lewan on a blog.
 [==> DETAILS: the blog post](https://github.com/fpirri/covid19/tree/master/history/last/#details-ecat-blog-mats-lewan)  
   
 Mats Lewan looked at the number of deaths in any given day in several countries and shared is thoughts in the blog.  
-[==> DETAILS: why to look at death](https://github.com/fpirri/covid19/tree/master/history/last/#why-to-look-at-death)  
+[==> DETAILS: why to look at death](https://github.com/fpirri/covid19/tree/master/history/last/#details-why-to-look-at-death)
 
 So I looked for data on the website https://www.worldometers.info/coronavirus/#countries which presents a lot of data on almost all the nations of the world.  
 The site places a lot of emphasis on the number of sick and healed, but also on the total deaths in each individual country.  
@@ -101,9 +101,7 @@ But wait, how do you find the departure date?
 One possible choice is the date of the first victim of the disease.  
  However this date appears not very reliable.
 If we want to compare statistical events with each other we must use a characterizing moment that is quite similar for everyone.  
-In a totally arbitrary way I choose the moment in which the coCominciando dall'ultima, ma piu' importante delle domande sopra:
-Cosa dovremmo sapere del COVID19 e che in realta' non sappiamo?
-La risposta e' sconsolante: sembra che i parametri importanti siano o sconosciuti o conosciuti in modo molto impreciso.untry exceeds 5 deaths per million inhabitants.   
+In a totally arbitrary way I choose the moment in which the country exceeds 5 deaths per million inhabitants.   
 For the moment, I will postpone a discussion on this criterion further on.  
 [==> DETAILS: Why 5 death per Million](https://github.com/fpirri/covid19/tree/master/history/last/#details-why-5-death-per-million)
 We therefore define 'start' the day on which each country exceeds 5 dead per million and align the data of each country from the start forward. We thus obtain the following chart, in which the data of each country starts for each one from its 'start'.
