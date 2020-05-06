@@ -52,7 +52,10 @@ There is also a strong suspicion that they treat us like children to whom it is 
 Since we have time to waste, let's do some home science and see if we can understand something more.
 
 **This document is an attempt to analyze the situation in a slightly more scientific way than watching television.**
- 
+   
+<br />
+
+----  
 
 What you may find here
 ----  
