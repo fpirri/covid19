@@ -106,8 +106,9 @@ One possible choice is the date of the first victim of the disease.
  However this date appears not very reliable.
 If we want to compare statistical events with each other we must use a characterizing moment that is quite similar for everyone.  
 In a totally arbitrary way I choose the moment in which the country exceeds 5 deaths per million inhabitants.   
-For the moment, I will postpone a discussion on this criterion further on.  
-[==> DETAILS: Why 5 death per Million](https://github.com/fpirri/covid19/tree/master/history/last/#details-why-5-death-per-million)
+For the moment, I will postpone a discussion on this criterion further on. 
+[==> DETAILS: Why 5 death per Million](https://github.com/fpirri/covid19/tree/master/history/last/#details-why-5-death-per-million)  
+
 We therefore define 'start' the day on which each country exceeds 5 dead per million and align the data of each country from the start forward. We thus obtain the following chart, in which the data of each country starts for each one from its 'start'.
 The X axis will then be called 'Days from start'.  
 The result is shown below.
@@ -129,7 +130,7 @@ So, we get the next chart.
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.all.png">
 
 Oh no! There is too much data to understand something.
-So, let's leave Spain and Germany as extremes and add France to see what we get.
+So, let's leave Spain and Germany as extremes and add France only, to see what we get.
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.SFG.png">
 
@@ -141,7 +142,7 @@ Let's try with the Sweden and USA group.
 
 Damn ...   
 There are periodicities in the data that only lead to confusion. It appears that various countries enter data weekly. What could we do to improve the situation?  
-After a few experiments, a satisfactory result is obtained with a moving weighted average (Details below).
+After a few experiments, a satisfactory result is obtained with a moving weighted average (Details below).  
 NOTE: As of May 5, the worldometers website added the 3-day moving average on the daily death chart.
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.wma.all.png">
