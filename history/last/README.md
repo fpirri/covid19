@@ -109,6 +109,7 @@ In a totally arbitrary way I choose the moment in which the coCominciando dall'u
 Cosa dovremmo sapere del COVID19 e che in realta' non sappiamo?
 La risposta e' sconsolante: sembra che i parametri importanti siano o sconosciuti o conosciuti in modo molto impreciso.untry exceeds 5 deaths per million inhabitants.   
 For the moment, I will postpone a discussion on this criterion further on.  
+[DETAILS: Why 5 death per Million](https://github.com/fpirri/covid19/tree/master/history/last/#details-why-5-death-per-million)
 We therefore define 'start' the day on which each country exceeds 5 dead per million and align the data of each country from the start forward. We thus obtain the following chart, in which the data of each country starts for each one from its 'start'.
 The X axis will then be called 'Days from start'.  
 The result is shown below.
@@ -199,10 +200,27 @@ To understand this, I had to first study some epidemiological theories.
 
 In an interview with the newspaper Il Tempo, Prof. Carlo Gaudio observed that in the 2000s we had 5 pandemics.
 [==> DETAILS: A pandemic every 4 years](https://github.com/fpirri/covid19/tree/master/history/last/#details-a-pandemic-every-4-years)  
-If this happens every 4 years, we can expect the next epidemic to arrive before the effects of COVID have ceased.
-  
-https://www.iltempo.it/salute/2020/04/11/news/date-e-numeri-parla-il-professor-carlo-gaudio-che-cosa-ci-insegnano-le-epidemie-1313244/
-  
+**So, we can expect the next virus between 2004 and 2007**.  
+It is not really excluded that the next one will arrive before the effect of COVID19 is finished.  
+
+So what parameters would we like to know?
+Here is a brief and non-exhaustive list:
+1- percentage of naturally immune people;
+2- presence and duration of immunity for healed people;
+3- difference, if any, between contagiosity by air transmission and by contact;
+4- relationship between physical closeness, the time spent in proximity and the probability of contagion;
+5- duration and contagiousness of the incubation period;
+6- range of times for healing.
+
+Not being able to experiment, we must try to deduce the parameters by observing what is happening in the affected countries.
+To use a scientific method we should hypothesize a mathematical model and compare the real data with what is happening.
+Question: do we know what's happening quantitatively?
+Here too the answer is almost negative: the reliability of the data we see is doubtful or even worse.
+
+Nonetheless, we can use the data that is communicated to us and try to correct it afterwards as we did for the case of deaths.
+
+
+
 ----
 
 <br />
@@ -253,7 +271,7 @@ Or: why carry out the comparison starting from the value of 5 deaths per million
 
 # DETAILS: Epidemiology
 
-???????  
+?????? da estendere e tradurre
 
 Senza entrare troppo nello specifico, i modelli dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:
 * M    M
@@ -280,13 +298,30 @@ Senza entrare troppo nello specifico, i modelli dividono la popolazione in class
   There are many modifications of the SIR model, including those that include births and deaths, where upon recovery there is no immunity (SIS model), where immunity lasts only for a short period of time (SIRS), where there is a latent period of the disease where the person is not infectious (SEIS and SEIR), and where infants can be born with immunity (MSIR). 
 
 
-???????  
 
 # DETAILS: A pandemic every 4 years
+
+?????? da estendere e tradurre
 
 ref. a il tempo:
 [Carlo Gaudio - Il Tempo](https://www.iltempo.it/salute/2020/04/11/news/date-e-numeri-parla-il-professor-carlo-gaudio-che-cosa-ci-insegnano-le-epidemie-1313244/)
 
+<br />  
+
+
+# DETAILS: Why 5 death per Million
+
+?????? da estendere e tradurre
+- dato molto controllato nel mondo occidentale
+- molte diverse sorgenti sia ufficiali che indirette
+ anagrafe comunale, cimiteri, registri parrocchiali, vox populi
+- controllo statistico a posteriori
+vedi: Rapporto_Istat_ISS.pdf & Decessi 2020
+https://www.istat.it/it/files//2020/05/Rapporto_Istat_ISS.pdf  
+https://www.istat.it/it/files/2020/03/Decessi_2020_Nota.pdf  
+contenuto:
+nel periodo 20/2-31/3 i morti passano da 65.592 (media periodo 2015-2019) a 90.946 con un incremento di 25.354 unità - quelli ufficialmente covid denunciati sono stati 13.710  
+si potrebbero confrontare anche i dati di comunita' chiuse e con dati meglio conosciuti
 
 <br />  
 ----
