@@ -23,10 +23,10 @@ What this folder contain
   
 ----
 
-PLEASE NOTE: this is WORK IN PROGRESS
+PLEASE NOTE: WORK IN PROGRESS
 ===
 
-This document is totally disorganized: I am trying to coordinate my thoughts, but I cannot find a common thread in the many things I read online.
+This is work in progress. I'm trying to coordinate my thoughts, but there is still some confusion at the moment ...
 
 <br />
 
