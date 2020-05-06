@@ -12,11 +12,11 @@ What this folder contain
 ----  
 
 * last;
-    transient and on-going work
+    * transient and on-going work
 * images
-    images archive
+    * images archive
 * data
-    actual and historic data
+    * actual and historic data
 
 ----
 
