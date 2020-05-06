@@ -205,12 +205,12 @@ It is not really excluded that the next one will arrive before the effect of COV
 
 So what parameters would we like to know?
 Here is a brief and non-exhaustive list:
-1- percentage of naturally immune people;
-2- presence and duration of immunity for healed people;
-3- difference, if any, between contagiosity by air transmission and by contact;
-4- relationship between physical closeness, the time spent in proximity and the probability of contagion;
-5- duration and contagiousness of the incubation period;
-6- range of times for healing.
+1. percentage of naturally immune people;
+2. presence and duration of immunity for healed people;
+3. difference, if any, between contagiosity by air transmission and by contact;
+4. relationship between physical closeness, the time spent in proximity and the probability of contagion;
+5. duration and contagiousness of the incubation period;
+6. range of times for healing.
 
 Not being able to experiment, we must try to deduce the parameters by observing what is happening in the affected countries.
 To use a scientific method we should hypothesize a mathematical model and compare the real data with what is happening.
