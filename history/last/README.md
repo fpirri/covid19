@@ -111,7 +111,7 @@ In a totally arbitrary way I choose the moment in which the coCominciando dall'u
 Cosa dovremmo sapere del COVID19 e che in realta' non sappiamo?
 La risposta e' sconsolante: sembra che i parametri importanti siano o sconosciuti o conosciuti in modo molto impreciso.untry exceeds 5 deaths per million inhabitants.   
 For the moment, I will postpone a discussion on this criterion further on.  
-[DETAILS: Why 5 death per Million](https://github.com/fpirri/covid19/tree/master/history/last/#details-why-5-death-per-million)
+[==> DETAILS: Why 5 death per Million](https://github.com/fpirri/covid19/tree/master/history/last/#details-why-5-death-per-million)
 We therefore define 'start' the day on which each country exceeds 5 dead per million and align the data of each country from the start forward. We thus obtain the following chart, in which the data of each country starts for each one from its 'start'.
 The X axis will then be called 'Days from start'.  
 The result is shown below.
@@ -220,8 +220,7 @@ Question: do we know what's happening quantitatively?
 Here too the answer is almost negative: the reliability of the data we see is doubtful or even worse.
 
 Nonetheless, we can use the data that is communicated to us and try to correct it afterwards as we did for the case of deaths.
-
-
+[==> DETAILS: Why to look at Death](https://github.com/fpirri/covid19/tree/master/history/last#details-why-to-look-at-death)
 
 ----
 
@@ -277,6 +276,7 @@ Or: why carry out the comparison starting from the value of 5 deaths per million
 - molte diverse sorgenti sia ufficiali che indirette
  anagrafe comunale, cimiteri, registri parrocchiali, vox populi
 - controllo statistico a posteriori
+(un altro primato italiano?)
 vedi: Rapporto_Istat_ISS.pdf & Decessi 2020
 https://www.istat.it/it/files//2020/05/Rapporto_Istat_ISS.pdf  
 https://www.istat.it/it/files/2020/03/Decessi_2020_Nota.pdf  
