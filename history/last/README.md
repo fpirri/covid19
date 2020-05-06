@@ -76,16 +76,17 @@ My first steps
 ----  
 
 It is really very difficult to understand what is happening in our world because of the coronavirus!   
-I started discussing an idea by Mats Lewan on a blog. 
+I started discussing an idea by Mats Lewan on a blog.   
 [==> DETAILS: the blog post](https://github.com/fpirri/covid19/tree/master/history/last/#details-ecat-blog-mats-lewan)  
   
 Mats Lewan looked at the number of deaths in any given day in several countries and shared is thoughts in the blog.  
-[==> DETAILS: why to look at death](https://github.com/fpirri/covid19/tree/master/history/last/#details-why-to-look-at-death)
 
 So I looked for data on the website https://www.worldometers.info/coronavirus/#countries which presents a lot of data on almost all the nations of the world.  
 The site places a lot of emphasis on the number of sick and healed, but also on the total deaths in each individual country.  
 TV follows the same format and assigns the 'primacy' to the country with the highest number of deaths. Now it's up to the USA.  
 The total number of deaths seems very important, so I took the data from the site and presented it on a single chart to better appreciate the differences.  
+[==> DETAILS: why to look at death](https://github.com/fpirri/covid19/tree/master/history/last/#details-why-to-look-at-death)
+
 The chart collects the following countries: Italy, Spain, France, Sweden, UK, USA and Germany.  
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Total%20Deaths%20raw%20data.png">
@@ -132,8 +133,6 @@ So, let's leave Spain and Germany as extremes and add France to see what we get.
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.SFG.png">
 
-
-
 Humm ...  
 You see, but it's not clear what.
 Let's try with the Sweden and USA group.
@@ -148,9 +147,7 @@ NOTE: As of May 5, the worldometers website added the 3-day moving average on th
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.wma.all.png">
 
 Although all seven countries are above, the confusion is significantly lessened.  
-So let's show the first group.Cominciando dall'ultima, ma piu' importante delle domande sopra:
-Cosa dovremmo sapere del COVID19 e che in realta' non sappiamo?
-La risposta e' sconsolante: sembra che i parametri importanti siano o sconosciuti o conosciuti in modo molto impreciso.
+So let's show the first group.
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.wma.SIFUG.png">
 
