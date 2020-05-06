@@ -145,6 +145,7 @@ Let's try with the Sweden and USA group.
 Damn ...   
 There are periodicities in the data that only lead to confusion. It appears that various countries enter data weekly. What could we do to improve the situation?  
 After a few experiments, a satisfactory result is obtained with a moving weighted average (Details below).
+NOTE: As of May 5, the worldometers website added the 3-day moving average on the daily death chart.
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.wma.all.png">
 
@@ -191,11 +192,16 @@ Here I will try to add other parameters, such as the number of patients and othe
 ----
 
 The first question we have to ask ourself is:
-What do we know about COVID19 and what should we know better about it?
+What do we know about COVID19 and what should we know better about it?  
 The answer is disheartening: it seems that the important parameters are either unknown or very inaccurately known.
 To understand this, I had to first study some epidemiological theories.
 [==> DETAILS: the teory](https://github.com/fpirri/covid19/tree/master/history/last/#details-epidemiology)  
 
+In an interview with the newspaper Il Tempo, Prof. Carlo Gaudio observed that in the 2000s we had 5 pandemics.
+[==> DETAILS: A pandemic every 4 years](https://github.com/fpirri/covid19/tree/master/history/last/#details-a-pandemic-every-4-years)  
+If this happens every 4 years, we can expect the next epidemic to arrive before the effects of COVID have ceased.
+  
+https://www.iltempo.it/salute/2020/04/11/news/date-e-numeri-parla-il-professor-carlo-gaudio-che-cosa-ci-insegnano-le-epidemie-1313244/
   
 ----
 
@@ -254,7 +260,7 @@ Senza entrare troppo nello specifico, i modelli dividono la popolazione in class
 * S    Susceptible
  * E    Exposed
  * I    Infected
- * R     Removed
+ * R     Removed, Recovered or Death
  I modelli studiano  i passaggi da una classe all'altra per gli individui in una popolazione assegnata.
  Su internet troviamo il modello SIR, cioe' il modello Suscettibile-Infected-Removed ed altri.
  DETAILS
@@ -263,7 +269,6 @@ Senza entrare troppo nello specifico, i modelli dividono la popolazione in class
 
 Negli ultimi 100 anni si e' tentato di ottenere modelli matematici formali per analizzare l'andamento delle epidemie. Lo scopo principale del modello matematico e' quello di individuare a priori l'efficacia delle misure preventive che si vogliono usare.
 Senza entrare troppo nello specifico, i modelli dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:
-* M    M
 * S    Susceptible
  * E    Exposed
  * I    Infected
@@ -276,6 +281,11 @@ Senza entrare troppo nello specifico, i modelli dividono la popolazione in class
 
 
 ???????  
+
+# DETAILS: A pandemic every 4 years
+
+ref. a il tempo:
+[Carlo Gaudio - Il Tempo](https://www.iltempo.it/salute/2020/04/11/news/date-e-numeri-parla-il-professor-carlo-gaudio-che-cosa-ci-insegnano-le-epidemie-1313244/)
 
 
 <br />  
