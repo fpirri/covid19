@@ -80,9 +80,11 @@ My first steps
 
 It is really very difficult to understand what is happening in our world because of the coronavirus!   
 I started discussing an idea by Mats Lewan on a blog. 
-[==> DETAILS](https://github.com/fpirri/covid19/tree/master/history/last/#details-ecat-blog-mats-lewan)  
+[==> DETAILS: the blog post](https://github.com/fpirri/covid19/tree/master/history/last/#details-ecat-blog-mats-lewan)  
   
 Mats Lewan looked at the number of deaths in any given day in several countries and shared is thoughts in the blog.  
+[==> DETAILS: why to look at death](https://github.com/fpirri/covid19/tree/master/history/last/#why-to-look-at-death)  
+
 So I looked for data on the website https://www.worldometers.info/coronavirus/#countries which presents a lot of data on almost all the nations of the world.  
 The site places a lot of emphasis on the number of sick and healed, but also on the total deaths in each individual country.  
 TV follows the same format and assigns the 'primacy' to the country with the highest number of deaths. Now it's up to the USA.  
@@ -213,7 +215,7 @@ Here is a brief and non-exhaustive list:
 6. range of times for healing.
 
 Not being able to experiment, we must try to deduce the parameters by observing what is happening in the affected countries.
-To use a scientific method we should hypothesize a mathematical model and compare the real data with what is happening.
+To use a scientific method we should hypothesize a mathematical model and compare the real data with what is happening.  
 Question: do we know what's happening quantitatively?
 Here too the answer is almost negative: the reliability of the data we see is doubtful or even worse.
 
@@ -268,6 +270,21 @@ Or: why carry out the comparison starting from the value of 5 deaths per million
 
 ----
 
+# DETAILS: why to look at death
+
+?????? da estendere e tradurre
+- dato molto controllato nel mondo occidentale
+- molte diverse sorgenti sia ufficiali che indirette
+ anagrafe comunale, cimiteri, registri parrocchiali, vox populi
+- controllo statistico a posteriori
+vedi: Rapporto_Istat_ISS.pdf & Decessi 2020
+https://www.istat.it/it/files//2020/05/Rapporto_Istat_ISS.pdf  
+https://www.istat.it/it/files/2020/03/Decessi_2020_Nota.pdf  
+contenuto:
+nel periodo 20/2-31/3 i morti passano da 65.592 (media periodo 2015-2019) a 90.946 con un incremento di 25.354 unità - quelli ufficialmente covid denunciati sono stati 13.710  
+si potrebbero confrontare anche i dati di comunita' chiuse e con dati meglio conosciuti  
+
+<br />
 
 # DETAILS: Epidemiology
 
@@ -287,7 +304,7 @@ Senza entrare troppo nello specifico, i modelli dividono la popolazione in class
 
 Negli ultimi 100 anni si e' tentato di ottenere modelli matematici formali per analizzare l'andamento delle epidemie. Lo scopo principale del modello matematico e' quello di individuare a priori l'efficacia delle misure preventive che si vogliono usare.
 Senza entrare troppo nello specifico, i modelli dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:
-* S    Susceptible
+ * S    Susceptible
  * E    Exposed
  * I    Infected
  * R     Removed
@@ -312,16 +329,15 @@ ref. a il tempo:
 # DETAILS: Why 5 death per Million
 
 ?????? da estendere e tradurre
-- dato molto controllato nel mondo occidentale
-- molte diverse sorgenti sia ufficiali che indirette
- anagrafe comunale, cimiteri, registri parrocchiali, vox populi
-- controllo statistico a posteriori
-vedi: Rapporto_Istat_ISS.pdf & Decessi 2020
-https://www.istat.it/it/files//2020/05/Rapporto_Istat_ISS.pdf  
-https://www.istat.it/it/files/2020/03/Decessi_2020_Nota.pdf  
-contenuto:
-nel periodo 20/2-31/3 i morti passano da 65.592 (media periodo 2015-2019) a 90.946 con un incremento di 25.354 unità - quelli ufficialmente covid denunciati sono stati 13.710  
-si potrebbero confrontare anche i dati di comunita' chiuse e con dati meglio conosciuti
+- il primo morto appare poco certo e statisticamente troppo variabile
+- necessita' di avere punti di uguale significato per tutti:
+scegliamo 1 morto per milione o 2,3,4 ?
+- oppure: un altro valore assoluto: 2, 3, ..., 10 morti per nazione
+- oppure: meta' dell'intervallo tra 1 e 5 (?) morti per milione
+- DA FARE:
+vedere come cambia l'origine e/o il confronto se si fa una scelta diversa: come cambia la posizione del picco ?
+-forse il confronto andrebbe fatto per aree geografiche ciascuna con 100k o piu' abitanti (perche' 100k, 500k e' meglio?
+
 
 <br />  
 ----
