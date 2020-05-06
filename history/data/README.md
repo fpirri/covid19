@@ -7,16 +7,14 @@ A discussion about how some western countries fight with coronavirus
 
 <br />
 
-What this folder contain
+# What this folder contain
 
 ----  
 
-* last;
-    transient and on-going work
-* images
-    images archive
-* data
-    actual and historic data
+* oldpost;
+    * the original post on eCat blog
+* archive
+    * historic versions
 
 ----
 
