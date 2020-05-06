@@ -26,7 +26,7 @@ What happened ?
 ----  
 
   
-In Italy we are all at home. We are inundated with news on COVID19 from the continuous television news, the newspapers do not talk about anything else and we, in the chats (at a distance) with friends, we (almost) always discuss the coronavirus.  
+2020-04-28 - In Italy we are all at home. We are inundated with news on COVID19 from the continuous television news, the newspapers do not talk about anything else and we, in the chats (at a distance) with friends, we (almost) always discuss the coronavirus.  
 The main actors of the various speeches are mainly two: the medical reports from the hospitals and the actions of the rulers.  
 Third parties and distant actors are the experts, or presumed such.
 
@@ -384,7 +384,7 @@ How do countries fight with coronavirus?
 
 Let's have a look at total deaths in a few western coountries:
 
-<img src="https://github.com/fpirri/covid19/blob/master/charts/2020-04-25/2020-04-25%20Countries%20Daily%20Deaths%20per%20Million.01.png">
+<img src="https://e-catworld.com/wp-content/uploads/2020/03/Screenshot-2020-03-27-at-07.49.23.png">
 
 ref.: https://e-catworld.com/2020/03/27/covid-19-thread-3-26-2020-mats-lewan-on-the-case-of-sweden/
 
