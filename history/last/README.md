@@ -54,12 +54,6 @@ Since we have time to waste, let's do some home science and see if we can unders
 **This document is an attempt to analyze the situation in a slightly more scientific way than watching television.**
  
 
-----
-
-<br />
-Cominciando dall'ultima, ma piu' importante delle domande sopra:
-Cosa dovremmo sapere del COVID19 e che in realta' non sappiamo?
-La risposta e' sconsolante: sembra che i parametri importanti siano o sconosciuti o conosciuti in modo molto impreciso.
 What you may find here
 ----  
 
