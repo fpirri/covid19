@@ -267,7 +267,10 @@ Or: why carry out the comparison starting from the value of 5 deaths per million
 
 # DETAILS: why to look at death
 
-?????? da estendere e tradurre
+* Turn list into organic display
+* Translation still to be done
+* To be reviewed for publication
+
 - dato molto controllato nel mondo occidentale
 - molte diverse sorgenti sia ufficiali che indirette
  anagrafe comunale, cimiteri, registri parrocchiali, vox populi
@@ -286,7 +289,9 @@ si potrebbero confrontare anche i dati di comunita' chiuse e con dati meglio con
 
 # DETAILS: Epidemiology
 
-?????? da estendere e tradurre
+* Turn list into organic display
+* Translation still to be done
+* To be reviewed for publication
 
 Senza entrare troppo nello specifico, i modelli dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:
 * S    Susceptible
@@ -340,6 +345,10 @@ MSEIRS
 
 # DETAILS: 
 
+* Turn list into organic display
+* Translation still to be done
+* To be reviewed for publication
+
 Un esempio di come potrebbero essere fatte le cose ? ....
 
 In 2018, Ciofi et al. pubblicano un lavoro estremamente interessante:  
@@ -357,7 +366,9 @@ basic reproductive number (R 0 )
 
 # DETAILS: A pandemic every 4 years
 
-?????? da estendere e tradurre
+* Turn list into organic display
+* Translation still to be done
+* To be reviewed for publication
 
 ref. a il tempo:
 [Carlo Gaudio - Il Tempo](https://www.iltempo.it/salute/2020/04/11/news/date-e-numeri-parla-il-professor-carlo-gaudio-che-cosa-ci-insegnano-le-epidemie-1313244/)
@@ -368,7 +379,10 @@ ref. a il tempo:
 
 # DETAILS: Why 5 death per Million
 
-?????? da estendere e tradurre
+* Turn list into organic display
+* Translation still to be done
+* To be reviewed for publication
+
 - il primo morto appare poco certo e statisticamente troppo variabile
 - necessita' di avere punti di uguale significato per tutti:
 scegliamo 1 morto per milione o 2,3,4 ?
