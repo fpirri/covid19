@@ -249,17 +249,19 @@ You can comment there, if you like.
 
 <br />
 
-DETAILS
+----
+
+
+# DETAILS
 ----  
 
 * This section is under construction  
- 
- 
+  
 This section is organized into several parts. Each will discuss a particular point that needs a specific discussion.  
 For example: why start with the dead?  
 Or: why carry out the comparison starting from the value of 5 deaths per million inhabitants?  
-<br />
 
+<br />
 
 ----
 
@@ -280,35 +282,78 @@ si potrebbero confrontare anche i dati di comunita' chiuse e con dati meglio con
 
 <br />
 
+----
+
 # DETAILS: Epidemiology
 
 ?????? da estendere e tradurre
 
 Senza entrare troppo nello specifico, i modelli dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:
-* M    M
 * S    Susceptible
  * E    Exposed
  * I    Infected
  * R     Removed, Recovered or Death
  I modelli studiano  i passaggi da una classe all'altra per gli individui in una popolazione assegnata.
  Su internet troviamo il modello SIR, cioe' il modello Suscettibile-Infected-Removed ed altri.
- DETAILS
-  
-  There are many modifications of the SIR model, including those that include births and deaths, where upon recovery there is no immunity (SIS model), where immunity lasts only for a short period of time (SIRS), where there is a latent period of the disease where the person is not infectious (SEIS and SEIR), and where infants can be born with immunity (MSIR). 
-
+ 
 Negli ultimi 100 anni si e' tentato di ottenere modelli matematici formali per analizzare l'andamento delle epidemie. Lo scopo principale del modello matematico e' quello di individuare a priori l'efficacia delle misure preventive che si vogliono usare.
 Senza entrare troppo nello specifico, i modelli dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:
  * S    Susceptible
+     * Individuals who may become infected
  * E    Exposed
+     * Individuals who got the infection
+     * the infection will become transmissible in a while
  * I    Infected
+     * Individuals affected by the infection
+     * they are a vehicle for further infections
  * R     Removed
- I modelli studiano  i passaggi da una classe all'altra per gli individui in una popolazione assegnata.
- Su internet troviamo il modello SIR, cioe' il modello Suscettibile-Infected-Removed ed altri.
- DETAILS
-  
+      * Individuals no more counted owing to death or becoming immune
+ * M    Martenally derived immunity
+     * new born, which are not susceptible to infections for a given time
+ * C Carrier
+     * Individui che hanno la malattia latente (es. tubercolosy)
+     * possono trasmetterla indefinitamente nel tempo
+     
+ le definizioni sembrano poter subire piccole variazioni
+
+I modelli studiano  i passaggi da una classe all'altra per gli individui in una popolazione assegnata.
+Il padre dei vari modelli e' il modello SIR: Suscettibile-Infected-Removed
+[Mathematical modelling of infectious disease](https://en.wikipedia.org/wiki/Mathematical_modelling_of_infectious_disease)
+Altri modelli sono stati sviluppati:
+[Compartmental models in epidemiology](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology)
+
+SIRD
+MSIR
+Carrier state
+SEIR 
+SEIS
+MSEIR
+MSEIRS
+
+ 
   There are many modifications of the SIR model, including those that include births and deaths, where upon recovery there is no immunity (SIS model), where immunity lasts only for a short period of time (SIRS), where there is a latent period of the disease where the person is not infectious (SEIS and SEIR), and where infants can be born with immunity (MSIR). 
 
 
+<br />
+
+----
+
+# DETAILS: 
+
+Un esempio di come potrebbero essere fatte le cose ? ....
+
+In 2018, Ciofi et al. pubblicano un lavoro estremamente interessante:  
+[Mitigation Measures for Pandemic Influenza in Italy: An Individual Based Model Considering Different Scenarios](https://doi.org/10.1371/journal.pone.0001790)  
+Il lavoro e' stato sottoposto alla pubblicazione nel 2017.
+lavoro:
+- si genera un modello di c
+
+basic reproductive number (R 0 )
+
+
+<br />
+
+----
 
 # DETAILS: A pandemic every 4 years
 
@@ -319,6 +364,7 @@ ref. a il tempo:
 
 <br />  
 
+----
 
 # DETAILS: Why 5 death per Million
 
@@ -332,8 +378,8 @@ scegliamo 1 morto per milione o 2,3,4 ?
 vedere come cambia l'origine e/o il confronto se si fa una scelta diversa: come cambia la posizione del picco ?
 -forse il confronto andrebbe fatto per aree geografiche ciascuna con 100k o piu' abitanti (perche' 100k, 500k e' meglio?
 
-
 <br />  
+
 ----
 
 
@@ -345,7 +391,6 @@ This document is incomplete: I am trying to coordinate my thoughts, but I cannot
 I need help.  
  Do you have any suggestion?
 <br />
-
 
 ----
 
@@ -372,7 +417,7 @@ Probably thi is not important.
 ----
 
 
-# DETAILS eCat blog Mats Lewan
+# DETAILS: eCat blog Mats Lewan
 
 On April 26, I commented on an idea by Mats Lewan on the blog -eCat-.
 As a reference, I report below what I wrote on the blog.
