@@ -20,7 +20,7 @@ What you may find here
 
 * data from the [worldometers](https://www.worldometers.info/coronavirus/#countries) site
 * Some documentation on the attached spreadsheet
-* A spreadsheet with numeric data on COVID10
+* A spreadsheet with numeric data on COVID19
 * Simple analysys of available data about a few western countries
 * A few charts to compare data in a few countries
  <br />
