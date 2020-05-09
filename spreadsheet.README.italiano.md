@@ -7,6 +7,7 @@ Semplice analisi dei dati disponibili su alcuni paesi occidentali usando Libre O
 
 [Cosa trovi qui](https://github.com/fpirri/covid19/blob/master/spreadsheet.README.italiano.md#cosa-trovi-qui)  
 [Elenco dei fogli](https://github.com/fpirri/covid19/blob/master/spreadsheet.README.italiano.md#elenco-dei-fogli)  
+[Versione excel](https://github.com/fpirri/covid19/blob/master/spreadsheet.README.italiano.md#grafici-e-discussione)  
 [Grafici e discussione](https://github.com/fpirri/covid19/blob/master/spreadsheet.README.italiano.md#grafici-e-discussione)  
   
 ----
@@ -30,7 +31,7 @@ Cosa trovi qui
 Elenco dei fogli
 ----  
 
-* Storia
+* History
     * un riferimento personale ad un mio primo modo di affrontare il problema
     * solo per riferimento
 * data_in
@@ -58,6 +59,16 @@ Elenco dei fogli
     * come sopra, versione smoothed
 * others
     * fogli sperimentali, lavori in corso
+
+ <br />
+
+----
+
+# Versione excel
+----  
+
+Una versione [.xlsx](https://github.com/fpirri/covid19/raw/master/history/last/covid19%20evaluation.xlsx) e' disponibile.  
+La versione e' salvata da LibreOffice Calc, che non garantisce la piena compatibilita' e puo' presentare problemi di formattazione.  
 
  <br />
 
