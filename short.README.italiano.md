@@ -74,7 +74,7 @@ Per cominciare a fare una comparazione, realizziamo un grafico relativo ai deces
 
 Il grafico sopra e' stato normalizzato usando un media mobile pesata su sette giorni. Il sito [worldometers](https://www.worldometers.info/coronavirus/#countries) citato sopra presenta i dati separati per singolo paese con una media mobile semplice su tre  giorni.  
 
-Dobbiamo comunque notare che il confronto visivo su un grafico singolo per sette paesi non e' facile da interpretare.  
+Dobbiamo comunque notare che il confronto visivo su un grafico singolo per sette paesi non e' facile da effettuare.  
  
 ----
    
