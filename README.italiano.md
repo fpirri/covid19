@@ -96,92 +96,91 @@ Il grafico raccoglie i seguenti paesi: Italia, Spagna, Francia, Svezia, Regno Un
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Total%20Deaths%20raw%20data.png">
 
-Guardando il grafico, il primato viene immediatamente assegnato agli Stati Uniti, che dominano tutti gli altri paesi.
-Ma è vero?
-Non mi sembra corretto confrontare direttamente ciò che accade in un paese di 331 milioni di abitanti con ciò che accade in un paese di 10 milioni di abitanti come la Svezia.
+Guardando il grafico, il primato viene immediatamente assegnato agli Stati Uniti, che dominano tutti gli altri paesi.  
+**Ma è vero?**  
+Non mi sembra corretto confrontare direttamente ciò che accade in un paese di 331 milioni di abitanti con ciò che accade in un paese di 10 milioni di abitanti come la Svezia.  
 Seguendo i pensieri di Mats, ho riportato sul grafico il numero di morti per milione di abitanti.
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Total%20Deaths%20per%20Million%20raw%20data.png">
    
-Ora gli Stati Uniti sembrano essere il secondo paese meno colpito tra quelli esaminati.
-Tuttavia, c'è qualcosa di importante da considerare: non sembra giusto confrontare paesi come la Spagna, dove la pandemia si avvicina al suo apice con i paesi in cui è appena iniziata.
-Quindi, dovremmo confrontare i paesi contando i tempi dall'inizio della pandemia in ciascun paese.
-Ma aspetta, come trovi la data di partenza?
+Ora gli Stati Uniti sembrano essere il secondo paese meno colpito tra quelli esaminati.  
+Tuttavia, c'è qualcosaltro di importante da considerare: non sembra giusto confrontare paesi come la Spagna, dove la pandemia si avvicina al suo apice con i paesi in cui è appena iniziata.
+Quindi, dovremmo confrontare i paesi contando i tempi dall'inizio della pandemia in ciascun paese.  
+Ma, aspetta, come trovi la data di partenza?  
 Una possibile scelta è la data della prima vittima della malattia.
  Tuttavia questa data sembra non molto affidabile.
- Inoltre, il primo malato puo' essere sconosciuto, dato che tutti i capi di governo hanno in un primo momento, sottovalutato la pandemia.
-Se vogliamo confrontare eventi statistici tra loro, dobbiamo usare un momento caratterizzante che è abbastanza simile per tutti.
-In modo totalmente arbitrario scelgo il momento in cui il Paese supera i 5 decessi per milione di abitanti.
-Per il momento, rimanderò a più avanti una discussione su questo criterio.
+ Inoltre, il primo malato puo' essere sconosciuto, dato anche che tutti i capi di governo hanno, in un primo momento, sottovalutato la pandemia.  
+Se vogliamo confrontare eventi statistici tra loro, dobbiamo usare un momento caratterizzante che sia abbastanza simile per tutti.  
+In modo totalmente arbitrario scelgo il momento in cui il Paese supera i 5 decessi per milione di abitanti.  
+Per il momento, rimanderò a più avanti una discussione su questo criterio.  
 
 [==> DETTAGLI: Perche' 5 decessi per milione?](./README.italiano.md/#dettagli-perche-5-decessi-per-milione)  
 
-We therefore define 'start' the day on which each country exceeds 5 dead per million and align the data of each country from the start forward. We thus obtain the following chart, in which the data of each country starts for each one from its 'start'.
-The X axis will then be called 'Days from start'.  
-The result is shown below.
+Definiamo quindi *inizio* il giorno in cui ogni paese supera i 5 morti per milione e allineamo i dati di ciascun paese dall'inizio in avanti. Otteniamo così il seguente diagramma, in cui i dati di ciascun paese iniziano per ciascuno dal suo proprio *inizio*.  
+L'asse X verrà chiamato "Days from start".  
+Il risultato è mostrato sotto.  
+
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Total%20Deaths%20per%20Million.png">
   
-As you can see, the chart remains very similar to the previous one, but with countries overlapping with respect to their 'start' day.  
-Is there anything interesting in what we see?  
-In my opinion, we identify Spain as the most affected country and Germany as the least affected by the disease.
-The difference is truly remarkable: on the 30th day Spain presents 5.3 times the deaths per million of Germany.  
+Come si puo' vedere, il grafico rimane molto simile al precedente, ma con i paesi che si sovrappongono rispetto al loro giorno di "inizio".  
+C'è qualcosa di interessante in ciò che vediamo?  
+A mio avviso, identifichiamo la Spagna come il paese più colpito e la Germania come la meno colpita dalla malattia.
+La differenza è davvero notevole: il 30 ° giorno la Spagna presenta 5,3 volte i decessi per milione di Germania.  
 
-Furthermore, some countries appear to have similar developments,
-Italy, France and UK, closer to Spain and USA and Sweden closer to Germany.  
-However, it appears difficult to extract comparative data from what is seen in the chart.  
-The worldometers website also reports data on daily deaths.
-These data can also be obtained from the chart above, as a difference of the totals of two successive days, as it is easy to verify.  
-So, we get the next chart.
+Inoltre, alcuni paesi sembrano avere sviluppi simili: Italia, Francia e Regno Unito, più vicini a Spagna e Stati Uniti e Svezia più vicini alla Germania.  
+Tuttavia, sembra difficile estrarre dati comparativi da quanto visto nel grafico.  
+Il sito web dei worldometers riporta anche i dati sui decessi quotidiani.
+Questi dati possono anche essere ottenuti dal grafico sopra, come una differenza dei totali di due giorni consecutivi, come è facile da verificare.  
+Quindi, otteniamo il prossimo grafico.
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.all.png">
 
-Oh no! There is too much data to understand something.
-So, let's leave Spain and Germany as extremes and add France only, to see what we get.
+Oh no! Ci sono troppi dati per capire qualcosa.  
+Quindi, lasciamo la Spagna e la Germania come estremi e aggiungiamo solo la Francia, per vedere cosa otteniamo.
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.SFG.png">
 
 Humm ...  
-You see, but it's not clear what.
-Let's try with the Sweden and USA group.
+Vedi, ma non è chiaro cosa.  
+Proviamo con il gruppo Svezia e Stati Uniti.
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.SSUG.png">
 
 Damn ...   
-There are periodicities in the data that only lead to confusion. It appears that various countries enter data weekly. What could we do to improve the situation?  
-After a few experiments, a satisfactory result is obtained with a moving weighted average (Details below).  
-NOTE: As of May 5, the worldometers website added the 3-day moving average on the daily death chart.
+Ci sono periodicità nei dati che portano solo alla confusione. Sembra che vari paesi inseriscano i dati settimanalmente. Cosa potremmo fare per migliorare la situazione?  
+Dopo alcuni esperimenti, si ottiene un risultato soddisfacente con una media ponderata mobile (Dettagli sotto).  
+NOTA: a partire dal 5 maggio, il sito web dei worldometri ha aggiunto la media mobile di 3 giorni nella tabella della morte giornaliera.  
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.wma.all.png">
 
-Although all seven countries are above, the confusion is significantly lessened.  
-So let's show the first group.
+Sebbene si vedano insieme tutti e sette i Paesi, la confusione è notevolmente ridotta.  
+Mostriamo ora il primo gruppo.
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.wma.SIFUG.png">
 
-It is confirmed that the first group, Italy with France and the UK, is fairly homogeneous, considering that at the beginning and at the end of the period the moving average is less effective.  
-Let's move on to the second group, Sweden and USA.
+Si conferma che il primo gruppo, Italia con Francia e Regno Unito, è abbastanza omogeneo, considerando che all'inizio e alla fine del periodo la media mobile è meno efficace.  
+Passiamo al secondo gruppo, Svezia e Stati Uniti.
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.wma.SSUG.png">
 
-Considering the weekly periodicity, very marked in Sweden, the second group also appears fairly homogeneous.
+Considerando la periodicità settimanale, molto marcata in Svezia, anche il secondo gruppo appare abbastanza omogeneo.  
 
-All the graphs present an initial phase of rapid growth. Then growth slows down to a maximum, followed by a slow descent.
-The main differences concern the size of the maximum, with a worse / better ratio of about 4 times.  
-The ascent duration seems surprisingly similar for all countries, with the peaks a few days apart. On TV I had received a message of great difference from one country to another.  
+Tutti i grafici presentano una fase iniziale di rapida crescita. Quindi la crescita rallenta al massimo, seguita da una lenta discesa.  
+Le principali differenze riguardano la dimensione del massimo, con un rapporto peggiore / migliore di circa 4 volte.
+La durata della salita sembra sorprendentemente simile per tutti i paesi, con le cime a pochi giorni di distanza. In TV avevo ricevuto un messaggio di grande differenza da un paese all'altro.
 
-**Do I reached an answer?**  
+**Ho trovato una risposta?**  
 
-NO, not really.  
-I now have many more question to answer, such as:  
-Why are the curves so similar?  
-Why do countermeasures seem to have little influence on the times?  
-Why is the descent much slower than the ascent?  
-What other parameters should I look at immediately?  
-What should we have done and we haven't done enough?  
-Anyway, I will start next section with the most important new question in my mind.
+No, non proprio.
+Ora ho molte altre domande a cui rispondere, come ad esempio:
+Perché le curve sono così simili?  
+Perché le contromisure sembrano avere poca influenza sui tempi?  
+Perché la discesa è molto più lenta della salita?  
+Quali altri parametri dovrei guardare immediatamente?  
+Cosa avremmo dovuto fare e non abbiamo fatto abbastanza?  
 
-
+Comunque, inizierò la prossima sezione con la nuova domanda più importante nella mia mente.
 
 ----
 
@@ -272,7 +271,7 @@ Or: why carry out the comparison starting from the value of 5 deaths per million
 
 ----
 
-# DETTAGLI: perche' guardare i decessi?
+# DETTAGLI: perche' guardare ai decessi?
 
 * Turn list into organic display
 * Translation still to be done
