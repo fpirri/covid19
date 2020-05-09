@@ -6,7 +6,7 @@ A LibreOffice Calc spreadsheet to examine how some western countries fight with 
 ----
 
 [What you may find here](https://github.com/fpirri/covid19/blob/master/spreadsheet.README.md#what-you-may-find-here)  
-[sheet list](https://github.com/fpirri/covid19/blob/master/spreadsheet.README.md#sheet-list)  
+[Sheet list](https://github.com/fpirri/covid19/blob/master/spreadsheet.README.md#sheet-list)  
 [Charts & discussion](https://github.com/fpirri/covid19/blob/master/spreadsheet.README.md#charts--discussion)  
   
 ----
