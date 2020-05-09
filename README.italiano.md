@@ -196,11 +196,6 @@ La risposta è scoraggiante: sembra che i parametri importanti siano sconosciuti
 Per capirlo, ho dovuto prima studiare alcune teorie epidemiologiche.
 [==> DETTAGLI: Epidemiologia](./README.italiano.md/#dettagli-epidemiologia)  
 
-In un'intervista al quotidiano Il Tempo, il Prof. Carlo Gaudio ha osservato che negli anni 2000 abbiamo avuto 5 pandemie.
-[==> DETTAGLI: una pandemia ogni 4 anni](./README.italiano.md/#dettagli-una-pandemia-ogni-4-anni)  
-**Quindi, la prossima pandemia accadra' tra 2024 ed 2007**.  
-Non è davvero escluso che che la prossima epidemia non arrivi prima che l'effetto di COVID19 sia terminato.
-
 Ma allora, quali parametri vorremo sapere?
 Ecco un breve e non esaustivo elenco:
 1. percentuale di persone naturalmente immuni;
@@ -211,13 +206,17 @@ Ecco un breve e non esaustivo elenco:
 6. intervallo di tempo per la guarigione.
 
 Non potendo sperimentare, dobbiamo cercare di dedurre i parametri osservando ciò che sta accadendo nei paesi interessati.  
-Per usare un metodo scientifico dovremmo ipotizzare un modello matematico e confrontare i dati reali con ciò che sta accadendo.  
+
+Per usare il metodo scientifico dovremmo ipotizzare quale sia il modello matematico giusto e confrontare i dati reali con ciò che sta accadendo, poi decidere che abbiamo ragione.  
   
-Domanda: sappiamo cosa sta succedendo quantitativamente?  
+Domanda: sappiamo davvero quantitativamente cosa stia succedendo?  
 Anche qui la risposta è quasi negativa: l'affidabilità dei dati che vediamo è dubbia o addirittura peggiore.  
 
 Tuttavia, possiamo utilizzare i dati che ci vengono comunicati e cercare di correggerli successivamente come abbiamo fatto per il caso di decessi.  
-[==> DETTAGLI: Perche' guardare ai decessi?](./README.italiano.md#dettagli-perche-guardare-ai-decessi)
+
+**Lo stiamo facendo?**
+Io non lo so, non ho trovato notizie al riguardo, ma forse non so cercare ...
+
 
 ----
 
@@ -232,6 +231,15 @@ Tuttavia, possiamo utilizzare i dati che ci vengono comunicati e cercare di corr
 ----  
 
 * This section is under construction
+
+**Ci dobbiamo preoccupare per il futuro?**
+
+In un'intervista al quotidiano Il Tempo, il Prof. Carlo Gaudio ha osservato che negli anni 2000 abbiamo avuto 5 pandemie.
+[==> DETTAGLI: una pandemia ogni 4 anni](./README.italiano.md/#dettagli-una-pandemia-ogni-4-anni)  
+**Quindi, la prossima pandemia accadra' tra 2024 ed 2007**.  
+
+Non è davvero escluso che che la prossima epidemia non arrivi prima che l'effetto di COVID19 sia terminato.
+
 
 ----
 <br />  
@@ -255,16 +263,13 @@ You can comment there, if you like.
 # DETTAGLI
 ----  
 
-* This section is under construction  
-  
-This section is organized into several parts. Each will discuss a particular point that needs a specific discussion.  
-For example: why start with the dead?  
-Or: why carry out the comparison starting from the value of 5 deaths per million inhabitants?  
+* Qusta sezione e' in lavorazione.  
+Essa e' composta da varie parti, ognuna delle quali cerca di approfondire un quesito specifico, nato durante la discussione precedente.
 
-INDICE:
+# INDICE:
+DA FARE
+
 ----
-
-SA FARE
 
 <br />
 
@@ -303,7 +308,7 @@ si potrebbero confrontare anche i dati di comunita' chiuse e con dati meglio con
 * To be reviewed for publication
  
 Negli ultimi 100 anni si e' tentato di ottenere modelli matematici formali per analizzare l'andamento delle epidemie. Lo scopo principale del modello matematico e' quello di individuare a priori l'efficacia delle misure preventive che si vogliono usare.
-Senza entrare troppo nello specifico, i modelli dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:
+Senza entrare troppo nello specifico, i modelli piu' noti dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:
  * S    Susceptible
      * Individuals who may become infected
  * E    Exposed
@@ -362,7 +367,7 @@ In 2018, Ciofi et al. pubblicano un lavoro estremamente interessante:
 [Mitigation Measures for Pandemic Influenza in Italy: An Individual Based Model Considering Different Scenarios](https://doi.org/10.1371/journal.pone.0001790)  
 Il lavoro e' stato sottoposto alla pubblicazione nel 2017.
 lavoro:
-- si genera un modello di c
+- si genera un modello ....
 
 basic reproductive number (R 0 )
 
