@@ -7,20 +7,20 @@ Una discussione su come alcuni paesi occidentali combattono con il coronavirus
 <br />  
 
 
-[Cosa e' successo?](https://github.com/fpirri/covid19/tree/master/history/last#cosa-e--successo-)  
-[Cosa potresti trovare qui](https://github.com/fpirri/covid19/tree/master/history/last#cosa-potresti-trovare-qui)  
-[I miei primi passi](https://github.com/fpirri/covid19/tree/master/history/last#i-miei-primi-passi)  
-[Calcoliamo!](https://github.com/fpirri/covid19/tree/master/history/last#calcoliamo-)  
-[Il passo successivo](https://github.com/fpirri/covid19/tree/master/history/last/#il-passo-successivo)  
-[Come contribuire](https://github.com/fpirri/covid19/tree/master/history/last#how-to-contribute)  
+[Cosa e' successo?](./README.italiano.md#cosa-e--successo-)  
+[Cosa potresti trovare qui](./README.italiano.md#cosa-potresti-trovare-qui)  
+[I miei primi passi](./README.italiano.md#i-miei-primi-passi)  
+[Calcoliamo!](./README.italiano.md#calcoliamo-)  
+[Il passo successivo](./README.italiano.md#il-passo-successivo)  
+[Come contribuire](./README.italiano.md#how-to-contribute)  
 
-[DETTAGLI](https://github.com/fpirri/covid19/tree/master/history/last/#how-to-contribute)  
+[DETTAGLI](./README.italiano.md#dettagli-)  
   
 ----
 I started writing this document as a personal reflection, trying to understand something about the ongoing pandemic.
 I wondered how effective the measures of the governments of the various countries were and if they had been the best.
-I have examined the official statistics relating to COVID19 and have documented myself. I discovered a good number of epidemiomogical theories in the last century that talked about herd immunity, social distancing and much more by inserting a series of formulas in the mixture.  
-The history of this phase is in the section [My first steps](https://github.com/fpirri/covid19/tree/master/history/last/#my-first-steps) below.  
+https://github.com/fpirri/covid19/tree/master/history/last/I have examined the official statistics relating to COVID19 and have documented myself. I discovered a good number of epidemiomogical theories in the last century that talked about herd immunity, social distancing and much more by inserting a series of formulas in the mixture.  
+The history of this phase is in the section [My first steps](./README.italiano.md#i-miei-primi-passi) below.  
   <br />  
 # SOTTO: TRADUZIONE IN CORSO
 
