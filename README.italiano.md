@@ -7,7 +7,7 @@ Una discussione su come alcuni paesi occidentali combattono con il coronavirus
 <br />  
 
 
-[Cosa e' successo?](./README.italiano.md#cosa-e-successo-)  
+[Cosa e' successo?](./README.italiano.md#cosa-e-successo)  
 [Cosa potresti trovare qui](./README.italiano.md#cosa-potresti-trovare-qui)  
 [I miei primi passi](./README.italiano.md#i-miei-primi-passi)  
 [Calcoliamo!](./README.italiano.md#calcoliamo)  
@@ -67,54 +67,54 @@ Dato che abbiamo tempo da perdere, facciamo un po' di scienza casaslinga e vedia
 Cosa potresti trovare qui
 ----  
 
-* The amount of information you get in a single day regarding coronavirus is overwelming: what should you look at ? 
-* Is there a way to use data available on the web to understand differences from a country to the next ?
-* If the data we have are not reliable, can we, now or in the future, improve them in some way?
-* Governments have acted against COVID19 at different times with different actions, what consequences, if there have been, can be highlighted by the data ?
-* What do we have to prepare to act against the next flu ?
+* La quantità di informazioni che ricevi in ​​un solo giorno riguardo al coronavirus è travolgente: cosa dovresti guardare?
+* Esiste un modo per utilizzare i dati disponibili sul Web per comprendere le differenze da un Paese all'altro?
+* Se i dati che abbiamo non sono affidabili, possiamo, ora o in futuro, migliorarli in qualche modo?
+* I governi hanno agito contro COVID19 in momenti diversi con azioni diverse, quali conseguenze, se ci sono state, possono essere evidenziate dai dati?
+* Cosa dobbiamo preparare per agire contro la prossima pandemia?
  <br />
   
 
 ----
 
-
-
 I miei primi passi
 ----  
 
-It is really very difficult to understand what is happening in our world because of the coronavirus!   
-I started discussing an idea by Mats Lewan on a blog.   
-[==> DETTAGLI: the blog post](https://github.com/fpirri/covid19/tree/master/history/last/#details-ecat-blog-mats-lewan)  
-  
-Mats Lewan looked at the number of deaths in any given day in several countries and shared is thoughts in the blog.  
+È davvero molto difficile capire cosa sta succedendo nel nostro mondo a causa del coronavirus!
+Ho iniziato a discutere un'idea di Mats Lewan su un blog.[==> DETTAGLI: the blog post](./README.italiano.md#dettagli-ecat-blog-mats-lewan)  
+ 
+ Mats Lewan ha esaminato il numero di decessi in un dato giorno in diversi paesi e ha condiviso i pensieri nel blog.
 
-So I looked for data on the website https://www.worldometers.info/coronavirus/#countries which presents a lot of data on almost all the nations of the world.  
-The site places a lot of emphasis on the number of sick and healed, but also on the total deaths in each individual country.  
-TV follows the same format and assigns the 'primacy' to the country with the highest number of deaths. Now it's up to the USA.  
-The total number of deaths seems very important, so I took the data from the site and presented it on a single chart to better appreciate the differences.  
-[==> DETTAGLI: why to look at death](https://github.com/fpirri/covid19/tree/master/history/last/#details-why-to-look-at-death)
+Quindi ho cercato dati sul sito [worldometers](https://www.worldometers.info/coronavirus/#countries) che presenta molti dati su quasi tutte le nazioni del mondo.
+Il sito pone molta enfasi sul numero di malati e guariti, ma anche sulle morti totali in ogni singolo paese.
+La TV segue lo stesso formato e assegna il "primato" al paese con il maggior numero di morti. Ora tocca agli Stati Uniti.  
+Il numero totale di decessi sembra molto importante, quindi ho preso i dati dal sito e li ho presentati su un unico grafico per apprezzare meglio le differenze.  
 
-The chart collects the following countries: Italy, Spain, France, Sweden, UK, USA and Germany.  
+[==> DETTAGLI: Perche' guardare ai decessi?](./README.italiano.md/#dettagli-perche-guardare-ai-decessi)
+
+Il grafico raccoglie i seguenti paesi: Italia, Spagna, Francia, Svezia, Regno Unito, Stati Uniti e Germania.  
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Total%20Deaths%20raw%20data.png">
 
-Looking at the chart, the primacy is immediately assigned to the USA, which dominates all the other countries.  
-But is that right?  
-It does not seem correct to me to directly compare what happens in a country of 331 million inhabitants with what happens in a country of 10 million inhabitants like Sweden.  
-Following Mats's thoughts, I then reported the number of deaths per million inhabitants on the chart.  
+Guardando il grafico, il primato viene immediatamente assegnato agli Stati Uniti, che dominano tutti gli altri paesi.
+Ma è vero?
+Non mi sembra corretto confrontare direttamente ciò che accade in un paese di 331 milioni di abitanti con ciò che accade in un paese di 10 milioni di abitanti come la Svezia.
+Seguendo i pensieri di Mats, ho riportato sul grafico il numero di morti per milione di abitanti.
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Total%20Deaths%20per%20Million%20raw%20data.png">
    
-Now USA appears to be the second least affected country among those examined.  
-However, there is something important to consider: it does not seem fair to compare countries like Spain, where the pandemic is nearing its peak with countries where it has just started.
-So, we should compare countries by counting the times since the start of the pandemic in each country.  
-But wait, how do you find the departure date?  
-One possible choice is the date of the first victim of the disease.  
- However this date appears not very reliable.
-If we want to compare statistical events with each other we must use a characterizing moment that is quite similar for everyone.  
-In a totally arbitrary way I choose the moment in which the country exceeds 5 deaths per million inhabitants.   
-For the moment, I will postpone a discussion on this criterion further on. 
-[==> DETTAGLI: Why 5 death per Million](https://github.com/fpirri/covid19/tree/master/history/last/#details-why-5-death-per-million)  
+Ora gli Stati Uniti sembrano essere il secondo paese meno colpito tra quelli esaminati.
+Tuttavia, c'è qualcosa di importante da considerare: non sembra giusto confrontare paesi come la Spagna, dove la pandemia si avvicina al suo apice con i paesi in cui è appena iniziata.
+Quindi, dovremmo confrontare i paesi contando i tempi dall'inizio della pandemia in ciascun paese.
+Ma aspetta, come trovi la data di partenza?
+Una possibile scelta è la data della prima vittima della malattia.
+ Tuttavia questa data sembra non molto affidabile.
+ Inoltre, il primo malato puo' essere sconosciuto, dato che tutti i capi di governo hanno in un primo momento, sottovalutato la pandemia.
+Se vogliamo confrontare eventi statistici tra loro, dobbiamo usare un momento caratterizzante che è abbastanza simile per tutti.
+In modo totalmente arbitrario scelgo il momento in cui il Paese supera i 5 decessi per milione di abitanti.
+Per il momento, rimanderò a più avanti una discussione su questo criterio.
+
+[==> DETTAGLI: Perche' 5 decessi per milione?](./README.italiano.md/#dettagli-perche-5-decessi-per-milione)  
 
 We therefore define 'start' the day on which each country exceeds 5 dead per million and align the data of each country from the start forward. We thus obtain the following chart, in which the data of each country starts for each one from its 'start'.
 The X axis will then be called 'Days from start'.  
@@ -198,10 +198,10 @@ The first question we have to ask ourself is:
 What do we know about COVID19 and what should we know better about it?  
 The answer is disheartening: it seems that the important parameters are either unknown or very inaccurately known.
 To understand this, I had to first study some epidemiological theories.
-[==> DETTAGLI: the teory](https://github.com/fpirri/covid19/tree/master/history/last/#details-epidemiology)  
+[==> DETTAGLI: the teory](./README.italiano.md/#dettagli-epidemiology)  
 
 In an interview with the newspaper Il Tempo, Prof. Carlo Gaudio observed that in the 2000s we had 5 pandemics.
-[==> DETTAGLI: A pandemic every 4 years](https://github.com/fpirri/covid19/tree/master/history/last/#details-a-pandemic-every-4-years)  
+[==> DETTAGLI: A pandemic every 4 years](./README.italiano.md/#dettagli-a-pandemic-every-4-years)  
 **So, we can expect the next virus between 2004 and 2007**.  
 It is not really excluded that the next one will arrive before the effect of COVID19 is finished.  
 
@@ -221,14 +221,14 @@ Question: do we know what's happening quantitatively?
 Here too the answer is almost negative: the reliability of the data we see is doubtful or even worse.
 
 Nonetheless, we can use the data that is communicated to us and try to correct it afterwards as we did for the case of deaths.
-[==> DETTAGLI: Why to look at Death](https://github.com/fpirri/covid19/tree/master/history/last#details-why-to-look-at-death)
+[==> DETTAGLI: Why to look at Death](./README.italiano.md#dettagli-why-to-look-at-death)
 
 ----
 
 <br />
 
 ----
-[==> DETAILS](https://github.com/fpirri/covid19/tree/master/history/last/#details)  
+[==> DETAILS](./README.italiano.md/#details)  
   
 ----
 
@@ -272,7 +272,7 @@ Or: why carry out the comparison starting from the value of 5 deaths per million
 
 ----
 
-# DETTAGLI: why to look at death
+# DETTAGLI: perche' guardare i decessi?
 
 * Turn list into organic display
 * Translation still to be done
@@ -294,7 +294,7 @@ si potrebbero confrontare anche i dati di comunita' chiuse e con dati meglio con
 
 ----
 
-# DETTAGLI: Epidemiology
+# DETTAGLI: Epidemiologia
 
 * Turn list into organic display
 * Translation still to be done
@@ -371,7 +371,7 @@ basic reproductive number (R 0 )
 
 ----
 
-# DETTAGLI: A pandemic every 4 years
+# DETTAGLI: Una pandemia ogni 4 anni
 
 * Turn list into organic display
 * Translation still to be done
@@ -384,7 +384,7 @@ ref. a il tempo:
 
 ----
 
-# DETTAGLI: Why 5 death per Million
+# DETTAGLI: Perche' 5 decessi per milione?
 
 * Turn list into organic display
 * Translation still to be done
