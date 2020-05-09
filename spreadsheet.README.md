@@ -22,7 +22,7 @@ What you may find here
 * Some documentation on the attached spreadsheet
 * A spreadsheet with numeric data on COVID19
 * Simple analysys of available data about a few western countries
-* A few charts to compare data in a few countries
+* Several charts to compare data in a few countries
  <br />
 
 ----
@@ -32,9 +32,9 @@ Sheet list
 
 * history
     * a personal reference to my first work on this subject
-    * unuseful
+    * for reference only
 * data_in
-    * manual store reading data from [worldometers](https://www.worldometers.info/coronavirus/#countries) data
+    * manual store showing data from [worldometers](https://www.worldometers.info/coronavirus/#countries) data
     * simple table of the daily values of death in the countries
     * top row with countries population data
     * duplicate table to record data corrections
