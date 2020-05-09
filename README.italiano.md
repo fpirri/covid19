@@ -10,16 +10,16 @@ Una discussione su come alcuni paesi occidentali combattono con il coronavirus
 [Cosa e' successo?](./README.italiano.md#cosa-e--successo-)  
 [Cosa potresti trovare qui](./README.italiano.md#cosa-potresti-trovare-qui)  
 [I miei primi passi](./README.italiano.md#i-miei-primi-passi)  
-[Calcoliamo!](./README.italiano.md#calcoliamo-)  
+[Calcoliamo!](./README.italiano.md#calcoliamo)  
 [Il passo successivo](./README.italiano.md#il-passo-successivo)  
-[Come contribuire](./README.italiano.md#how-to-contribute)  
+[Come contribuire](./README.italiano.md#come-contribuire)  
 
-[DETTAGLI](./README.italiano.md#dettagli-)  
+[DETTAGLI](./README.italiano.md#dettagli)  
   
 ----
 I started writing this document as a personal reflection, trying to understand something about the ongoing pandemic.
 I wondered how effective the measures of the governments of the various countries were and if they had been the best.
-https://github.com/fpirri/covid19/tree/master/history/last/I have examined the official statistics relating to COVID19 and have documented myself. I discovered a good number of epidemiomogical theories in the last century that talked about herd immunity, social distancing and much more by inserting a series of formulas in the mixture.  
+I have examined the official statistics relating to COVID19 and have documented myself. I discovered a good number of epidemiomogical theories in the last century that talked about herd immunity, social distancing and much more by inserting a series of formulas in the mixture.  
 The history of this phase is in the section [My first steps](./README.italiano.md#i-miei-primi-passi) below.  
   <br />  
 # SOTTO: TRADUZIONE IN CORSO
@@ -28,7 +28,7 @@ The history of this phase is in the section [My first steps](./README.italiano.m
 
 <br />
 
-What happened ?
+Cosa e' successo?
 ----  
 
   
@@ -234,7 +234,7 @@ Nonetheless, we can use the data that is communicated to us and try to correct i
 <br />
 
 
-Il passo successivo
+# Il passo successivo
 ----  
 
 * This section is under construction
