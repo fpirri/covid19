@@ -1,31 +1,31 @@
-# Understanding COVID19
+# Studiando il COVID19
 
-A discussion about how some western countries fight with coronavirus  
+Una discussione su come alcuni paesi occidentali combattono con il coronavirus  
 <br />  
 
 ----
 <br />  
-# TRADUZIONE IN CORSO
-
-----
-<br />  
 
 
-[What happened ?](https://github.com/fpirri/covid19/tree/master/history/last#what-happened-)  
-[What you may find here](https://github.com/fpirri/covid19/tree/master/history/last#what-you-may-find-here)  
-[My first steps](https://github.com/fpirri/covid19/tree/master/history/last#my-first-steps)  
-[Let's analyze !](https://github.com/fpirri/covid19/tree/master/history/last#lets-analyze-)  
-[Another step](https://github.com/fpirri/covid19/tree/master/history/last/#a-second-step)  
-[How to contribute](https://github.com/fpirri/covid19/tree/master/history/last#how-to-contribute)  
+[Cosa e' successo?](https://github.com/fpirri/covid19/tree/master/history/last#cosa-e--successo-)  
+[Cosa potresti trovare qui](https://github.com/fpirri/covid19/tree/master/history/last#cosa-potresti-trovare-qui)  
+[I miei primi passi](https://github.com/fpirri/covid19/tree/master/history/last#i-miei-primi-passi)  
+[Calcoliamo!](https://github.com/fpirri/covid19/tree/master/history/last#calcoliamo-)  
+[Il passo successivo](https://github.com/fpirri/covid19/tree/master/history/last/#il-passo-successivo)  
+[Come contribuire](https://github.com/fpirri/covid19/tree/master/history/last#how-to-contribute)  
 
-[DETAILS](https://github.com/fpirri/covid19/tree/master/history/last/#how-to-contribute)  
+[DETTAGLI](https://github.com/fpirri/covid19/tree/master/history/last/#how-to-contribute)  
   
 ----
 I started writing this document as a personal reflection, trying to understand something about the ongoing pandemic.
 I wondered how effective the measures of the governments of the various countries were and if they had been the best.
 I have examined the official statistics relating to COVID19 and have documented myself. I discovered a good number of epidemiomogical theories in the last century that talked about herd immunity, social distancing and much more by inserting a series of formulas in the mixture.  
 The history of this phase is in the section [My first steps](https://github.com/fpirri/covid19/tree/master/history/last/#my-first-steps) below.  
-  
+  <br />  
+# SOTTO: TRADUZIONE IN CORSO
+
+----
+
 <br />
 
 What happened ?
@@ -63,7 +63,7 @@ Since we have time to waste, let's do some home science and see if we can unders
 
 ----  
 
-What you may find here
+Cosa potresti trovare qui
 ----  
 
 * The amount of information you get in a single day regarding coronavirus is overwelming: what should you look at ? 
@@ -78,12 +78,12 @@ What you may find here
 
 
 
-My first steps
+I miei primi passi
 ----  
 
 It is really very difficult to understand what is happening in our world because of the coronavirus!   
 I started discussing an idea by Mats Lewan on a blog.   
-[==> DETAILS: the blog post](https://github.com/fpirri/covid19/tree/master/history/last/#details-ecat-blog-mats-lewan)  
+[==> DETTAGLI: the blog post](https://github.com/fpirri/covid19/tree/master/history/last/#details-ecat-blog-mats-lewan)  
   
 Mats Lewan looked at the number of deaths in any given day in several countries and shared is thoughts in the blog.  
 
@@ -91,7 +91,7 @@ So I looked for data on the website https://www.worldometers.info/coronavirus/#c
 The site places a lot of emphasis on the number of sick and healed, but also on the total deaths in each individual country.  
 TV follows the same format and assigns the 'primacy' to the country with the highest number of deaths. Now it's up to the USA.  
 The total number of deaths seems very important, so I took the data from the site and presented it on a single chart to better appreciate the differences.  
-[==> DETAILS: why to look at death](https://github.com/fpirri/covid19/tree/master/history/last/#details-why-to-look-at-death)
+[==> DETTAGLI: why to look at death](https://github.com/fpirri/covid19/tree/master/history/last/#details-why-to-look-at-death)
 
 The chart collects the following countries: Italy, Spain, France, Sweden, UK, USA and Germany.  
 
@@ -113,7 +113,7 @@ One possible choice is the date of the first victim of the disease.
 If we want to compare statistical events with each other we must use a characterizing moment that is quite similar for everyone.  
 In a totally arbitrary way I choose the moment in which the country exceeds 5 deaths per million inhabitants.   
 For the moment, I will postpone a discussion on this criterion further on. 
-[==> DETAILS: Why 5 death per Million](https://github.com/fpirri/covid19/tree/master/history/last/#details-why-5-death-per-million)  
+[==> DETTAGLI: Why 5 death per Million](https://github.com/fpirri/covid19/tree/master/history/last/#details-why-5-death-per-million)  
 
 We therefore define 'start' the day on which each country exceeds 5 dead per million and align the data of each country from the start forward. We thus obtain the following chart, in which the data of each country starts for each one from its 'start'.
 The X axis will then be called 'Days from start'.  
@@ -186,7 +186,7 @@ Anyway, I will start next section with the most important new question in my min
 
 <br />
 
-Let's analyze !
+Calcoliamo!
 ----  
 * This section is under construction  
 Here I will try to add other parameters, such as the number of patients and others, in light of some of the theories that are being discussed.  
@@ -197,10 +197,10 @@ The first question we have to ask ourself is:
 What do we know about COVID19 and what should we know better about it?  
 The answer is disheartening: it seems that the important parameters are either unknown or very inaccurately known.
 To understand this, I had to first study some epidemiological theories.
-[==> DETAILS: the teory](https://github.com/fpirri/covid19/tree/master/history/last/#details-epidemiology)  
+[==> DETTAGLI: the teory](https://github.com/fpirri/covid19/tree/master/history/last/#details-epidemiology)  
 
 In an interview with the newspaper Il Tempo, Prof. Carlo Gaudio observed that in the 2000s we had 5 pandemics.
-[==> DETAILS: A pandemic every 4 years](https://github.com/fpirri/covid19/tree/master/history/last/#details-a-pandemic-every-4-years)  
+[==> DETTAGLI: A pandemic every 4 years](https://github.com/fpirri/covid19/tree/master/history/last/#details-a-pandemic-every-4-years)  
 **So, we can expect the next virus between 2004 and 2007**.  
 It is not really excluded that the next one will arrive before the effect of COVID19 is finished.  
 
@@ -220,7 +220,7 @@ Question: do we know what's happening quantitatively?
 Here too the answer is almost negative: the reliability of the data we see is doubtful or even worse.
 
 Nonetheless, we can use the data that is communicated to us and try to correct it afterwards as we did for the case of deaths.
-[==> DETAILS: Why to look at Death](https://github.com/fpirri/covid19/tree/master/history/last#details-why-to-look-at-death)
+[==> DETTAGLI: Why to look at Death](https://github.com/fpirri/covid19/tree/master/history/last#details-why-to-look-at-death)
 
 ----
 
@@ -234,7 +234,7 @@ Nonetheless, we can use the data that is communicated to us and try to correct i
 <br />
 
 
-Another step
+Il passo successivo
 ----  
 
 * This section is under construction
@@ -246,7 +246,7 @@ Another step
 
 <br />
 
-How to contribute
+Come contribuire
 ----  
 
 * If you like, you can 'open an issue' on github (2nd element in the top menu)  
@@ -258,7 +258,7 @@ You can comment there, if you like.
 ----
 
 
-# DETAILS
+# DETTAGLI
 ----  
 
 * This section is under construction  
@@ -271,7 +271,7 @@ Or: why carry out the comparison starting from the value of 5 deaths per million
 
 ----
 
-# DETAILS: why to look at death
+# DETTAGLI: why to look at death
 
 * Turn list into organic display
 * Translation still to be done
@@ -293,7 +293,7 @@ si potrebbero confrontare anche i dati di comunita' chiuse e con dati meglio con
 
 ----
 
-# DETAILS: Epidemiology
+# DETTAGLI: Epidemiology
 
 * Turn list into organic display
 * Translation still to be done
@@ -349,7 +349,7 @@ MSEIRS
 
 ----
 
-# DETAILS: 
+# DETTAGLI: 
 
 * Turn list into organic display
 * Translation still to be done
@@ -370,7 +370,7 @@ basic reproductive number (R 0 )
 
 ----
 
-# DETAILS: A pandemic every 4 years
+# DETTAGLI: A pandemic every 4 years
 
 * Turn list into organic display
 * Translation still to be done
@@ -383,7 +383,7 @@ ref. a il tempo:
 
 ----
 
-# DETAILS: Why 5 death per Million
+# DETTAGLI: Why 5 death per Million
 
 * Turn list into organic display
 * Translation still to be done
@@ -437,7 +437,7 @@ Probably thi is not important.
 ----
 
 
-# DETAILS: eCat blog Mats Lewan
+# DETTAGLI: eCat blog Mats Lewan
 
 On April 26, I commented on an idea by Mats Lewan on the blog -eCat-.
 As a reference, I report below what I wrote on the blog.
