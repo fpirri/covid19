@@ -236,8 +236,9 @@ Io non lo so, non ho trovato notizie al riguardo, ma forse non so cercare ...
 
 In un'intervista al quotidiano Il Tempo, il Prof. Carlo Gaudio ha osservato che negli anni 2000 abbiamo avuto 5 pandemie.
 [==> DETTAGLI: una pandemia ogni 4 anni](./README.italiano.md/#dettagli-una-pandemia-ogni-4-anni)  
+  
 **Quindi, la prossima pandemia accadra' tra 2024 ed 2007**.  
-
+  
 Non è davvero escluso che che la prossima epidemia non arrivi prima che l'effetto di COVID19 sia terminato.
 
 
