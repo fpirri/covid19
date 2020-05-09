@@ -4,6 +4,11 @@ A discussion about how some western countries fight with coronavirus
 <br />  
 
 ----
+<br />  
+# TRADUZIONE IN CORSO
+----
+<br />  
+
 
 [What happened ?](https://github.com/fpirri/covid19/tree/master/history/last#what-happened-)  
 [What you may find here](https://github.com/fpirri/covid19/tree/master/history/last#what-you-may-find-here)  
