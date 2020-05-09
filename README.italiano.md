@@ -215,9 +215,45 @@ Anche qui la risposta è quasi negativa: l'affidabilità dei dati che vediamo è
 Tuttavia, possiamo utilizzare i dati che ci vengono comunicati e cercare di correggerli successivamente come abbiamo fatto per il caso di decessi.  
 
 **Lo stiamo facendo?**
-Io non lo so, non ho trovato notizie al riguardo, ma forse non so cercare ...
 
+Al solito, con qualche ricerca internet si ottiene qualcosa ...
+  
+  https://www.nature.com/articles/s41591-020-0883-7
+  &gt;-- un modello italiano  
+  https://rdcu.be/b34mV   shareable link
 
+https://www.corriere.it/cronache/20_aprile_24/coronavirus-lo-sviluppo-dell-infezione-decisivi-primi-10-15-giorni-69a8d1c6-8642-11ea-9ac6-16666bda3d31.shtml  
+https://www.preprints.org/manuscript/202004.0436/v1  
+  &gt;-- un altro modello italiano
+  
+-  equazione approssimata:  f (t) ≤ a . exp(M t)  
+     &gt;-- history-aux/notes123.pdf
+ 
+ https://www.scienzainrete.it/articolo/analisi-dei-dati-epidemiologici-del-coronavirus-italia-al-20-marzo/giovanni-sebastiani/2020
+     &gt;-- in realta' l'analis non c'e', si presentano dei grafici
+ 
+ http://www.nbst.it/665-coronavirus-modello-fasi-malattia-esposizione-virus-incubazione-sintomi-risposta-sistema-immunitario-anticorpi.html
+ 
+      &gt;-- sembra buono, ci sono alcuni dei parametri richiesti sopra
+ 
+      &gt;-- 
+ 
+  Sul piano economico:  
+ https://www.economiaepolitica.it/crisi-economica-coronavirus-italia-unione-europea-mondiale/osservazioni-conseguenze-economiche-del-coronavirus-teoria-economica-recessione/
+      &gt;-- 
+ 
+ Curiosita':  
+ 
+ https://www.ilfattoquotidiano.it/2020/03/03/coronavirus-quanti-gradi-di-separazione-ci-sono-fra-me-e-un-contagiato-un-modello-matematico-lo-ipotizza/5724364/  
+ 
+ https://cddep.org/covid-19/  
+ 
+ https://www.kff.org/coronavirus-policy-watch/covid-19-models/
+      &gt;--  guardiamoli tutti!
+ 
+
+ 
+ 
 ----
 
 <br />
