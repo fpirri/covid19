@@ -187,7 +187,7 @@ Comunque, inizierò la prossima sezione con la nuova domanda più importante nel
 # Calcoliamo!
 ----  
 
-* Questa sezione è in costruzione
+* Questa sezione è in costruzione.  
 Qui proverò ad aggiungere altri parametri, come il numero di pazienti e altri, alla luce di alcune teorie scientifiche che vengono discusse.  
   
 La prima domanda che dobbiamo porci è:
@@ -196,7 +196,7 @@ La risposta è scoraggiante: sembra che i parametri importanti siano sconosciuti
 Per capirlo, ho dovuto prima studiare alcune teorie epidemiologiche.
 [==> DETTAGLI: Epidemiologia](./README.italiano.md/#dettagli-epidemiologia)  
 
-Ma allora, quali parametri vorremo sapere?
+Quali parametri vorremo sapere?
 Ecco un breve e non esaustivo elenco:
 1. percentuale di persone naturalmente immuni;
 2. presenza e durata dell'immunità per le persone guarite;
@@ -263,7 +263,7 @@ You can comment there, if you like.
 # DETTAGLI
 ----  
 
-* Qusta sezione e' in lavorazione.  
+* Questa sezione e' in lavorazione.  
 Essa e' composta da varie parti, ognuna delle quali cerca di approfondire un quesito specifico, nato durante la discussione precedente.
 
 # INDICE:
@@ -277,11 +277,11 @@ DA FARE
 
 # DETTAGLI: perche' guardare ai decessi?
 
-* This section is under construction
-
-* Turn list into organic display
-* Translation still to be done
-* To be reviewed for publication
+* Questa parte e' in lavorazione  
+Da fare:
+* passare da una lista/puti vari ad esposizione corrente
+* effettuare eventuali traduzioni
+* rivedere prima della pubblicazione finale
 
 - dato molto controllato nel mondo occidentale
 - molte diverse sorgenti sia ufficiali che indirette
@@ -301,11 +301,11 @@ si potrebbero confrontare anche i dati di comunita' chiuse e con dati meglio con
 
 # DETTAGLI: Epidemiologia
 
-* This section is under construction
-
-* Turn list into organic display
-* Translation still to be done
-* To be reviewed for publication
+* Questa parte e' in lavorazione  
+Da fare:
+* passare da una lista/puti vari ad esposizione corrente
+* effettuare eventuali traduzioni
+* rivedere prima della pubblicazione finale
  
 Negli ultimi 100 anni si e' tentato di ottenere modelli matematici formali per analizzare l'andamento delle epidemie. Lo scopo principale del modello matematico e' quello di individuare a priori l'efficacia delle misure preventive che si vogliono usare.
 Senza entrare troppo nello specifico, i modelli piu' noti dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:
@@ -355,11 +355,12 @@ MSEIRS
 
 # DETTAGLI: 
 
-* This section is under construction
+* Questa parte e' in lavorazione  
+Da fare:
+* passare da una lista/puti vari ad esposizione corrente
+* effettuare eventuali traduzioni
+* rivedere prima della pubblicazione finale
 
-* Turn list into organic display
-* Translation still to be done
-* To be reviewed for publication
 
 Un esempio di come potrebbero essere fatte le cose ? ....
 
@@ -378,11 +379,12 @@ basic reproductive number (R 0 )
 
 # DETTAGLI: Una pandemia ogni 4 anni
 
-* This section is under construction
+* Questa parte e' in lavorazione  
+Da fare:
+* passare da una lista/puti vari ad esposizione corrente
+* effettuare eventuali traduzioni
+* rivedere prima della pubblicazione finale
 
-* Turn list into organic display
-* Translation still to be done
-* To be reviewed for publication
 
 ref. a il tempo:
 [Carlo Gaudio - Il Tempo](https://www.iltempo.it/salute/2020/04/11/news/date-e-numeri-parla-il-professor-carlo-gaudio-che-cosa-ci-insegnano-le-epidemie-1313244/)
@@ -393,11 +395,12 @@ ref. a il tempo:
 
 # DETTAGLI: Perche' 5 decessi per milione?
 
-* This section is under construction
+* Questa parte e' in lavorazione  
+Da fare:
+* passare da una lista/puti vari ad esposizione corrente
+* effettuare eventuali traduzioni
+* rivedere prima della pubblicazione finale
 
-* Turn list into organic display
-* Translation still to be done
-* To be reviewed for publication
 
 - il primo morto appare poco certo e statisticamente troppo variabile
 - necessita' di avere punti di uguale significato per tutti:
