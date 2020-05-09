@@ -7,7 +7,7 @@ Una discussione su come alcuni paesi occidentali combattono con il coronavirus
 <br />  
 
 
-[Cosa e' successo?](./README.italiano.md#cosa-e--successo-)  
+[Cosa e' successo?](./README.italiano.md#cosa-e-successo-)  
 [Cosa potresti trovare qui](./README.italiano.md#cosa-potresti-trovare-qui)  
 [I miei primi passi](./README.italiano.md#i-miei-primi-passi)  
 [Calcoliamo!](./README.italiano.md#calcoliamo)  
@@ -17,10 +17,11 @@ Una discussione su come alcuni paesi occidentali combattono con il coronavirus
 [DETTAGLI](./README.italiano.md#dettagli)  
   
 ----
-I started writing this document as a personal reflection, trying to understand something about the ongoing pandemic.
-I wondered how effective the measures of the governments of the various countries were and if they had been the best.
-I have examined the official statistics relating to COVID19 and have documented myself. I discovered a good number of epidemiomogical theories in the last century that talked about herd immunity, social distancing and much more by inserting a series of formulas in the mixture.  
-The history of this phase is in the section [My first steps](./README.italiano.md#i-miei-primi-passi) below.  
+Ho iniziato a scrivere questo documento come una riflessione personale, cercando di capire qualcosa sulla pandemia in corso. 
+Mi chiedevo quanto fossero efficaci le misure dei governi dei vari paesi e se fossero state le migliori.  
+Ho esaminato le statistiche ufficiali relative a COVID19 e mi sono documentato facendo qualche ricerca.
+Ho scoperto un buon numero di teorie epidemiomogiche che gia' nel secolo scorso parlavano dell'immunità della mandria, del distanziamento sociale e molto altro, spesso inserendo serie di formule nel miscuglio.  
+La storia di questa fase è nella sezione [I miei primi passi](./README.italiano.md#i-miei-primi-passi) below.  
   <br />  
 # SOTTO: TRADUZIONE IN CORSO
 
@@ -32,32 +33,32 @@ Cosa e' successo?
 ----  
 
   
-2020-04-28 - In Italy we are all at home. We are inundated with news on COVID19 from the continuous television news, the newspapers do not talk about anything else and, in the chats (at a distance) with friends, we (almost) always discuss the coronavirus.  
-The main actors of the various speeches are mainly two: the medical reports from the hospitals and the actions of the rulers.  
-Third parties and distant actors are the experts, or presumed such.
+Firenze, 2020-04-28 - In Italia siamo tutti a casa. Siamo inondati di notizie su COVID19 dalle continue notizie televisive, i giornali non parlano di nient'altro e, nelle chat (a distanza) con gli amici, discutiamo (quasi) sempre del coronavirus.  
+Gli attori principali dei vari discorsi sono principalmente due: i referti medici degli ospedali e le azioni dei governanti.  
 
-The medical reports are fairly coherent with each other: it's a war, we risked losing it and we haven't come out yet.
-Apart from the more or less bleak comments, there are no real discussions.
+Terze parti e attori distanti sono gli esperti, o presunti tali.
 
-Various steps have followed on government policies:
-1. Initially, the epidemic was heavily underestimated
-2. Then the government begins to say that something will have to be done, however everything will be fine
-3. Then the government wants to show that it does something and imposes restrictions on people's movements and starts to debate what to do ...
-4. ... then there is a frantic succession of decisions in the government and in the various administrations, often contradicting each other ...
-5. ... finally, government and population are convinced that the tragedy is epoch-making and resign themselves to following a series of measures to mitigate the economic consequences of the disaster.  
+I referti medici sono abbastanza coerenti tra loro: è una guerra, abbiamo rischiato di perderla e non siamo ancora usciti. A parte i commenti più o meno desolanti, non ci sono discussioni vere.
 
-However, a not negligible part of the population remains scattered on different hypotheses and does not resign itself to common actions.  
+Sono seguiti vari passi sulle politiche del governo:
+1. Inizialmente, l'epidemia è stata fortemente sottovalutata
+2. Quindi il governo inizia a dire che qualcosa dovrà essere fatto, tuttavia tutto andrà bene
+3. Quindi il governo vuole dimostrare che fa qualcosa e impone restrizioni ai movimenti delle persone e inizia a discutere su cosa fare ...
+4. ... poi c'è una frenetica successione di decisioni nel governo e nelle varie amministrazioni, che spesso si contraddicono a vicenda ...
+5. ... infine, il governo e la popolazione sono convinti che la tragedia stia facendo epoca e si rassegnano a seguire una serie di misure per mitigare le conseguenze economiche del disastro.  
 
-A question comes naturally: **what are we doing is based on scientific analysis or is it based only on instinctive reactions?**  
+Tuttavia, una parte non trascurabile della popolazione rimane sparsa su diverse ipotesi e non si rassegna alle azioni comuni.  
 
-Are the experts giving us the answer?  
-Those we see on TV or who write in newspapers often appear 'characters' in search of notoriety. In fact, science is not done on TV or in newspapers, but by conducting experiments and, during a pandemic, it is not easy.  
+Una domanda viene spontanea: cosa stiamo facendo si basa sull'analisi scientifica o si basa solo su reazioni istintive?  
 
-There is also a strong suspicion that **they treat us like children** to whom it is good not to tell the naked and raw truth.  
+Gli esperti ci stanno dando la risposta?  
+Quelli che vediamo in TV o che scrivono sui giornali spesso appaiono *personaggi* in cerca di notorietà. In effetti, la scienza non si fa in TV o sui giornali, ma conducendo esperimenti e, durante una pandemia, non è facile.
 
-Since we have time to waste, let's do some home science and see if we can understand something more.
+C'è anche un forte sospetto che ci trattino come bambini a cui è bene non dire la nuda e cruda verità.
 
-**This document is an attempt to analyze the situation in a slightly more scientific way than watching television.**
+Dato che abbiamo tempo da perdere, facciamo un po' di scienza casaslinga e vediamo se riusciamo a capire qualcosa di più.
+
+**Questo documento è un tentativo di analizzare la situazione in un modo leggermente più scientifico rispetto a guardare la televisione.**
    
 <br />
 
