@@ -22,11 +22,9 @@ Mi chiedevo quanto fossero efficaci le misure dei governi dei vari paesi e se fo
 Ho esaminato le statistiche ufficiali relative a COVID19 e mi sono documentato facendo qualche ricerca.
 Ho scoperto un buon numero di teorie epidemiomogiche che gia' nel secolo scorso parlavano dell'immunità della mandria, del distanziamento sociale e molto altro, spesso inserendo serie di formule nel miscuglio.  
 La storia di questa fase è nella sezione [I miei primi passi](./README.italiano.md#i-miei-primi-passi) below.  
-  <br />  
-# SOTTO: TRADUZIONE IN CORSO
-
-----
-
+ 
+ ----
+ 
 <br />
 
 Cosa e' successo?
@@ -193,41 +191,41 @@ Here I will try to add other parameters, such as the number of patients and othe
 
 ----
 
-The first question we have to ask ourself is:
-What do we know about COVID19 and what should we know better about it?  
-The answer is disheartening: it seems that the important parameters are either unknown or very inaccurately known.
-To understand this, I had to first study some epidemiological theories.
-[==> DETTAGLI: the teory](./README.italiano.md/#dettagli-epidemiology)  
-
-In an interview with the newspaper Il Tempo, Prof. Carlo Gaudio observed that in the 2000s we had 5 pandemics.
-[==> DETTAGLI: A pandemic every 4 years](./README.italiano.md/#dettagli-a-pandemic-every-4-years)  
-**So, we can expect the next virus between 2004 and 2007**.  
-It is not really excluded that the next one will arrive before the effect of COVID19 is finished.  
-
-So what parameters would we like to know?
-Here is a brief and non-exhaustive list:
-1. percentage of naturally immune people;
-2. presence and duration of immunity for healed people;
-3. difference, if any, between contagiosity by air transmission and by contact;
-4. relationship between physical closeness, the time spent in proximity and the probability of contagion;
-5. duration and contagiousness of the incubation period;
-6. range of times for healing.
-
-Not being able to experiment, we must try to deduce the parameters by observing what is happening in the affected countries.
-To use a scientific method we should hypothesize a mathematical model and compare the real data with what is happening.  
+* Questa sezione è in costruzione
+Qui proverò ad aggiungere altri parametri, come il numero di pazienti e altri, alla luce di alcune teorie scientifiche che vengono discusse.  
   
-Question: do we know what's happening quantitatively?
-Here too the answer is almost negative: the reliability of the data we see is doubtful or even worse.
+La prima domanda che dobbiamo porci è:
+Cosa sappiamo di COVID19 e cosa dovremmo sapere meglio al riguardo?  
+La risposta è scoraggiante: sembra che i parametri importanti siano sconosciuti o poco conosciuti.
+Per capirlo, ho dovuto prima studiare alcune teorie epidemiologiche.
+[==> DETTAGLI: la teoria](./README.italiano.md/#dettagli-epidemiologia)  
 
-Nonetheless, we can use the data that is communicated to us and try to correct it afterwards as we did for the case of deaths.
-[==> DETTAGLI: Why to look at Death](./README.italiano.md#dettagli-why-to-look-at-death)
+In un'intervista al quotidiano Il Tempo, il Prof. Carlo Gaudio ha osservato che negli anni 2000 abbiamo avuto 5 pandemie.
+[==> DETTAGLI: una pandemia ogni 4 anni](./README.italiano.md/#dettagli-una-pandemia-ogni-4-anni)  
+**Quindi, la prossima pandemia accadra' tra 2024 ed 2007**.  
+Non è davvero escluso che che la prossima epidemia non arrivi prima che l'effetto di COVID19 sia terminato.
+
+Ma allora, quali parametri vorremo sapere?
+Ecco un breve e non esaustivo elenco:
+1. percentuale di persone naturalmente immuni;
+2. presenza e durata dell'immunità per le persone guarite;
+3. eventuale differenza tra contagio per trasmissione aerea e per contatto;
+4. relazione tra vicinanza fisica, tempo trascorso in prossimità e probabilità di contagio;
+5. durata e contagiosità del periodo di incubazione;
+6. intervallo di tempo per la guarigione.
+
+Non potendo sperimentare, dobbiamo cercare di dedurre i parametri osservando ciò che sta accadendo nei paesi interessati.  
+Per usare un metodo scientifico dovremmo ipotizzare un modello matematico e confrontare i dati reali con ciò che sta accadendo.  
+  
+Domanda: sappiamo cosa sta succedendo quantitativamente?  
+Anche qui la risposta è quasi negativa: l'affidabilità dei dati che vediamo è dubbia o addirittura peggiore.  
+
+Tuttavia, possiamo utilizzare i dati che ci vengono comunicati e cercare di correggerli successivamente come abbiamo fatto per il caso di decessi.  
+[==> DETTAGLI: Perche' guardare ai decessi?](./README.italiano.md#dettagli-perche-guardare-ai-decessi)
 
 ----
 
 <br />
-
-----
-[==> DETAILS](./README.italiano.md/#details)  
   
 ----
 
@@ -246,7 +244,7 @@ Nonetheless, we can use the data that is communicated to us and try to correct i
 
 <br />
 
-Come contribuire
+# Come contribuire
 ----  
 
 * If you like, you can 'open an issue' on github (2nd element in the top menu)  
@@ -273,6 +271,8 @@ Or: why carry out the comparison starting from the value of 5 deaths per million
 
 # DETTAGLI: perche' guardare ai decessi?
 
+* This section is under construction
+
 * Turn list into organic display
 * Translation still to be done
 * To be reviewed for publication
@@ -294,6 +294,8 @@ si potrebbero confrontare anche i dati di comunita' chiuse e con dati meglio con
 ----
 
 # DETTAGLI: Epidemiologia
+
+* This section is under construction
 
 * Turn list into organic display
 * Translation still to be done
@@ -351,6 +353,8 @@ MSEIRS
 
 # DETTAGLI: 
 
+* This section is under construction
+
 * Turn list into organic display
 * Translation still to be done
 * To be reviewed for publication
@@ -372,6 +376,8 @@ basic reproductive number (R 0 )
 
 # DETTAGLI: Una pandemia ogni 4 anni
 
+* This section is under construction
+
 * Turn list into organic display
 * Translation still to be done
 * To be reviewed for publication
@@ -384,6 +390,8 @@ ref. a il tempo:
 ----
 
 # DETTAGLI: Perche' 5 decessi per milione?
+
+* This section is under construction
 
 * Turn list into organic display
 * Translation still to be done
@@ -402,20 +410,8 @@ vedere come cambia l'origine e/o il confronto se si fa una scelta diversa: come 
 
 ----
 
-
-
-PLEASE NOTE: this is WORK IN PROGRESS
-===
-
-This document is incomplete: I am trying to coordinate my thoughts, but I cannot find a common thread in the many things I read online.
-I need help.  
- Do you have any suggestion?
-<br />
-
-----
-
 Tentative sections.  
-I accept suggestions.  
+(I accept suggestions).  
 
 [Document short description]()  
 Not easy!  
