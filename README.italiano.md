@@ -184,12 +184,8 @@ Comunque, inizierò la prossima sezione con la nuova domanda più importante nel
 
 <br />
 
-Calcoliamo!
+# Calcoliamo!
 ----  
-* This section is under construction  
-Here I will try to add other parameters, such as the number of patients and others, in light of some of the theories that are being discussed.  
-
-----
 
 * Questa sezione è in costruzione
 Qui proverò ad aggiungere altri parametri, come il numero di pazienti e altri, alla luce di alcune teorie scientifiche che vengono discusse.  
@@ -198,7 +194,7 @@ La prima domanda che dobbiamo porci è:
 Cosa sappiamo di COVID19 e cosa dovremmo sapere meglio al riguardo?  
 La risposta è scoraggiante: sembra che i parametri importanti siano sconosciuti o poco conosciuti.
 Per capirlo, ho dovuto prima studiare alcune teorie epidemiologiche.
-[==> DETTAGLI: la teoria](./README.italiano.md/#dettagli-epidemiologia)  
+[==> DETTAGLI: Epidemiologia](./README.italiano.md/#dettagli-epidemiologia)  
 
 In un'intervista al quotidiano Il Tempo, il Prof. Carlo Gaudio ha osservato che negli anni 2000 abbiamo avuto 5 pandemie.
 [==> DETTAGLI: una pandemia ogni 4 anni](./README.italiano.md/#dettagli-una-pandemia-ogni-4-anni)  
@@ -265,6 +261,11 @@ This section is organized into several parts. Each will discuss a particular poi
 For example: why start with the dead?  
 Or: why carry out the comparison starting from the value of 5 deaths per million inhabitants?  
 
+INDICE:
+----
+
+SA FARE
+
 <br />
 
 ----
@@ -300,14 +301,6 @@ si potrebbero confrontare anche i dati di comunita' chiuse e con dati meglio con
 * Turn list into organic display
 * Translation still to be done
 * To be reviewed for publication
-
-Senza entrare troppo nello specifico, i modelli dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:
-* S    Susceptible
- * E    Exposed
- * I    Infected
- * R     Removed, Recovered or Death
- I modelli studiano  i passaggi da una classe all'altra per gli individui in una popolazione assegnata.
- Su internet troviamo il modello SIR, cioe' il modello Suscettibile-Infected-Removed ed altri.
  
 Negli ultimi 100 anni si e' tentato di ottenere modelli matematici formali per analizzare l'andamento delle epidemie. Lo scopo principale del modello matematico e' quello di individuare a priori l'efficacia delle misure preventive che si vogliono usare.
 Senza entrare troppo nello specifico, i modelli dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:
@@ -342,6 +335,10 @@ SEIR
 SEIS
 MSEIR
 MSEIRS
+
+
+
+ Su internet troviamo il modello SIR, cioe' il modello Suscettibile-Infected-Removed ed altri.
 
  
   There are many modifications of the SIR model, including those that include births and deaths, where upon recovery there is no immunity (SIS model), where immunity lasts only for a short period of time (SIRS), where there is a latent period of the disease where the person is not infectious (SEIS and SEIR), and where infants can be born with immunity (MSIR). 
