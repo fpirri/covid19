@@ -211,7 +211,25 @@ I valori siano:
 Come coefficente di difficolta' definirei 3-2-1 nell'ordine come sopra.  
 In base ad eventuali commenti motivati potremo  calcolare anche graduatorie diverse da quella che otterremo calcolando come sopra.  
 
-Poiche' al momento non e' possibile eseguire i calcoli necessari, aggiungero' un foglio al foglio di calcolo allegato, riportando qui la graduatoria temporanea disponibile.  
+Poiche' al momento non e' possibile eseguire i calcoli necessari, aggiungo un foglio al foglio di calcolo allegato e riporto qui la graduatoria temporanea disponibile:  
+
+Data:  2020-05-10
+       Italy     16
+     Spain     10
+    France    25
+  Sweden   37
+       UK      25
+      USA      46
+  Germany   60
+
+L'Italia viene leggermente penalizzata dal fatto che la sua durata e' al momento la peggiore, essendo partita per prima.
+
+Riassumendo:  1.a Germania, 2.a USA, 3.a Svezia  
+
+In effetti, guardando i grafici non c'e' storia: La Germania vince su tutta la linea.  
+
+I calcoli sono riportati nel foglio **rank** del foglio di calcolo allegato.
+
 
 **da fare:**
 - individure i valori
@@ -482,13 +500,7 @@ https://www.preprints.org/manuscript/202004.0436/v1
       &gt;-- Received: 22 April 2020 / Approved: 24 April 2020
       &gt;-- vedere se e' citato nell'articolo 'nature' <-- NO
  
- 
- 
-
-Un esempio italiano di come potrebbero essere fatte le cose e' in 
-[Mitigation Measures for Pandemic Influenza in Italy: An Individual Based Model Considering Different Scenarios](https://doi.org/10.1371/journal.pone.0001790)  
-Il lavoro e' stato sottoposto alla pubblicazione nel 2017.
-l
+ l
 
 <br />
 
@@ -507,7 +519,7 @@ Da fare:
 
 # DETTAGLI: Una pandemia ogni 4 anni
 
-* Questa parte e' in lavorazione  
+* Questa parte e' in lavorazione sopra  
 Da fare:
 * passare da una lista/puti vari ad esposizione corrente
 * effettuare eventuali traduzioni
@@ -541,58 +553,6 @@ vedere come cambia l'origine e/o il confronto se si fa una scelta diversa: come 
 
 <br />  
 
-----
-<br />
-
-FINALMENTE, il lavoro di consultazione e' ora sufficiente.  
-Andrebbero contriollate anche le cose sotto, ma pazienza, lo faro' con comodo ....
-----
-
-# Spuntare ed eliminare il seguito  ------
-
-Lasciare in fondo il riferimento al blog eCat.  
-
-  Sul piano economico:  
- https://www.economiaepolitica.it/crisi-economica-coronavirus-italia-unione-europea-mondiale/osservazioni-conseguenze-economiche-del-coronavirus-teoria-economica-recessione/
-      &gt;-- 
- 
- Curiosita':  
- https://www.ilfattoquotidiano.it/2020/03/03/coronavirus-quanti-gradi-di-separazione-ci-sono-fra-me-e-un-contagiato-un-modello-matematico-lo-ipotizza/5724364/  
- 
- https://cddep.org/covid-19/  
- 
- https://www.kff.org/coronavirus-policy-watch/covid-19-models/
-      &gt;--  guardiamoli tutti!
-
-Aggiungere o no la seguente considerazione:  
-Le considerazioni svolte sopra dovrebbero essere sufficenti per arrivare a concludere che guardando solo la TV non si riesce ad avere una fotografia reale del mondo in cui viviamo.  
-
-
-
-Tentative sections.  
-(I accept suggestions).  
-
-[Document short description]()  
-Not easy!  
-  
-  
-[Herd immunity]()  
-Is it applicable?  
-  
-
-[Why I write this document]()  
-Probably thi is not important.
-  
-
-[What this document discuss]()  
-
-
-* You can send an email to  covid19@gothings.org
-* I will post about this document on the forum: https://e-catworld.com/
-You can comment there, if you like.
-
-
-<br />
 ----
 
 
