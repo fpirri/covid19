@@ -186,10 +186,11 @@ Cosa avremmo dovuto fare e non abbiamo fatto abbastanza?
 # Calcoliamo!
 ----  
 
-Lo scopo iniziale delle riflessioni era un confronto tra i vari paesi.  
-Cerchiamo un modo semplice, ma che sia oggettivo.
+Lo scopo iniziale delle riflessioni era un confronto tra i vari paesi.
+Cerchiamo un modo semplice, ma che sia oggettivo.  
 Come possiamo farlo?  
-Per porre in modo piu' formale il quesito, cerchiamo, per ognuno dei paesi esaminati:  
+  
+Per porre in modo piu' formale il quesito, cerchiamo, per ognuno dei paesi esaminati:
 - il valore di picco del contagio;
 - la durata dal giorno start al picco;
 - definiamo 'end' il giorno in cui i decessi giornalieri decrescono fino a sotto una media semplice settimanale uguale al valore di partenza;
@@ -217,7 +218,6 @@ Poiche' al momento non e' possibile eseguire i calcoli necessari, aggiungero' un
 - descrivere il procedimento usato
 - calcolare la tabella temporanea
 
-Iniziamo dal massimo.
 . . . 
 
 
@@ -247,6 +247,7 @@ Ecco un breve e non esaustivo elenco:
 
 Forse queste non sono le domande giuste per un esperto, ma credo siano normali per la nostra scienza casalinga.  
 Sperando di trovare le risposte, vediamo su internet cosa e' stato fatto negli ultimi 100 anni.  
+  
 Si e' cercata una formalizzazione matematica, ovvero un modello analitico che ci consenta di valutare oggettivamente l'andamento delle epidemie. Uno scopo utile del modello matematico e' quello di valutare a priori l'efficacia delle misure preventive che si vogliono usare.  
 Senza entrare troppo nello specifico, i modelli piu' noti dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:  
  * S    Susceptible
@@ -269,21 +270,19 @@ Senza entrare troppo nello specifico, i modelli piu' noti dividono la popolazion
  * C Carrier
      * individui che hanno la malattia latente (es. tubercolosi)
      * possono trasmetterla indefinitamente nel tempo
-     * non considerati in alcune teorie;
+     * non considerati in molte teorie;
      
  Le definizioni sembrano poter subire variazioni nelle varie teorie.
 
 I modelli matematici studiano  i passaggi da una classe all'altra per gli individui in una popolazione assegnata.
-Il padre dei vari modelli e' il modello SIR: Suscettibile-Infected-Removed
-[Mathematical modelling of infectious disease](https://en.wikipedia.org/wiki/Mathematical_modelling_of_infectious_disease)
+Il padre dei vari modelli e' il modello SIR: Suscettibile-Infected-Removed, presntato in: [Mathematical modelling of infectious disease](https://en.wikipedia.org/wiki/Mathematical_modelling_of_infectious_disease)
   
-Altri modelli sono stati sviluppati:
-[Compartmental models in epidemiology](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology)
+Altri modelli sono stati sviluppati, per esempio: [Compartmental models in epidemiology](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology)
   
 Un elenco incompleto vede nomi come: SIRD, MSIR, Carrier state, SEIR , SEIS, MSEIR, MSEIRS.
    
- Ci sono anche modelli che si basano su principi diversi, come simulazioni del percorso della malattia in un mondo virtuale. 
- In questi modelli si popola il mondo virtuali di individui costruiti approssimativamente come le classi di cui sopra, e si studiano gli effetti di varie ipotesi per prendere decisioni.  
+ Ci sono anche modelli che si basano su principi diversi, come simulazioni del percorso della malattia in un mondo virtuale.   
+ In questi modelli si popola un mondo virtuale di individui costruiti approssimativamente come le classi di cui sopra, si simulano poi i passaggi degli individui da una classe all'altra nel tempo virtuale, anche allo scopo di valutare gli effetti di varie ipotesi e prendere, quindi, decisioni sperabilmente piu' motivate.  
 
 Chiaramente, la cosa sta divenendo troppo grande e troppo complicata per la nostra scienza casalinga.  
 Infatti, per usare il metodo scientifico dovremmo ipotizzare quale sia il modello matematico giusto, realizzarlo, studiarlo, confrontare i dati reali con ciò che sta accadendo, poi decidere se abbiamo ragione.  
@@ -300,7 +299,7 @@ Il lavoro si basa su un modello SEIRS accoppiato ad una simulazione della popola
 Premetto di non conoscere, ad ora, nessuno degli autori del lavoro e che non sono in grado di misurare la qualita' del lavoro che essi hanno fatto.  
 Tuttavia, considero scientificamente rilevante  il metodo usato e cerchero' maggiori informazioni al riguardo.  
   
-Sempre rimanendo nel mondo scientifico, un [altro lavoro scientifico](https://www.nature.com/articles/s41591-020-0883-7.epdf) e' stato pubblicato su Nature Medicine il 22 Aprile 2020, autori Giulia Giordano, Franco Blanchini, Raffaele Bruno, Patrizio Colaneri, Alessandro Di Filippo, Angela Di Matteo, Marta Colaneri.  
+Sempre rimanendo nel mondo scientifico, un [altro lavoro](https://www.nature.com/articles/s41591-020-0883-7.epdf) e' stato pubblicato su Nature Medicine il 22 Aprile 2020, autori Giulia Giordano, Franco Blanchini, Raffaele Bruno, Patrizio Colaneri, Alessandro Di Filippo, Angela Di Matteo, Marta Colaneri.  
 E' un lavoro prettamente italiano e vale la pena di leggerlo anche se non si e' in grado di valutarlo appieno (e' il mio caso).
 Anche in questo caso non conosco nessuno degli autori e non sono in grado di valutare il valore scienttifico del loro lavoro. Posso dire che la rivista e' nota come rivista internazionale di alto valore scientifico.
 <br />
@@ -308,7 +307,7 @@ Anche in questo caso non conosco nessuno degli autori e non sono in grado di val
 La mia conclusione e' che gli esperti esistono e chi deve prendere decisioni politiche dovrebbe preoccuparsi in ogni situazione di trovarli e usarli per analizzare la situazione e solo dopo prendere le decisioni del caso.  
 I lavori citati sopra, quelli pertinenti che non ho citato e quelli che non ho proprio visto possono testimoniare che qualcuno ha fatto molto.
 
-Non e' questa la sede per valutare da questo punto di vista l'operato dei vari Governi del mondo, ma voglio concludere con le osservazioni che riporto sotto.  
+Non e' questa la sede per valutare da questo punto di vista l'operato dei vari Governi del mondo, ma voglio comunque esporre le osservazioni che riporto sotto.  
 
 La nostra Nazione ha offerto al mondo grandi nomi di scienziati, dai tempi antichi ad oggi.  
 Recentemente, anche in Italia, la scienza e' stata indicata come una cosa del passato, non piu' utile, che dovrebbe lasciare il passo ad altre considerazioni.
