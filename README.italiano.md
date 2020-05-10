@@ -320,9 +320,8 @@ Non è davvero escluso che che la prossima epidemia non arrivi prima che l'effet
 # Come contribuire
 ----  
 
-* You can send an email to  covid19@gothings.org
-* I will post about this document on the forum: https://e-catworld.com/
-You can comment there, if you like.
+* via email:  covid19@gothings.org
+* scrivero' un riferimento a questo documento sul [forum citato](https://e-catworld.com/), dove e' possibile commentare.
 
 <br />
 
