@@ -12,6 +12,7 @@ Una discussione su come alcuni paesi occidentali combattono con il coronavirus
 [I miei primi passi](./README.italiano.md#i-miei-primi-passi)  
 [Calcoliamo!](./README.italiano.md#calcoliamo)  
 [Il passo successivo](./README.italiano.md#il-passo-successivo)  
+[Il passo che dovremmo fare](./README.italiano.md#il-passo-che-dovremmo-fare)  
 [Come contribuire](./README.italiano.md#come-contribuire)  
 
 [DETTAGLI](./README.italiano.md#dettagli)  
@@ -178,8 +179,6 @@ Perché la discesa è molto più lenta della salita?
 Quali altri parametri dovrei guardare immediatamente?  
 Cosa avremmo dovuto fare e non abbiamo fatto abbastanza?  
 
-Comunque, inizierò la prossima sezione con la nuova domanda più importante nella mia mente.
-
 ----
 
 <br />
@@ -187,12 +186,48 @@ Comunque, inizierò la prossima sezione con la nuova domanda più importante nel
 # Calcoliamo!
 ----  
 
-* Questa sezione è in costruzione.  
-Qui proverò ad aggiungere altri parametri, come il numero di pazienti e altri, alla luce di alcune teorie scientifiche che vengono discusse.  
+Lo scopo iniziale delle riflessioni era un confronto tra i vari paesi.  
+Cerchiamo un modo semplice, ma che sia oggettivo.
+Come possiamo farlo?  
+Per porre in modo piu' formale il quesito, cerchiamo, per ognuno dei paesi esaminati:  
+- il valore di picco del contagio;
+- la durata dal giorno start al picco;
+- definiamo 'end' il giorno in cui i decessi giornalieri decrescono fino a sotto una media semplice settimanale uguale al valore di partenza;
+- comunque, stabiliamo il 30 Giugno 2020 come termine ultimo del confronto;
+- calcoliamo la durata del contagio dal giorno start al giorno end.
+
+A questo punto, calcoliamo l'ordine dei paesi  secondo questi criteri:
+- definiamo (piu' avanti) i valori da confrontare;
+- per ogni valore assegnamo ad ogni paese un punteggio tra 1 e 10, con 10 al paese *migliore* sul parametro, 1 al paese *peggiore* e gli altri proporzionalmente alle loro differenze con il migliore;
+- analogamente ai concorsi per i tuffi acrobatici, stabiliamo anche un *coefficente di difficolta'* per i punteggi ottenuti;
+- la graduatoria sara' stabilita sommando i prodotti *punteggio per coefficente* cosi' accumulati.  
+
+I valori siano:
+- totale dei decessi per milione in tutto il periodo;
+- valore di picco dei decessi giornalieri;
+- durata totale del periodo start-to-end;
+
+Come coefficente di difficolta' definirei 3-2-1 nell'ordine come sopra.  
+In base ad eventuali commenti motivati potremo  calcolare anche graduatorie diverse da quella che otterremo calcolando come sopra.  
+
+Poiche' al momento non e' possibile eseguire il calcolo di cui sopra, aggiungero' un foglio al foglio di calcolo allegato, riportando qui la graduatoria temporanea disponibile.  
+
+Vediamo ora 
+
+
+
   
-La prima domanda che dobbiamo porci è:
+----
+
+<br />
+
+
+# Il passo successivo
+----  
+  
+Dovremmo porci adesso la seguente domanda:
 Cosa sappiamo di COVID19 e cosa dovremmo sapere meglio al riguardo?  
-La risposta è scoraggiante: sembra che i parametri importanti siano sconosciuti o poco conosciuti.
+La mia risposta è scoraggiante: sembra che i parametri importanti siano sconosciuti o poco conosciuti.
 Per capirlo, ho dovuto prima studiare alcune teorie epidemiologiche.
 [==> DETTAGLI: Epidemiologia](./README.italiano.md/#dettagli-epidemiologia)  
 
@@ -244,7 +279,7 @@ Un elenco incompleto vede nomi come: SIRD, MSIR, Carrier state, SEIR , SEIS, MSE
    
  Ci sono anche modelli che si basano su principi diversi, come simulazioni del percorso della malattia in un mondo virtuale. 
  In questi modelli si popola il mondo virtuali di individui costruiti approssimativamente come le classi di cui sopra, e si studiano gli effetti di varie ipotesi per prendere decisioni.  
-  
+
 Chiaramente, la cosa sta divenendo troppo grande e troppo complicata per la nostra scienza casalinga.  
 Infatti, per usare il metodo scientifico dovremmo ipotizzare quale sia il modello matematico giusto, realizzarlo, studiarlo, confrontare i dati reali con ciò che sta accadendo, poi decidere se abbiamo ragione.  
  
@@ -266,11 +301,14 @@ Anche in questo caso non conosco nessuno degli autori e non sono in grado di val
 <br />
 
 La mia conclusione e' che gli esperti esistono e chi deve prendere decisioni politiche dovrebbe preoccuparsi in ogni situazione di trovarli e usarli per analizzare la situazione e solo dopo prendere le decisioni del caso.  
+I lavori citati sopra, quelli pertinenti che non ho citato e quelli che non ho proprio visto possono testimoniare che qualcuno ha fatto molto.
 
 Non e' questa la sede per valutare da questo punto di vista l'operato dei vari Governi del mondo, ma voglio concludere con le osservazioni che riporto sotto.  
 
 La nostra Nazione ha offerto al mondo grandi nomi di scienziati, dai tempi antichi ad oggi.  
-Recentemente, anche in Italia, la scienza e' stata indicata come una cosa del passato, non piu' utile, che dovrebbe lasciare il passo ad altre considerazioni.  
+Recentemente, anche in Italia, la scienza e' stata indicata come una cosa del passato, non piu' utile, che dovrebbe lasciare il passo ad altre considerazioni.
+Al massimo, solo la tecnologia puo' essere di qualche utilita'.  
+
 Una frase indicativa che ascolto spesso e'  
  *Sai, di matematica non capisco niente, pero' ...*  
 con l'aria snob di chi considera il fatto di non capire la matematica come una qualita' interessante.  
@@ -287,19 +325,17 @@ Invito tutti a riflettere sulla prossima domanda:
 Naturalmente, ipotizzando che il suddetto laboratorio, oltre ad esistere, fosse anche ascoltato.
 
 ----
+<br />  
 
-<br />
-  
+# Il passo che dovremmo fare
 ----
 
-<br />
-
-
-# Il passo successivo
-----  
-
-* This section is under construction
-
+* Questa sezione e' in lavorazione  
+Da fare:
+* fare abstract dell'intervista di Gaudio
+* rivedere prima della pubblicazione finale
+  
+Domanda:  
 **Ci dobbiamo preoccupare per il futuro?**
 
 In un'intervista al quotidiano Il Tempo, il Prof. Carlo Gaudio ha osservato che negli anni 2000 abbiamo avuto 5 pandemie.
@@ -308,10 +344,6 @@ In un'intervista al quotidiano Il Tempo, il Prof. Carlo Gaudio ha osservato che 
 **Quindi, la prossima pandemia accadra' tra 2024 ed 2007**.  
   
 Non è davvero escluso che che la prossima epidemia non arrivi prima che l'effetto di COVID19 sia terminato.
-
-
-----
-<br />  
 
 ----
 
@@ -331,11 +363,15 @@ Non è davvero escluso che che la prossima epidemia non arrivi prima che l'effet
 # DETTAGLI
 ----  
 
-* Questa sezione e' in lavorazione.  
-Essa e' composta da varie parti, ognuna delle quali cerca di approfondire un quesito specifico, nato durante la discussione precedente.
+Questa sezione e' composta da varie parti, ognuna delle quali cerca di approfondire un quesito specifico, nato durante la discussione riportata sopra.
+
+----
 
 # INDICE:
+----
+
 DA FARE
+vedere: fare come README.md di base?
 
 ----
 
@@ -374,6 +410,8 @@ Da fare:
 * passare da una lista/puti vari ad esposizione corrente
 * effettuare eventuali traduzioni
 * rivedere prima della pubblicazione finale
+ 
+ Il contenuto sotto e' in parte gia' usato.
  
 Negli ultimi 100 anni si e' tentato di ottenere modelli matematici formali per analizzare l'andamento delle epidemie. Lo scopo principale del modello matematico e' quello di individuare a priori l'efficacia delle misure preventive che si vogliono usare.
 Senza entrare troppo nello specifico, i modelli piu' noti dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:
@@ -533,6 +571,9 @@ Lasciare in fondo il riferimento al blog eCat.
  
  https://www.kff.org/coronavirus-policy-watch/covid-19-models/
       &gt;--  guardiamoli tutti!
+
+Aggiungere o no la seguente considerazione:  
+Le considerazioni svolte sopra dovrebbero essere sufficenti per arrivare a concludere che guardando solo la TV non si riesce ad avere una fotografia reale del mondo in cui viviamo.  
 
 
 
