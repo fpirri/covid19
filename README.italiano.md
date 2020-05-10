@@ -196,7 +196,7 @@ La risposta è scoraggiante: sembra che i parametri importanti siano sconosciuti
 Per capirlo, ho dovuto prima studiare alcune teorie epidemiologiche.
 [==> DETTAGLI: Epidemiologia](./README.italiano.md/#dettagli-epidemiologia)  
 
-Quali parametri vorremo sapere?
+Quali parametri vorrei conoscere sul COVID19?
 Ecco un breve e non esaustivo elenco:
 1. percentuale di persone naturalmente immuni;
 2. presenza e durata dell'immunità per le persone guarite;
@@ -205,55 +205,87 @@ Ecco un breve e non esaustivo elenco:
 5. durata e contagiosità del periodo di incubazione;
 6. intervallo di tempo per la guarigione.
 
-Non potendo sperimentare, dobbiamo cercare di dedurre i parametri osservando ciò che sta accadendo nei paesi interessati.  
+Forse queste non sono le domande giuste per un esperto, ma credo siano normali per la nostra scienza casalinga.  
+Sperando di trovare le risposte, vediamo su internet cosa e' stato fatto negli ultimi 100 anni.  
+Si e' cercata una formalizzazione matematica, ovvero un modello analitico che ci consenta di valutare oggettivamente l'andamento delle epidemie. Uno scopo utile del modello matematico e' quello di valutare a priori l'efficacia delle misure preventive che si vogliono usare.  
+Senza entrare troppo nello specifico, i modelli piu' noti dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:  
+ * S    Susceptible
+     * Individui che possono essere infettati dalla malattia;
+     * normalmente presenti in tutte le teorie;
+ * E    Exposed
+     * individui che hanno contratto la malattia;
+     * essi potranno trasmettere la malattia dopo uncerto tempo
+     * non considerati in alcune teorie;
+ * I    Infected
+     * individui affetti;
+     * sono un veicolo per l'infezione;
+     * normalmente presenti in tutte le teorie;
+ * R     Removed
+      * individui ininfluenti per la malattia, perche' immuni o deceduti;
+      * in qualche teoria non sono considerati, perche' ininfluenti;
+* M    Martenally derived immunity
+     * Il neonato puo' essere temporaneamente immune alla malattia;
+     * classe raramente applicabile;
+ * C Carrier
+     * individui che hanno la malattia latente (es. tubercolosy)
+     * possono trasmetterla indefinitamente nel tempo
+     * non considerati in alcune teorie;
+     
+ Le definizioni sembrano poter subire variazioni nelle varie teorie.
 
-Per usare il metodo scientifico dovremmo ipotizzare quale sia il modello matematico giusto e confrontare i dati reali con ciò che sta accadendo, poi decidere che abbiamo ragione.  
+I modelli matematici studiano  i passaggi da una classe all'altra per gli individui in una popolazione assegnata.
+Il padre dei vari modelli e' il modello SIR: Suscettibile-Infected-Removed
+[Mathematical modelling of infectious disease](https://en.wikipedia.org/wiki/Mathematical_modelling_of_infectious_disease)
   
-Domanda: sappiamo davvero quantitativamente cosa stia succedendo?  
-Anche qui la risposta è quasi negativa: l'affidabilità dei dati che vediamo è dubbia o addirittura peggiore.  
-
-Tuttavia, possiamo utilizzare i dati che ci vengono comunicati e cercare di correggerli successivamente come abbiamo fatto per il caso di decessi.  
-
-**Lo stiamo facendo?**
-
-Al solito, con qualche ricerca internet si ottiene qualcosa ...
+Altri modelli sono stati sviluppati:
+[Compartmental models in epidemiology](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology)
   
-  https://www.nature.com/articles/s41591-020-0883-7
-  &gt;-- un modello italiano  
-  https://rdcu.be/b34mV   shareable link
-
-https://www.corriere.it/cronache/20_aprile_24/coronavirus-lo-sviluppo-dell-infezione-decisivi-primi-10-15-giorni-69a8d1c6-8642-11ea-9ac6-16666bda3d31.shtml  
-https://www.preprints.org/manuscript/202004.0436/v1  
-  &gt;-- un altro modello italiano
+Un elenco incompleto vede nomi come: SIRD, MSIR, Carrier state, SEIR , SEIS, MSEIR, MSEIRS.
+   
+ Ci sono anche modelli che si basano su principi diversi, come simulazioni del percorso della malattia in un mondo virtuale. 
+ In questi modelli si popola il mondo virtuali di individui costruiti approssimativamente come le classi di cui sopra, e si studiano gli effetti di varie ipotesi per prendere decisioni.  
   
--  equazione approssimata:  f (t) ≤ a . exp(M t)  
-     &gt;-- history-aux/notes123.pdf
+Chiaramente, la cosa sta divenendo troppo grande e troppo complicata per la nostra scienza casalinga.  
+Infatti, per usare il metodo scientifico dovremmo ipotizzare quale sia il modello matematico giusto, realizzarlo, studiarlo, confrontare i dati reali con ciò che sta accadendo, poi decidere se abbiamo ragione.  
  
- https://www.scienzainrete.it/articolo/analisi-dei-dati-epidemiologici-del-coronavirus-italia-al-20-marzo/giovanni-sebastiani/2020
-     &gt;-- in realta' l'analis non c'e', si presentano dei grafici
- 
- http://www.nbst.it/665-coronavirus-modello-fasi-malattia-esposizione-virus-incubazione-sintomi-risposta-sistema-immunitario-anticorpi.html
- 
-      &gt;-- sembra buono, ci sono alcuni dei parametri richiesti sopra
- 
-      &gt;-- 
- 
-  Sul piano economico:  
- https://www.economiaepolitica.it/crisi-economica-coronavirus-italia-unione-europea-mondiale/osservazioni-conseguenze-economiche-del-coronavirus-teoria-economica-recessione/
-      &gt;-- 
- 
- Curiosita':  
- 
- https://www.ilfattoquotidiano.it/2020/03/03/coronavirus-quanti-gradi-di-separazione-ci-sono-fra-me-e-un-contagiato-un-modello-matematico-lo-ipotizza/5724364/  
- 
- https://cddep.org/covid-19/  
- 
- https://www.kff.org/coronavirus-policy-watch/covid-19-models/
-      &gt;--  guardiamoli tutti!
- 
+Faccio notare che il risultato mi appare analogo alla montagna di grafici e sondaggi che investe i grandi dirigenti di azienda, che dalla mole di dati traggono spunto per le proprie politiche aziendali.
 
- 
- 
+**Qualcuno lo sta facendo?**
+
+Per tentare di rispondere ho cercato lavori scientifici nel settore.
+Ce ne sono molti.   
+Un esempio italiano di come potrebbero essere fatte le cose e' in 
+[un lavoro scientifico](https://doi.org/10.1371/journal.pone.0001790), sottoposto alla pubblicazione nel 2017 e pubblicato l'anno dopo da Marta Luisa Ciofi degli Atti, Stefano Merler, Caterina Rizzo, Marco Ajelli, Marco Massari, Piero Manfredi, Cesare Furlanello, Gianpaolo Scalia Tomba e Mimmo Iannelli.  
+Il lavoro si basa su un modello SEIRS accoppiato ad una simulazione della popolazione italiana, come detto sopra. Esso e' stato scritto in relazione all'influenza aviaria ed ipotizza l'esistenza di un vaccino. Non e' quindi direttamente applicabile al COVID19.  
+Premetto di non conoscere, ad ora, nessuno degli autori del lavoro e che non sono in grado di misurare la qualita' del lavoro che essi hanno fatto.  
+Tuttavia, considero scientificamente rilevante  il metodo usato e cerchero' maggiori informazioni al riguardo.  
+  
+Sempre rimanendo nel mondo scientifico, un [altro lavoro scientifico](https://www.nature.com/articles/s41591-020-0883-7.epdf) e' stato pubblicato su Nature Medicine il 22 Aprile 2020.
+E' un lavoro prettamente italiano e vale la pena di leggerlo anche se non si e' in grado di valutarlo appieno (e' il mio caso)
+Anche in questo caso non conosco nessuno degli autori e non sono in grado di valutare il valore scienttifico del loro lavoro. La rivista e' nota come rivista internazionale di alto valore scientifico.
+<br />
+
+La mia conclusione e' che gli esperti esistono e chi deve prendere decisioni politiche dovrebbe preoccuparsi in ogni situazione di trovarli e usarli per analizzare la situazione e solo dopo prendere le decisioni del caso.  
+
+Non e' questa la sede per valutare da questo punto di vista l'operato dei vari Governi del mondo, ma voglio concludere con le osservazioni che riporto sotto.  
+
+La nostra Nazione ha offerto al mondo grandi nomi di scienziati, dai tempi antichi ad oggi.  
+Recentemente, anche in Italia, la scienza e' stata indicata come una cosa del passato, non piu' utile, che dovrebbe lasciare il passo ad altre considerazioni.  
+Una frase indicativa che ascolto spesso e'  
+ *Sai, di matematica non capisco niente, pero' ...*  
+con l'aria snob di chi considera il fatto di non capire la matematica come una qualita' interessante.  
+
+I governi degli ultimi 40 anni, compreso l'ultimo, hanno finanziato la ricerca con percentuali inferiori alla meta' degli altri paese europei, esprimendo, nel contempo, meraviglia per il nostro ritardato sviluppo rispetto agli altri.  
+
+Le nostre centenarie Universita' sono divenute uffici burocratici, valutati solo in base alla quantita' di diplomi che erogano senza curarsi della loro qualita'.  
+Il parcheggio degli studenti e' divenuto piu' importante della loro preparazione.  
+I laboratori scientifici sono stati privati di finanziamenti ed i giovani ricercatori sono costretti a guadagnarsi un salario altrove.
+
+Invito tutti a riflettere sulla prossima domanda:  
+***Quante vite avremmo potuto risparmiare se il 15 Febbraio del 2020 ci fosse stato in Italia un laboratorio in grado di fornire al Capo del Governo informazioni scientificamente ancora piu' valide?***
+
+Naturalmente, ipotizzando che il suddetto laboratorio, oltre ad esistere, fosse anche ascoltato.
+
 ----
 
 <br />
@@ -288,7 +320,7 @@ Non è davvero escluso che che la prossima epidemia non arrivi prima che l'effet
 # Come contribuire
 ----  
 
-* If you like, you can 'open an issue' on github (2nd element in the top menu)  
+* You can send an email to  covid19@gothings.org
 * I will post about this document on the forum: https://e-catworld.com/
 You can comment there, if you like.
 
@@ -386,6 +418,37 @@ MSEIRS
   There are many modifications of the SIR model, including those that include births and deaths, where upon recovery there is no immunity (SIS model), where immunity lasts only for a short period of time (SIRS), where there is a latent period of the disease where the person is not infectious (SEIS and SEIR), and where infants can be born with immunity (MSIR). 
 
 
+  
+  https://www.nature.com/articles/s41591-020-0883-7
+  &gt;-- un modello italiano  
+  https://rdcu.be/b34mV   shareable link
+
+https://www.corriere.it/cronache/20_aprile_24/coronavirus-lo-sviluppo-dell-infezione-decisivi-primi-10-15-giorni-69a8d1c6-8642-11ea-9ac6-16666bda3d31.shtml  
+https://www.preprints.org/manuscript/202004.0436/v1  
+  &gt;-- un altro modello italiano
+  
+-  equazione approssimata:  f (t) ≤ a . exp(M t)  
+     &gt;-- history-aux/notes123.pdf
+ 
+ https://www.scienzainrete.it/articolo/analisi-dei-dati-epidemiologici-del-coronavirus-italia-al-20-marzo/giovanni-sebastiani/2020
+     &gt;-- in realta' l'analis non c'e', si presentano dei grafici
+ 
+ http://www.nbst.it/665-coronavirus-modello-fasi-malattia-esposizione-virus-incubazione-sintomi-risposta-sistema-immunitario-anticorpi.html
+      &gt;-- sembra buono, ci sono alcuni dei parametri richiesti sopra
+ 
+ https://www.preprints.org/manuscript/202004.0436/v1
+      &gt;--  Paolo Matricardi, Roberto Dal Negro, Roberto Nisini 
+      &gt;-- Received: 22 April 2020 / Approved: 24 April 2020
+      &gt;-- vedere se e' citato nell'articolo 'nature' <-- NO
+ 
+ 
+ 
+
+Un esempio italiano di come potrebbero essere fatte le cose e' in 
+[Mitigation Measures for Pandemic Influenza in Italy: An Individual Based Model Considering Different Scenarios](https://doi.org/10.1371/journal.pone.0001790)  
+Il lavoro e' stato sottoposto alla pubblicazione nel 2017.
+l
+
 <br />
 
 ----
@@ -398,19 +461,6 @@ Da fare:
 * effettuare eventuali traduzioni
 * rivedere prima della pubblicazione finale
 
-
-Un esempio di come potrebbero essere fatte le cose ? ....
-
-In 2018, Ciofi et al. pubblicano un lavoro estremamente interessante:  
-[Mitigation Measures for Pandemic Influenza in Italy: An Individual Based Model Considering Different Scenarios](https://doi.org/10.1371/journal.pone.0001790)  
-Il lavoro e' stato sottoposto alla pubblicazione nel 2017.
-lavoro:
-- si genera un modello ....
-
-basic reproductive number (R 0 )
-
-
-<br />
 
 ----
 
@@ -452,6 +502,41 @@ vedere come cambia l'origine e/o il confronto se si fa una scelta diversa: come 
 
 ----
 
+
+<br />  
+
+----
+
+
+<br />  
+
+----
+
+----
+<br />
+
+FINALMENTE, il lavoro di consultazione e' ora sufficiente.  
+Andrebbero contriollate anche le cose sotto, ma pazienza, lo faro' con comodo ....
+----
+
+# Spuntare ed eliminare il seguito  ------
+
+Lasciare in fondo il riferimento al blog eCat.  
+
+  Sul piano economico:  
+ https://www.economiaepolitica.it/crisi-economica-coronavirus-italia-unione-europea-mondiale/osservazioni-conseguenze-economiche-del-coronavirus-teoria-economica-recessione/
+      &gt;-- 
+ 
+ Curiosita':  
+ https://www.ilfattoquotidiano.it/2020/03/03/coronavirus-quanti-gradi-di-separazione-ci-sono-fra-me-e-un-contagiato-un-modello-matematico-lo-ipotizza/5724364/  
+ 
+ https://cddep.org/covid-19/  
+ 
+ https://www.kff.org/coronavirus-policy-watch/covid-19-models/
+      &gt;--  guardiamoli tutti!
+
+
+
 Tentative sections.  
 (I accept suggestions).  
 
@@ -469,7 +554,11 @@ Probably thi is not important.
 
 [What this document discuss]()  
 
-----
+
+* You can send an email to  covid19@gothings.org
+* I will post about this document on the forum: https://e-catworld.com/
+You can comment there, if you like.
+
 
 <br />
 ----
