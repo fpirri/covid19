@@ -213,14 +213,14 @@ In base ad eventuali commenti motivati potremo  calcolare anche graduatorie dive
 
 Poiche' al momento non e' possibile eseguire i calcoli necessari, aggiungo un foglio al foglio di calcolo allegato e riporto qui la graduatoria temporanea disponibile:  
 
-Data:  2020-05-10
-       Italy     16
-     Spain     10
-    France    25
-  Sweden   37
-       UK      25
-      USA      46
-  Germany   60
+Data:  2020-05-10  
+*    Italy     16
+*    Spain     10
+*    France    25
+*    Sweden   37
+*    UK      25
+*    USA      46
+*    Germany   60
 
 L'Italia viene leggermente penalizzata dal fatto che la sua durata e' al momento la peggiore, essendo partita per prima.
 
