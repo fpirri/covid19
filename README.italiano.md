@@ -210,10 +210,15 @@ I valori siano:
 Come coefficente di difficolta' definirei 3-2-1 nell'ordine come sopra.  
 In base ad eventuali commenti motivati potremo  calcolare anche graduatorie diverse da quella che otterremo calcolando come sopra.  
 
-Poiche' al momento non e' possibile eseguire il calcolo di cui sopra, aggiungero' un foglio al foglio di calcolo allegato, riportando qui la graduatoria temporanea disponibile.  
+Poiche' al momento non e' possibile eseguire i calcoli necessari, aggiungero' un foglio al foglio di calcolo allegato, riportando qui la graduatoria temporanea disponibile.  
 
-Vediamo ora 
+**da fare:**
+- individure i valori
+- descrivere il procedimento usato
+- calcolare la tabella temporanea
 
+Iniziamo dal massimo.
+. . . 
 
 
   
@@ -225,7 +230,7 @@ Vediamo ora
 # Il passo successivo
 ----  
   
-Dovremmo porci adesso la seguente domanda:
+Dovremmo porci adesso la seguente domanda:  
 Cosa sappiamo di COVID19 e cosa dovremmo sapere meglio al riguardo?  
 La mia risposta è scoraggiante: sembra che i parametri importanti siano sconosciuti o poco conosciuti.
 Per capirlo, ho dovuto prima studiare alcune teorie epidemiologiche.
@@ -295,9 +300,9 @@ Il lavoro si basa su un modello SEIRS accoppiato ad una simulazione della popola
 Premetto di non conoscere, ad ora, nessuno degli autori del lavoro e che non sono in grado di misurare la qualita' del lavoro che essi hanno fatto.  
 Tuttavia, considero scientificamente rilevante  il metodo usato e cerchero' maggiori informazioni al riguardo.  
   
-Sempre rimanendo nel mondo scientifico, un [altro lavoro scientifico](https://www.nature.com/articles/s41591-020-0883-7.epdf) e' stato pubblicato su Nature Medicine il 22 Aprile 2020.
-E' un lavoro prettamente italiano e vale la pena di leggerlo anche se non si e' in grado di valutarlo appieno (e' il mio caso)
-Anche in questo caso non conosco nessuno degli autori e non sono in grado di valutare il valore scienttifico del loro lavoro. La rivista e' nota come rivista internazionale di alto valore scientifico.
+Sempre rimanendo nel mondo scientifico, un [altro lavoro scientifico](https://www.nature.com/articles/s41591-020-0883-7.epdf) e' stato pubblicato su Nature Medicine il 22 Aprile 2020, autori Giulia Giordano, Franco Blanchini, Raffaele Bruno, Patrizio Colaneri, Alessandro Di Filippo, Angela Di Matteo, Marta Colaneri.  
+E' un lavoro prettamente italiano e vale la pena di leggerlo anche se non si e' in grado di valutarlo appieno (e' il mio caso).
+Anche in questo caso non conosco nessuno degli autori e non sono in grado di valutare il valore scienttifico del loro lavoro. Posso dire che la rivista e' nota come rivista internazionale di alto valore scientifico.
 <br />
 
 La mia conclusione e' che gli esperti esistono e chi deve prendere decisioni politiche dovrebbe preoccuparsi in ogni situazione di trovarli e usarli per analizzare la situazione e solo dopo prendere le decisioni del caso.  
@@ -316,7 +321,7 @@ con l'aria snob di chi considera il fatto di non capire la matematica come una q
 I governi degli ultimi 40 anni, compreso l'ultimo, hanno finanziato la ricerca con percentuali inferiori alla meta' degli altri paese europei, esprimendo, nel contempo, meraviglia per il nostro ritardato sviluppo rispetto agli altri.  
 
 Le nostre centenarie Universita' sono divenute uffici burocratici, valutati solo in base alla quantita' di diplomi che erogano senza curarsi della loro qualita'.  
-Il parcheggio degli studenti e' divenuto piu' importante della loro preparazione.  
+Il parcheggio degli studenti --prossimi disoccupati-- e' divenuto piu' importante della loro preparazione.  
 I laboratori scientifici sono stati privati di finanziamenti ed i giovani ricercatori sono costretti a guadagnarsi un salario altrove.
 
 Invito tutti a riflettere sulla prossima domanda:  
