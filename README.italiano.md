@@ -267,7 +267,7 @@ Senza entrare troppo nello specifico, i modelli piu' noti dividono la popolazion
      * Il neonato puo' essere temporaneamente immune alla malattia;
      * classe raramente applicabile;
  * C Carrier
-     * individui che hanno la malattia latente (es. tubercolosy)
+     * individui che hanno la malattia latente (es. tubercolosi)
      * possono trasmetterla indefinitamente nel tempo
      * non considerati in alcune teorie;
      
@@ -416,7 +416,7 @@ Da fare:
 * effettuare eventuali traduzioni
 * rivedere prima della pubblicazione finale
  
- Il contenuto sotto e' in parte gia' usato.
+ **Il contenuto sotto e' in parte gia' usato.**
  
 Negli ultimi 100 anni si e' tentato di ottenere modelli matematici formali per analizzare l'andamento delle epidemie. Lo scopo principale del modello matematico e' quello di individuare a priori l'efficacia delle misure preventive che si vogliono usare.
 Senza entrare troppo nello specifico, i modelli piu' noti dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:
@@ -541,18 +541,6 @@ vedere come cambia l'origine e/o il confronto se si fa una scelta diversa: come 
 -forse il confronto andrebbe fatto per aree geografiche ciascuna con 100k o piu' abitanti (perche' 100k, 500k e' meglio?
 
 <br />  
-
-----
-
-
-<br />  
-
-----
-
-
-<br />  
-
-----
 
 ----
 <br />
