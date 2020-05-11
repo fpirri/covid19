@@ -242,14 +242,14 @@ Attualmente la graduatoria e':
 Data:  2020-05-10  
 *    Germany   60
 *    USA      46
-*    Sweden   37
+*    Sweden   38
 *    France    25
-*    UK      25
+*    UK      24
 *    Italy     16
 *    Spain     10
 
 L'Italia viene leggermente penalizzata dal fatto che la sua durata e' al momento la peggiore, essendo partita per prima.  
-Anche cambiando la rilevazione del picco Francia ed Inghilterra rimarrebbero nello stesso ordine.  
+Cambiando la rilevazione del picco Francia ed Inghilterra si scambiano di posto ed il resto varia di poco.  
   
 Riassumendo:   non c'e' storia: La Germania vince su tutta la linea.  
 
