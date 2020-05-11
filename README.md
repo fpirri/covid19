@@ -31,11 +31,13 @@ A spreadsheet is also attached which can be used as a starting point for your ow
     * The short version of the reflections
 * [spreadsheet.README.english.md](./spreadsheet.README.english.md)
     * Description of what you may find in the attached spreadsheet
-* [covid19 evaluation.ods](./covid19%20evaluation.ods)
+* [covid19 evaluation.ods](https://github.com/fpirri/covid19/raw/master/covid19%20evaluation.ods)
     * The spreadsheet, .ods version, by LibreOffice Calc
-* [covid19 evaluation.xlsx](https://github.com/fpirri/covid19/blob/master/history/last/covid19%20evaluation.xlsx)
+* [covid19 evaluation.xlsx](https://github.com/fpirri/covid19/raw/master/history/last/covid19%20evaluation.xlsx)
     * The spreadsheet, .xslx version, by LibreOffice Calc
     * LibreOffice Calc does not guarantee this excel fuction will run exatly the same on Microsoft Excel
+  
+  https://github.com/fpirri/covid19/raw/master/history/last/covid19%20evaluation.xlsx
   
 ----
    
