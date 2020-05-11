@@ -77,5 +77,7 @@ La versione e' salvata da LibreOffice Calc, che non garantisce la piena compatib
 # Grafici e discussione
 ----  
 
- DA FARE
+Per consultare i grafici e' prima consigliabile leggere la versione estesa [README.italiano.md](./README.italiano.md) disponibile in questo sito.
+Successivamente e' possibile scaricare il foglio [covid19 evaluation.ods](https://github.com/fpirri/covid19/raw/master/covid19%20evaluation.ods)
+nella versione .ods di LibreOffice Calc, oppure la versione .xlsx ricordata sopra.
 
