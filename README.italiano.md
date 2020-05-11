@@ -212,8 +212,6 @@ I valori siano:
 Come coefficente di difficolta' definirei 3-2-1 nell'ordine come sopra.  
 In base ad eventuali commenti motivati potremo  calcolare anche graduatorie diverse da quella che otterremo calcolando come sopra.  
 
-
-**Descrizione tabella: da fare:**  
 qui devo inserire la spiegazione di come si costruisce la tabella, che si e' mostrata piu' noiosa di quanto pensassi.  
   
 Per calcolare la graduatoria aggiungiamo il foglio *rank* al [foglio di calcolo](https://github.com/fpirri/covid19/raw/master/covid19%20evaluation.ods).  
@@ -238,8 +236,6 @@ Per questo si e' alla fine optato per il valore derivato dalla media pesata, mol
 La differenza tra le due scelte e' massima per la Svezia e la Francia.  
   
   Per la durata, il conteggio e' in corso, vedremo se si arriva alla fine prima del 30 Giugno.
-    
-**FINE descrizione tabella**  
 
 Attualmente la graduatoria e':
 
@@ -337,7 +333,7 @@ Senza entrare troppo nello specifico, i modelli piu' noti dividono la popolazion
  Le definizioni sembrano poter subire variazioni nelle varie teorie.
 
 I modelli matematici studiano  i passaggi da una classe all'altra per gli individui in una popolazione assegnata.
-Il padre dei vari modelli e' il modello SIR: Suscettibile-Infected-Removed, presntato in: [Mathematical modelling of infectious disease](https://en.wikipedia.org/wiki/Mathematical_modelling_of_infectious_disease)
+Il padre dei vari modelli e' il modello SIR: Suscettibile-Infected-Removed, presentato in: [Mathematical modelling of infectious disease](https://en.wikipedia.org/wiki/Mathematical_modelling_of_infectious_disease)
   
 Altri modelli sono stati sviluppati, per esempio: [Compartmental models in epidemiology](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology)
   
@@ -382,7 +378,7 @@ Una frase indicativa che ascolto spesso e'
  *Sai, di matematica non capisco niente, pero' ...*  
 con l'aria snob di chi considera il fatto di non capire la matematica come una qualita' interessante.  
 
-I governi degli ultimi 40 anni, compreso l'ultimo, hanno finanziato la ricerca con percentuali inferiori alla meta' degli altri paese europei, esprimendo, nel contempo, meraviglia per il nostro ritardato sviluppo rispetto agli altri.  
+I governi degli ultimi 40 anni, compreso l'ultimo, hanno finanziato la ricerca con percentuali inferiori alla meta' degli altri paesi europei, esprimendo, nel contempo, meraviglia per il nostro ritardato sviluppo rispetto agli altri.  
 
 Le nostre centenarie Universita' sono divenute uffici burocratici, valutati solo in base alla quantita' di diplomi che erogano senza curarsi della loro qualita'.  
 Il parcheggio degli studenti --prossimi disoccupati-- e' divenuto piu' importante della loro preparazione.  
