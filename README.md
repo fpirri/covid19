@@ -36,9 +36,7 @@ A spreadsheet is also attached which can be used as a starting point for your ow
 * [covid19 evaluation.xlsx](https://github.com/fpirri/covid19/raw/master/history/last/covid19%20evaluation.xlsx)
     * The spreadsheet, .xslx version, by LibreOffice Calc
     * LibreOffice Calc does not guarantee this excel fuction will run exatly the same on Microsoft Excel
-  
-  https://github.com/fpirri/covid19/raw/master/history/last/covid19%20evaluation.xlsx
-  
+   
 ----
    
 <br />
@@ -58,9 +56,9 @@ E' allegato anche un foglio di calcolo che puo' essere usato come punto di parte
     * La versione breve delle riflessioni
 * [spreadsheet.README.italiano.md](./spreadsheet.README.italiano.md)
     * La descrizione di quello che trovi nel foglio di calcolo
-* [covid19 evaluation.ods](./covid19%20evaluation.ods)
+* [covid19 evaluation.ods](https://github.com/fpirri/covid19/raw/master/covid19%20evaluation.ods)
     * Il foglio di calcolo, versione .ods da LibreOffice Calc
-* [covid19 evaluation.xlsx](https://github.com/fpirri/covid19/blob/master/history/last/covid19%20evaluation.xlsx)
+* [covid19 evaluation.xlsx](https://github.com/fpirri/covid19/raw/master/history/last/covid19%20evaluation.xlsx)
     * Il foglio di calcolo in versione .xslx, salvato da LibreOffice Calc
     * LibreOffice Calc non garantisce che questa versione giri esattamente allo stesso modo su Microsoft Excel
 
