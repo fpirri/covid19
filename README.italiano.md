@@ -11,6 +11,7 @@ Una discussione su come alcuni paesi occidentali combattono con il coronavirus
 [Cosa potresti trovare qui](./README.italiano.md#cosa-potresti-trovare-qui)  
 [I miei primi passi](./README.italiano.md#i-miei-primi-passi)  
 [Calcoliamo!](./README.italiano.md#calcoliamo)  
+[Cos'altro c'e'?](./README.italiano.md#cos-altro-c-e)  
 [Il passo successivo](./README.italiano.md#il-passo-successivo)  
 [Il passo che dovremmo fare](./README.italiano.md#il-passo-che-dovremmo-fare)  
 [Come contribuire](./README.italiano.md#come-contribuire)  
@@ -211,44 +212,87 @@ I valori siano:
 Come coefficente di difficolta' definirei 3-2-1 nell'ordine come sopra.  
 In base ad eventuali commenti motivati potremo  calcolare anche graduatorie diverse da quella che otterremo calcolando come sopra.  
 
-Poiche' al momento non e' possibile eseguire i calcoli necessari, aggiungo un foglio al foglio di calcolo allegato e riporto qui la graduatoria temporanea disponibile:  
+
+**Descrizione tabella: da fare:**  
+qui devo inserire la spiegazione di come si costruisce la tabella, che si e' mostrata piu' noiosa di quanto pensassi.  
+  
+Per calcolare la graduatoria aggiungiamo il foglio *rank* al [foglio di calcolo](https://github.com/fpirri/covid19/raw/master/covid19%20evaluation.ods).  
+  
+Per prima cosa recuperiamo i valori come definiti sopra:
+* Totale dei decessi
+    * immediadamente disponibile nel foglio *TotalDeaths*
+    * copiato  su rank per comodita'
+* Valore di picco
+    * rilevato manualmente dal foglio *Daily Deaths*
+    * rilevato anche dal foglio *smooth*
+    * calcolato per entrambi i fogli
+    * scelta del valore sul foglio *smooth*
+* Durata start-to-end
+    * calcolata la media dei decessi negli ultimi sette giorni
+    * eseguita normalizzazione al numero di abitanti
+    * temporaneamente eseguito il calcolo attuale
+    * il conteggio per ogni singolo Paese verra' fermato al raggiungimento del minimo previsto
+   
+Il procedimento relativo al picco dei decessi si e' rivelato piu' laborioso del previsto per la periodicita' delle misure all'interno della settimana. Infatti, guardando le tabelle si ha una forte incertezza non solo su quale valore scegliere, ma anche sulla significativita' di quel valore, spesso vicino a valori minimi.  
+Per questo si e' alla fine optato per il valore derivato dalla media pesata, molto piu' evidente e, probabilmente, anche piu' congruo.
+La differenza tra le due scelte e' massima per la Svezia e la Francia.  
+  
+  Per la durata, il conteggio e' in corso, vedremo se si arriva alla fine prima del 30 Giugno.
+    
+**FINE descrizione tabella**  
+
+Attualmente la graduatoria e':
 
 Data:  2020-05-10  
+*    Germany   60
+*    USA      46
+*    Sweden   37
+*    France    25
+*    UK      25
 *    Italy     16
 *    Spain     10
-*    France    25
-*    Sweden   37
-*    UK      25
-*    USA      46
-*    Germany   60
 
-L'Italia viene leggermente penalizzata dal fatto che la sua durata e' al momento la peggiore, essendo partita per prima.
-
-Riassumendo:  1.a Germania, 2.a USA, 3.a Svezia  
-
-In effetti, guardando i grafici non c'e' storia: La Germania vince su tutta la linea.  
-
-I calcoli sono riportati nel foglio **rank** del foglio di calcolo allegato.
-
-
-**da fare:**
-- individure i valori
-- descrivere il procedimento usato
-- calcolare la tabella temporanea
-
-. . . 
-
-
+L'Italia viene leggermente penalizzata dal fatto che la sua durata e' al momento la peggiore, essendo partita per prima.  
+Anche cambiando la rilevazione del picco Francia ed Inghilterra rimarrebbero nello stesso ordine.  
   
+Riassumendo:   non c'e' storia: La Germania vince su tutta la linea.  
+
+In sostanza l'osservazione visiva dei grafici viene confermata dal rank numerico, che possiamo considerare una misurazione piu' precisa di quanto l'occhio possa fare da solo.
+<br>
+
 ----
+
+# Cos'altro c'e'?  
+----
+
+Abbiamo appena discusso i grafici e fatta la nostra graudatoria.
+Sappiamo quali misure hanno preso i vari governi.
+Mascherine, guanti e distanziamento sociale sono dovunque nel mondo.
+Piu' avanti vedremo cosa dicono gli esperti in merito a agli stessi provvedimenti.
+
+**La mia logica mi dice che i provvedimenti sono giusti.**
+
+E allora: perche' sono totalmente insoddisfatto di cio' che ho trovato?  
+  
+Ecco:
+* L'Italia ha effettuato per prima le misure piu' drastiche e si ritrova penultima;
+* Spagna, Francia e UK sono in condizioni molto simili, anche se le misure prese non sono troppo diverse;
+* La Svezia si e' rifiutata di applicare misure restrittive, tuttavia sta decisamente meglio del gruppo citato sopra
+* L'USA del vituperato Trump sta meglio di tutti gli altri, a pochi punti dalla Germania;
+* La Germania sta molto meglio di tutti gli altri citati, tuttavia le misure da essa intraprese non sono state affatto le piu' dure.
+
+La stessa logica di prima mi dice che **esiste qualcosa che non so** ma che ha un grande effetto.  
+
+Vediamo se un'altra dose di indagine fornisce una risposta.
 
 <br />
 
+----
 
 # Il passo successivo
 ----  
   
-Dovremmo porci adesso la seguente domanda:  
+La domanda del momento e':  
 Cosa sappiamo di COVID19 e cosa dovremmo sapere meglio al riguardo?  
 La mia risposta è scoraggiante: sembra che i parametri importanti siano sconosciuti o poco conosciuti.
 Per capirlo, ho dovuto prima studiare alcune teorie epidemiologiche.
@@ -322,6 +366,9 @@ E' un lavoro prettamente italiano e vale la pena di leggerlo anche se non si e' 
 Anche in questo caso non conosco nessuno degli autori e non sono in grado di valutare il valore scienttifico del loro lavoro. Posso dire che la rivista e' nota come rivista internazionale di alto valore scientifico.
 <br />
 
+Fortunatamente, leggendo questi ed altri lavori, si ha una conferma sul fatto che **mascherine e distanziamento sociale sono efficaci**, come diceva anche la logica di uomo della strada.
+Magari, possono rimanere dubbi su una misura numerica di questa efficacia.  
+  
 La mia conclusione e' che gli esperti esistono e chi deve prendere decisioni politiche dovrebbe preoccuparsi in ogni situazione di trovarli e usarli per analizzare la situazione e solo dopo prendere le decisioni del caso.  
 I lavori citati sopra, quelli pertinenti che non ho citato e quelli che non ho proprio visto possono testimoniare che qualcuno ha fatto molto.
 
