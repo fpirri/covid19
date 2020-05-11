@@ -11,7 +11,7 @@ Una discussione su come alcuni paesi occidentali combattono con il coronavirus
 [Cosa potresti trovare qui](./README.italiano.md#cosa-potresti-trovare-qui)  
 [I miei primi passi](./README.italiano.md#i-miei-primi-passi)  
 [Calcoliamo!](./README.italiano.md#calcoliamo)  
-[Cos'altro c'e'?](./README.italiano.md#cos-altro-c-e)  
+[Cos'altro c'e'?](./README.italiano.md#cosaltro-ce)  
 [Il passo successivo](./README.italiano.md#il-passo-successivo)  
 [Il passo che dovremmo fare](./README.italiano.md#il-passo-che-dovremmo-fare)  
 [Come contribuire](./README.italiano.md#come-contribuire)  
