@@ -80,7 +80,6 @@ However, we must note that the visual comparison on a single chart for seven cou
 EXPAND
 ----  
 
-https://github.com/fpirri/covid19/raw/master/covid19%20evaluation.ods
 An [extended version](https://github.com/fpirri/covid19/blob/master/README.english.md) is available on this site.  
 It examines the data and presents the criteria with more details.  
   
