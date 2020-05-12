@@ -5,20 +5,22 @@ A discussion about how some western countries fight with coronavirus
 
 ----
 
-[What happened ?](https://github.com/fpirri/covid19/tree/master/history/last#what-happened-)  
-[What you may find here](https://github.com/fpirri/covid19/tree/master/history/last#what-you-may-find-here)  
-[My first steps](https://github.com/fpirri/covid19/tree/master/history/last#my-first-steps)  
-[Let's analyze !](https://github.com/fpirri/covid19/tree/master/history/last#lets-analyze-)  
-[Another step](https://github.com/fpirri/covid19/tree/master/history/last/#a-second-step)  
-[How to contribute](https://github.com/fpirri/covid19/tree/master/history/last#how-to-contribute)  
+[What happened ?](./README.english.md#what-happened-)  
+[What you may find here](./README.english.md#what-you-may-find-here)  
+[My first steps](./README.english.md#my-first-steps)  
+[Let's analyze !](./README.english.md#lets-analyze-)  
+[What to say now?](./README.english.md#what-to-say-now)  
+[Another step](./README.english.md#a-second-step)  
+[What should we do?](./README.english.md#what-should-we-do)  
+[How to contribute](./README.english.md#how-to-contribute)  
 
-[DETAILS](https://github.com/fpirri/covid19/tree/master/history/last/#how-to-contribute)  
+[DETAILS](./README.english.md#how-to-contribute)  
   
 ----
 I started writing this document as a personal reflection, trying to understand something about the ongoing pandemic.
 I wondered how effective the measures of the governments of the various countries were and if they had been the best.
 I have examined the official statistics relating to COVID19 and have documented myself. I discovered a good number of epidemiomogical theories in the last century that talked about herd immunity, social distancing and much more by inserting a series of formulas in the mixture.  
-The history of this phase is in the section [My first steps](https://github.com/fpirri/covid19/tree/master/history/last/#my-first-steps) below.  
+The history of this phase is in the section [My first steps](./README.english.md#my-first-steps) below.  
   
 <br />
 
@@ -26,7 +28,8 @@ What happened ?
 ----  
 
   
-2020-04-28 - In Italy we are all at home. We are inundated with news on COVID19 from the continuous television news, the newspapers do not talk about anything else and, in the chats (at a distance) with friends, we (almost) always discuss the coronavirus.  
+2020-04-28 in Florence, Italy.  
+In Italy we are all at home. We are inundated with news on COVID19 from the continuous television news, the newspapers do not talk about anything else and, in the chats (at a distance) with friends, we (almost) always discuss the coronavirus.  
 The main actors of the various speeches are mainly two: the medical reports from the hospitals and the actions of the rulers.  
 Third parties and distant actors are the experts, or presumed such.
 
@@ -77,7 +80,7 @@ My first steps
 
 It is really very difficult to understand what is happening in our world because of the coronavirus!   
 I started discussing an idea by Mats Lewan on a blog.   
-[==> DETAILS: the blog post](https://github.com/fpirri/covid19/tree/master/history/last/#details-ecat-blog-mats-lewan)  
+[==> DETAILS: the blog post](./README.english.md#details-ecat-blog-mats-lewan)  
   
 Mats Lewan looked at the number of deaths in any given day in several countries and shared is thoughts in the blog.  
 
@@ -85,7 +88,7 @@ So I looked for data on the website https://www.worldometers.info/coronavirus/#c
 The site places a lot of emphasis on the number of sick and healed, but also on the total deaths in each individual country.  
 TV follows the same format and assigns the 'primacy' to the country with the highest number of deaths. Now it's up to the USA.  
 The total number of deaths seems very important, so I took the data from the site and presented it on a single chart to better appreciate the differences.  
-[==> DETAILS: why to look at death](https://github.com/fpirri/covid19/tree/master/history/last/#details-why-to-look-at-death)
+[==> DETAILS: why to look at death](./README.english.md#details-why-to-look-at-death)
 
 The chart collects the following countries: Italy, Spain, France, Sweden, UK, USA and Germany.  
 
@@ -107,7 +110,7 @@ One possible choice is the date of the first victim of the disease.
 If we want to compare statistical events with each other we must use a characterizing moment that is quite similar for everyone.  
 In a totally arbitrary way I choose the moment in which the country exceeds 5 deaths per million inhabitants.   
 For the moment, I will postpone a discussion on this criterion further on. 
-[==> DETAILS: Why 5 death per Million](https://github.com/fpirri/covid19/tree/master/history/last/#details-why-5-death-per-million)  
+[==> DETAILS: Why 5 death per Million](./README.english.md#details-why-5-death-per-million)  
 
 We therefore define 'start' the day on which each country exceeds 5 dead per million and align the data of each country from the start forward. We thus obtain the following chart, in which the data of each country starts for each one from its 'start'.
 The X axis will then be called 'Days from start'.  
@@ -157,24 +160,19 @@ Let's move on to the second group, Sweden and USA.
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.wma.SSUG.png">
 
-Considering the weekly periodicity, very marked in Sweden, the second group also appears fairly homogeneous.
-
-All the graphs present an initial phase of rapid growth. Then growth slows down to a maximum, followed by a slow descent.
+Considering the weekly periodicity, very marked in Sweden, the second group also appears fairly homogeneous.  
+  
+All the graphs present an initial phase of rapid growth. So growth slows down to the maximum, followed by a slow descent.
 The main differences concern the size of the maximum, with a worse / better ratio of about 4 times.  
-The ascent duration seems surprisingly similar for all countries, with the peaks a few days apart. On TV I had received a message of great difference from one country to another.  
+The duration of the ascent seems surprisingly similar for all countries, with the peaks a few days away. On TV I had received a message of great difference from one country to another.  
+  
+**Did I find an answer?**
 
-**Do I reached an answer?**  
-
-NO, not really.  
-I now have many more question to answer, such as:  
-Why are the curves so similar?  
-Why do countermeasures seem to have little influence on the times?  
+No, not really. Now I have many other questions to answer, such as:   Why are the curves so similar?  
+Why do countermeasures seem to have little influence on time?  
 Why is the descent much slower than the ascent?  
 What other parameters should I look at immediately?  
 What should we have done and we haven't done enough?  
-Anyway, I will start next section with the most important new question in my mind.
-
-
 
 ----
 
@@ -182,59 +180,219 @@ Anyway, I will start next section with the most important new question in my min
 
 Let's analyze !
 ----  
-* This section is under construction  
-Here I will try to add other parameters, such as the number of patients and others, in light of some of the theories that are being discussed.  
 
-----
+The initial purpose of the reflections was a comparison between the various countries. We are looking for an easy way, but one that is objective.  
+How can we do it?  
 
-The first question we have to ask ourself is:
-What do we know about COVID19 and what should we know better about it?  
-The answer is disheartening: it seems that the important parameters are either unknown or very inaccurately known.
-To understand this, I had to first study some epidemiological theories.
-[==> DETAILS: the teory](https://github.com/fpirri/covid19/tree/master/history/last/#details-epidemiology)  
-
-In an interview with the newspaper Il Tempo, Prof. Carlo Gaudio observed that in the 2000s we had 5 pandemics.
-[==> DETAILS: A pandemic every 4 years](https://github.com/fpirri/covid19/tree/master/history/last/#details-a-pandemic-every-4-years)  
-**So, we can expect the next virus between 2004 and 2007**.  
-It is not really excluded that the next one will arrive before the effect of COVID19 is finished.  
-
-So what parameters would we like to know?
-Here is a brief and non-exhaustive list:
-1. percentage of naturally immune people;
-2. presence and duration of immunity for healed people;
-3. difference, if any, between contagiosity by air transmission and by contact;
-4. relationship between physical closeness, the time spent in proximity and the probability of contagion;
-5. duration and contagiousness of the incubation period;
-6. range of times for healing.
-
-Not being able to experiment, we must try to deduce the parameters by observing what is happening in the affected countries.
-To use a scientific method we should hypothesize a mathematical model and compare the real data with what is happening.  
+To ask the question in a more formal way, we try, for each of the countries examined:  
+* the peak value of the infection;
+* the duration from the start day to the peak;
+* we define 'end' the day on which daily deaths decrease to below a simple weekly average equal to the starting value;
+    * however, we set June 30, 2020 as the deadline for the comparison;
+* we calculate the duration of the infection from the start day to the end day.  
   
-Question: do we know what's happening quantitatively?
-Here too the answer is almost negative: the reliability of the data we see is doubtful or even worse.
+At this point, we calculate the order of countries according to these criteria:  
+* we define (further on) the values ​​to be compared;
+* for each value we assign to each country a score between 1 and 10
+    * with 10 to the best country on the parameter,
+    * 1 to the worst country,
+    * to the others proportionally to their differences with the best;
+* similarly to competitions for acrobatic dives, we also establish a difficulty coefficient for the scores obtained;
+* the ranking will be established by adding the products score by coefficient thus accumulated.
+  
+The values ​​are:
+* total deaths per million throughout the period;
+* peak value of daily deaths;
+* total duration of the start-to-end period;
 
-Nonetheless, we can use the data that is communicated to us and try to correct it afterwards as we did for the case of deaths.
-[==> DETAILS: Why to look at Death](https://github.com/fpirri/covid19/tree/master/history/last#details-why-to-look-at-death)
+As a difficulty coefficient I would define 3-2-1 in the order as above.  
+We may also calculate rankings other than that obtained by calculating as above.  
+  
+To calculate the ranking, we add the *rank* sheet to the spreadsheet.
 
+First we recover the values ​​as defined above:
+* Total deaths
+    * immediately available in the TotalDeaths sheet
+    * copied on rank for convenience
+* Peak value
+    * manually detected from the Daily Deaths sheet
+    * also detected fromthe smooth sheet
+    * calculated for both sheets
+    * choice of the value on the smooth sheet for the ranking
+* Start-to-end duration
+    * calculated the average of the deaths in the last seven days
+    * normalization to the number of inhabitants
+    * temporarily performed the today calculation
+    * the counting for each individual country will be stopped when the required minimum is reached
+  
+The peak death procedure proved to be more laborious than expected, owing to the periodicity of measurements within the week. In fact, looking at the tables there is a strong uncertainty not only on which value to choose, but also on the significance of that value, often close to minimum values.  
+For this reason, we opted for the value derived from the weighted average, much more evident and, probably, even more congruous. The difference between the two choices is greatest for Sweden and France.  
+  
+For the duration, the count is in progress, we will see if we arrive at the end before June 30th.
+
+Currently the ranking is:
+
+Date: 2020-05-10
+
+    Germany 60
+    USA 46
+    Sweden 38
+    France 25
+    UK 24
+    Italy 16
+    Spain 10
+  
+Italy is slightly penalized by the fact that its duration is currently the worst, having started first.  
+Changing the detection of the peak France and England exchange places and the rest varies little.  
+   
+In summary: there is no story: Germany wins across the board.  
+  
+Basically the visual observation of the graphs is confirmed by the numerical rank, which we can consider a more precise measurement of what the eye can do alone.
+  
 ----
 
 <br />
-
-----
-[==> DETAILS](https://github.com/fpirri/covid19/tree/master/history/last/#details)  
   
+What to say now?
 ----
+  
+We just discussed the graphs and made our rankings. We know what measures the various governments have taken. Masks, gloves and social distancing are everywhere in the world. Later we will see what the experts say about the same measures.  
 
+**My logic tells me that the measures are right.**
+
+So why am I totally dissatisfied with what I found?
+
+Let's see:
+* Italy has carried out the most drastic measures first and finds itself penultimate;
+* Spain, France and the UK are in very similar conditions, although the measures taken are not too different;
+* Sweden refused to apply restrictive measures, however it is far better than the group mentioned above
+* The USA of the reviled Trump is better than all the others, a few points from Germany;
+* Germany is far better than all the others mentioned, however the measures it has taken have not been the hardest at all.  
+  
+The same logic as before tells me that there is something that I don't know but that has a great effect.  
+  
+Let's see if another dose of investigation provides an answer.
+  
 <br />
 
+----
 
 Another step
 ----  
 
+The question of the moment is:
+What do we know about COVID19 and what should we know better about it?  
+My answer is daunting: it seems that the important parameters are unknown or little known. To understand this, I had to first study some epidemiological theories. [==> DETAILS: the teory]( ./README.english.md#details-epidemiology)  
+  
+What parameters would I like to know about COVID19? Here is a short and non-exhaustive list:  
+1. percentage of naturally immune people;
+2. presence and duration of immunity for healed persons;
+3. any difference between contagion by air transmission and by contact;
+4. relationship between physical proximity, time spent in the vicinity and probability of contagion;
+5. duration and contagiousness of the incubation period;
+6. time interval for healing.
+  
+Maybe these are not the right questions for an expert, but I think they are normal for our home science.  
+
+Hoping to find the answers, let's see what has been done in the last 100 years on the internet.  
+
+We sought a mathematical formalization, or an analytical model that allows us to objectively evaluate the progress of epidemics. A useful purpose of the mathematical model is to evaluate a priori the effectiveness of the preventive measures to be used.  
+
+Without going into too much detail, the best known models divide the population into classes related to the various stages of the disease.   Classes are often identified with a letter:  
+* S Susceptible
+    * Individuals who can become infected with the disease;
+    * normally present in all theories;
+* E Exposed
+    * individuals who contracted the disease;
+    * they will be able to transmit the disease after some time
+    * not considered in some theories;
+* I Infected
+    * affected individuals;
+    * they are a vehicle for infection;
+    * normally present in all theories;
+*R Removed
+    * individuals irrelevant to the disease, because they are immune or deceased;
+    * in some theory they are not considered, because they are irrelevant;
+* M Martenally derived immunity
+    * the infant may be temporarily immune to the disease;
+    * rarely applicable class;
+* C Carrier
+    * individuals with latent disease (e.g. tuberculosis)
+    * they can transmit it indefinitely over time
+    * not considered in many theories;  
+  
+The definitions seem to be subject to variations in the various theories.  
+  
+Mathematical models study the steps from one class to another for individuals in an assigned population. The father of the various models is the SIR: Suscettibile-Infected-Removed model, presented in: [Mathematical modelling of infectious disease](https://en.wikipedia.org/wiki/Mathematical_modelling_of_infectious_disease)
+
+Other models have been developed, for example: [Compartmental models in epidemiology](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology)  
+  
+An incomplete list sees names like: SIRD, MSIR, Carrier state, SEIR, SEIS, MSEIR, MSEIRS.
+
+There are also models that are based on different principles, such as simulations of the path of disease in a virtual world.
+In these models we populate a virtual world of individuals constructed roughly like the above classes, then simulate the passage of individuals from one class to another in virtual time, also for the purpose of evaluating the effects of various hypotheses and taking, therefore , hopefully more motivated decisions.  
+  
+Of course, it is getting too big and too complicated for our home science.  
+In fact, to use the scientific method we should hypothesize which is the right mathematical model, make it, study it, compare the real data with what is happening, then decide if we are right.  
+
+I point out that the result appears to me to be analogous to the mountain of graphs and surveys invested by the great company executives, who draw inspiration for their company policies from the amount of data.  
+
+**Is someone doing it?**
+  
+To try to answer, I looked for scientific works in the sector. There are many.  
+An Italian example of how things could be done is in a [scientific work](https://doi.org/10.1371/journal.pone.0001790), submitted for publication in 2017 and published the following year by Marta Luisa Ciofi degli Atti, Stefano Merler, Caterina Rizzo, Marco Ajelli, Marco Massari, Piero Manfredi, Cesare Furlanello, Gianpaolo Scalia Tomba and Mimmo Iannelli.
+The work is based on a SEIRS model coupled with a simulation of the Italian population, as mentioned above. It was written in relation to avian influenza and speculates that there is a vaccine. It is therefore not directly applicable to COVID19.  
+I state that I do not know any of the authors of the work so far and that I am unable to measure the quality of the work they have done.  
+However, I consider the method used scientifically relevant and I will seek more information about it.  
+  
+Still remaining in the scientific world, [another work](https://www.nature.com/articles/s41591-020-0883-7.epdf)  has been published in Nature Medicine on April 22, 2020, authors Giulia Giordano, Franco Blanchini, Raffaele Bruno, Patrizio Colaneri, Alessandro Di Filippo, Angela Di Matteo, Marta Colaneri.
+It is a purely Italian work and it is worth reading it even if you are not able to fully evaluate it (it is my case). Again I don't know any of the authors and I'm not able to evaluate the scientific value of their work. I can say that the magazine is known as an international journal of high scientific value.
+
+Fortunately, by reading these and other works, there is confirmation that masks and social distancing are effective, as the logic of the man in the street also said. Maybe doubts about a numerical measure of this effectiveness may remain.  
+
+My conclusion is that experts exist and those who have to make political decisions should worry in every situation to find them and use them to analyze the situation and only after making the appropriate decisions.  
+The works mentioned above, the relevant ones that I have not mentioned and those that I have not really seen can testify that someone has done a lot.  
+
+This is not the place to evaluate the work of the various governments of the world from this point of view, but I still want to expose the observations that I report below.  
+  
+My country has offered the world great names of scientists, from ancient times to today.  
+Recently, even in Italy, science has been indicated as a thing of the past, no longer useful, which should give way to other considerations. At best, only technology can be of any use.  
+  
+An indicative phrase that I often listen to is
+*You know, I don't understand math, but ...*
+with the snobbish air of those who consider not understanding mathematics as an interesting quality.  
+  
+The Italy governments of the past 40 years, including the last one, have financed research with percentages lower than half of other European countries, while expressing wonder at our delayed development compared to the others.  
+  
+Our hundred-year-old universities have become bureaucratic offices, valued only on the basis of the quantity of diplomas they deliver regardless of their quality.  
+Student parking - next unemployed - has become more important than their preparation.  
+The science labs have been deprived of funding and young researchers are forced to earn a salary elsewhere.  
+  
+I invite everyone to reflect on the next question:
+**How many lives could we have saved if on 15 February 2020 there had been a laboratory in Italy capable of providing the Head of Government with scientifically and more valid information?**
+  
+Of course, assuming that the aforementioned laboratory, in addition to existing, was also listened to.  
+<br />
+  
+----
+  
+What should we do?
+----
+
 * This section is under construction
 
-----
-<br />  
+To do:
+* make abstracts of Gaudio's interview
+* review before final publication
+  
+Question:
+**Do we have to worry about the future?**  
+  
+In an interview with the newspaper Il Tempo, Prof. Carlo Gaudio observed that in the 2000s we had 5 pandemics. DETAILS:  [==> DETAILS: A pandemic every 4 years](./README.english.md/#a-pandemic-every-4-years)  
+
+So, the next pandemic will happen between 2024 and 2007.
+
+It is not excluded that the next epidemic does arrive before the effect of COVID19 has ended.
 
 ----
 
@@ -243,7 +401,7 @@ Another step
 How to contribute
 ----  
 
-* If you like, you can 'open an issue' on github (2nd element in the top menu)  
+* via email: covid19@gothings.org
 * I will post about this document on the forum: https://e-catworld.com/
 You can comment there, if you like.
 
@@ -254,13 +412,8 @@ You can comment there, if you like.
 
 # DETAILS
 ----  
-
-* This section is under construction  
   
 This section is organized into several parts. Each will discuss a particular point that needs a specific discussion.  
-For example: why start with the dead?  
-Or: why carry out the comparison starting from the value of 5 deaths per million inhabitants?  
-
 <br />
 
 ----

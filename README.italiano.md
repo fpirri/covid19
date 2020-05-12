@@ -212,9 +212,7 @@ I valori siano:
 
 Come coefficente di difficolta' definirei 3-2-1 nell'ordine come sopra.  
 In base ad eventuali commenti motivati potremo  calcolare anche graduatorie diverse da quella che otterremo calcolando come sopra.  
-
-qui devo inserire la spiegazione di come si costruisce la tabella, che si e' mostrata piu' noiosa di quanto pensassi.  
-  
+    
 Per calcolare la graduatoria aggiungiamo il foglio *rank* al [foglio di calcolo](https://github.com/fpirri/covid19/raw/master/covid19%20evaluation.ods).  
   
 Per prima cosa recuperiamo i valori come definiti sopra:
