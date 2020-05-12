@@ -10,7 +10,7 @@ A discussion about how some western countries fight with coronavirus
 [My first steps](./README.english.md#my-first-steps)  
 [Let's analyze !](./README.english.md#lets-analyze-)  
 [What to say now?](./README.english.md#what-to-say-now)  
-[Another step](./README.english.md#a-second-step)  
+[Another step](./README.english.md#another-step)  
 [What should we do?](./README.english.md#what-should-we-do)  
 [How to contribute](./README.english.md#how-to-contribute)  
 
@@ -208,7 +208,7 @@ The values ​​are:
 As a difficulty coefficient I would define 3-2-1 in the order as above.  
 We may also calculate rankings other than that obtained by calculating as above.  
   
-To calculate the ranking, we add the *rank* sheet to the spreadsheet.
+To calculate the ranking, we add the *rank* sheet to the [spreadsheet](https://github.com/fpirri/covid19/raw/master/covid19%20evaluation.ods).  
 
 First we recover the values ​​as defined above:
 * Total deaths
