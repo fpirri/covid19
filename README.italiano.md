@@ -33,7 +33,8 @@ Cosa e' successo?
 ----  
 
   
-Firenze, 2020-04-28 - In Italia siamo tutti a casa. Siamo inondati di notizie su COVID19 dalle continue notizie televisive, i giornali non parlano di nient'altro e, nelle chat (a distanza) con gli amici, discutiamo (quasi) sempre del coronavirus.  
+2020-04-28 in Firenze, Italia  
+In Italia siamo tutti a casa. Siamo inondati di notizie su COVID19 dalle continue notizie televisive, i giornali non parlano di nient'altro e, nelle chat (a distanza) con gli amici, discutiamo (quasi) sempre del coronavirus.  
 Gli attori principali dei vari discorsi sono principalmente due: i referti medici degli ospedali e le azioni dei governanti.  
 
 Terze parti e attori distanti sono gli esperti, o presunti tali.
