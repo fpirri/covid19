@@ -34,7 +34,7 @@ What you may find here
 TV and newspapers bombard us daily with industrial quantities of numerical data and always end up indicating the nation that has the largest number of deaths.  
 First it had been China, then Italy, then again the United States.  
   
-To check, given that the worldometers site collects numbers from all over the world that even TV offers us, we can take the numerical data from it and put them in a graph:
+To check, given that the [worldometers](https://www.worldometers.info/coronavirus/#countries) site collects numbers from all over the world that even TV offers us, we can take the numerical data from it and put them in a graph:
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Total%20Deaths%20raw%20data.png">
 
@@ -42,8 +42,10 @@ As you can see, at the end of April the USA was the most affected country (**<- 
 
 Let us immediately make some considerations that will clarify how wrong this way of providing information is.
 
-* First point: you will never compare the number of deaths in the state of Andorra with those in all the United States of America.
-* Second point: it is misleading to compare the numbers of a country where the epidemic is starting with one in which the epidemic is at its peak.
+* First:
+    * you will never compare the number of deaths in the state of Andorra with those in all the United States of America.
+* Second:
+    * it is misleading to compare the numbers of a country where the epidemic is starting with one in which the epidemic is at its peak.
 
 So let's see what we can do.
  <br />
@@ -69,9 +71,13 @@ As you can see, the US is moving back strongly. To begin making a comparison, we
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.wma.all.png">
 
-The above graph was normalized using a seven day weighted moving average. The worldometers site mentioned above presents data separated by country with a simple moving average over three days. Results are not much different.
+The above graph was normalized using a seven day weighted moving average. The worldometers site mentioned above presents data separated by country with a simple moving average over three days. Results are not much different.  
 
-However, we must note that the visual comparison on a single chart for seven countries is not easy to do.
+Basically, looking at the graph, we deduce that Spain is the most affected country. All the others are the most affected successively, down to Germany which is definitely the least affected of all.  
+  
+Unfortunately, the visual comparison on the graph shown fails to give a measure of how much a given country has been affected compared to another.
+
+For this, a more [extensive version](https://github.com/fpirri/covid19/blob/master/README.english.md) of our reasoning is needed.
 
 ----
 

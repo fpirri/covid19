@@ -34,7 +34,7 @@ Considerazioni iniziali
 TV e giornali ci bombardano giornalmente con quantita' industriali di dati numerici e finiscono sempre con l'indicare la Nazione che ha il piu' grande numero di decessi.
 Prima era stata la Cina, poi l'Italia, poi ancora gli Stati Uniti.  
 
-Per verificare, dato che il sito *worldometers* raccoglie da tutto il mondo i numeri che anche la TV ci propina, possiamo prendere [da esso](https://www.worldometers.info/coronavirus/#countries) i dati numerici e metterli in un grafico:
+Per verificare, dato che il sito [worldometers](https://www.worldometers.info/coronavirus/#countries) raccoglie da tutto il mondo i numeri che anche la TV ci propina, possiamo prendere da esso i dati numerici e metterli in un grafico:
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Total%20Deaths%20raw%20data.png">
 
@@ -42,8 +42,10 @@ Come si vede, a fine Aprile gli USA erano il paese piu' colpito **(<-- e' una bu
 
 Facciamo subito alcune considerazioni che potranno chiarire quanto questo modo di fornire informazioni sia sbagliato.  
 
-Primo punto: non confronterai mai il numero di decessi nello stato di Andorra con quelli di tutti gli Stati Uniti d'America.  
-Secondo punto: e' fuorviante confrontare i numeri di un Paese in cui l'epidemia e' agli inizi con uno nel quale l'epidemia sia al culmine.  
+* Primo:
+    * non confronterai mai il numero di decessi del (piccolo) stato di Andorra con quelli di tutti gli Stati Uniti d'America.  
+* Secondo:
+    * e' fuorviante confrontare i numeri di un Paese in cui l'epidemia e' agli inizi con uno nel quale l'epidemia sia al culmine.  
 
 Vediamo allora cosa possiamo fare.
   
@@ -74,7 +76,11 @@ Per cominciare a fare una comparazione, realizziamo un grafico relativo ai deces
 
 Il grafico sopra e' stato normalizzato usando un media mobile pesata su sette giorni. Il sito [worldometers](https://www.worldometers.info/coronavirus/#countries) citato sopra presenta i dati separati per singolo paese con una media mobile semplice su tre  giorni.  
 
-Dobbiamo comunque notare che il confronto visivo su un grafico singolo per sette paesi non e' facile da effettuare.  
+In sostanza, guardando il grafico, deduciamo che la Spagna e' il Paese piu' colpito. Tutti gli altri, a decrescere sono successivamente i piu' colpiti, fino alla Germania che e' decisamente il meno colpito di tutti.
+
+Purtroppo, il confronto visivo sul grafico riportato non riesce a dare una misura di quanto un dato Paese sia stato affetto rispetto ad un altro.  
+ 
+ Per questo, e' necessaria una [versione piu' estesa](./README.italiano.md) del nostro ragionamento.  
  
 ----
    
