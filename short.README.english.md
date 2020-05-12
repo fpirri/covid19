@@ -1,14 +1,14 @@
 # COVID19, a country comparison
 
-Presenting data to compare how some western countries fight with coronavirus  
+Presenting data to compare how some western countries fight with coronavirus - Short version  
 <br />  
 
 ----
 
 [What you may find here](./short.README.english.md#what-you-may-find-here)  
-[Basics](./short.README.english.md#my-first-steps)  
-[Chart & discussion](./short.README.english.md#lets-analyze-)  
-[Expand](./short.README.english.md#a-second-step)  
+[Basics](./short.README.english.md#basics)  
+[Chart & discussion](./short.README.english.md#charts--discussion)  
+[Expand](./short.README.english.md#expand)  
   
 ----
    
