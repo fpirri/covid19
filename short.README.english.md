@@ -80,9 +80,10 @@ However, we must note that the visual comparison on a single chart for seven cou
 EXPAND
 ----  
 
+https://github.com/fpirri/covid19/raw/master/covid19%20evaluation.ods
 An [extended version](https://github.com/fpirri/covid19/blob/master/README.english.md) is available on this site.  
-It examines the data and presents the criteria in more detail.  
+It examines the data and presents the criteria with more details.  
   
-The site also contains a LibreOffice Calc [spreadsheet](https://github.com/fpirri/covid19/blob/master/covid19%20evaluation.ods) that can be downloaded and used for your own data experiments.  
+The site also contains a LibreOffice Calc [spreadsheet](https://github.com/fpirri/covid19/raw/master/covid19%20evaluation.ods) that can be downloaded and used for your own data experiments.  
 There is also an excel version that I try to keep up to date. The version is saved by LibreOffice Calc, and full compatibility is not guaranteed.
 
