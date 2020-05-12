@@ -5,10 +5,10 @@ Presenting data to compare how some western countries fight with coronavirus
 
 ----
 
-[What you may find here](https://github.com/fpirri/covid19/tree/master/history/last#what-you-may-find-here)  
-[Basics](https://github.com/fpirri/covid19/tree/master/history/last#my-first-steps)  
-[Chart & discussion](https://github.com/fpirri/covid19/tree/master/history/last#lets-analyze-)  
-[Expand](https://github.com/fpirri/covid19/tree/master/history/last/#a-second-step)  
+[What you may find here](./short.README.english.md#what-you-may-find-here)  
+[Basics](./short.README.english.md#my-first-steps)  
+[Chart & discussion](./short.README.english.md#lets-analyze-)  
+[Expand](./short.README.english.md#a-second-step)  
   
 ----
    
@@ -80,9 +80,9 @@ However, we must note that the visual comparison on a single chart for seven cou
 EXPAND
 ----  
 
-An extended version is available on this site.  
+An [extended version](https://github.com/fpirri/covid19/blob/master/README.english.md) is available on this site.  
 It examines the data and presents the criteria in more detail.  
   
-The site also contains a LibreOffice Calc spreadsheet that can be downloaded and used for your own data experiments.  
+The site also contains a LibreOffice Calc [spreadsheet](https://github.com/fpirri/covid19/blob/master/covid19%20evaluation.ods) that can be downloaded and used for your own data experiments.  
 There is also an excel version that I try to keep up to date. The version is saved by LibreOffice Calc, and full compatibility is not guaranteed.
 
