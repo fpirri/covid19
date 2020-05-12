@@ -27,7 +27,7 @@ A spreadsheet is also attached which can be used as a starting point for your ow
 
 * [README.english.md](./README.english.md)
     * The extended version of the reflections
-* [short.README.md](./short.README.md)
+* [short.README.english.md](./short.README.english.md)
     * The short version of the reflections
 * [spreadsheet.README.english.md](./spreadsheet.README.english.md)
     * Description of what you may find in the attached spreadsheet
