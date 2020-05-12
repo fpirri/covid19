@@ -69,7 +69,7 @@ As you can see, the US is moving back strongly. To begin making a comparison, we
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.wma.all.png">
 
-The above graph was normalized using a seven day weighted moving average. The worldometers site mentioned above presents data separated by country with a simple moving average over three days.
+The above graph was normalized using a seven day weighted moving average. The worldometers site mentioned above presents data separated by country with a simple moving average over three days. Results are not much different.
 
 However, we must note that the visual comparison on a single chart for seven countries is not easy to do.
 

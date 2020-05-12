@@ -88,7 +88,7 @@ Come approfondire
 Una [versione estesa](./README.italiano.md) e' disponibile in questo sito.  
 In essa vengono esaminati i dati e presentati i criteri con maggiori dettagli.
 
-Il sito contiene anche un foglio di calcolo [LibreOffice Calc](./covid19%20evaluation.ods)  che puo'essere scaricato ed usato per propri esperimenti con i dati.  
+Il sito contiene anche un foglio di calcolo [LibreOffice Calc](https://github.com/fpirri/covid19/raw/master/covid19%20evaluation.ods) che puo'essere scaricato ed usato per propri esperimenti con i dati.  
 Esiste anche una  [versione excel](https://github.com/fpirri/covid19/raw/master/history/last/covid19%20evaluation.xlsx) che cerco di mantenere aggiornata.
 La versione e' salvata da LibreOffice Calc, e non e' garantita la piena compatibilita'.  
 
