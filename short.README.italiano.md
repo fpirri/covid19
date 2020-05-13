@@ -8,6 +8,7 @@ Evoluzione del COVID19 in alcuni Paesi Occidentali
 [Cosa potresti trovare qui](./short.README.italiano.md#Cosa-potresti-trovare-qui)  
 [Considerazioni iniziali](./short.README.italiano.md#considerazioni-iniziali)  
 [Realizzazione dei grafici](./short.README.italiano.md#realizzazione-dei-grafici)  
+[La conclusione](./short.README.italiano.md#la-conclusione)  
 [Come approfondire](./short.README.italiano.md#come-approfondire)  
   
 ----
