@@ -264,10 +264,9 @@ So why am I totally dissatisfied with what I found?
 
 Let's see:
 * Italy has carried out the most drastic measures first and finds itself penultimate;
-* Spain, France and the UK are in very similar conditions, although the measures taken are not too different;
-* Sweden refused to apply restrictive measures, however it is far better than the group mentioned above
-* The USA of the reviled Trump is better than all the others, a few points from Germany;
-* Germany is far better than all the others mentioned, however the measures it has taken have not been the hardest at all.  
+* Sweden refused to apply restrictive measures, however it is far better than Spain, France and the UK;
+* The USA of the reviled Trump is better than all the others above, a few points from Germany;
+* Germany is the best, however the measures it has taken have not been the hardest at all.  
   
 The same logic as before tells me that there is something that I don't know but that has a great effect.  
   
@@ -388,7 +387,7 @@ To do:
 Question:
 **Do we have to worry about the future?**  
   
-In an interview with the newspaper Il Tempo, Prof. Carlo Gaudio observed that in the 2000s we had 5 pandemics. DETAILS:  [==> DETAILS: A pandemic every 4 years](./README.english.md/#a-pandemic-every-4-years)  
+In an interview with the newspaper Il Tempo, Prof. Carlo Gaudio observed that in the 2000s we had 5 pandemics. DETAILS:  [==> DETAILS: A pandemic every 4 years](./README.english.md/#details-a-pandemic-every-4-years)  
 
 So, the next pandemic will happen between 2024 and 2007.
 

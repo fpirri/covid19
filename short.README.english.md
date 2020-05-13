@@ -8,6 +8,7 @@ Presenting data to compare how some western countries fight with coronavirus - S
 [What you may find here](./short.README.english.md#what-you-may-find-here)  
 [Basics](./short.README.english.md#basics)  
 [Chart & discussion](./short.README.english.md#charts--discussion)  
+[The result](./short.README.english.md#the-result)  
 [Expand](./short.README.english.md#expand)  
   
 ----
@@ -67,17 +68,51 @@ The graph we had seen before becomes now:
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Total%20Deaths%20per%20Million.png">
   
-As you can see, the US is moving back strongly. To begin making a comparison, we make a graph of deaths on each single day:
-
+As you can see, things change a lot but accurate comparisons remain difficult.  
+  
+So we decide to use the same data to see the daily trend of deaths per million inhabitants in the various countries. We use a seven-day average to eliminate periodicity in data collection in many countries.
+We get the following graph:
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.wma.all.png">
 
-The above graph was normalized using a seven day weighted moving average. The worldometers site mentioned above presents data separated by country with a simple moving average over three days. Results are not much different.  
-
-Basically, looking at the graph, we deduce that Spain is the most affected country. All the others are the most affected successively, down to Germany which is definitely the least affected of all.  
+As can be seen, Spain has a number of daily deaths almost always higher than all the others.  
+We also see that Germany almost always has far fewer daily deaths than all the others.  
+For other countries there are mixed situations and it is not clear who is better than another.  
   
-Unfortunately, the visual comparison on the graph shown fails to give a measure of how much a given country has been affected compared to another.
+Taking a cue from what is often done to arrive at a numerical ranking, we assign a set of points to the various countries using the following parameters:
+* total deaths per million throughout the period;
+* peak value of daily deaths;
+* total duration of the crisis period.
 
-For this, a more [extensive version](https://github.com/fpirri/covid19/blob/master/README.english.md) of our reasoning is needed.
+We arrive at the following ranking, calculated on 10 May 2020:
+-    Germany 60
+-    USA 46
+-    Sweden 38
+-    France 25
+-    UK 24
+-    Italy 16
+-    Spain 10
+
+The procedure used to achieve this result is illustrated in detail in the [extended version](https://github.com/fpirri/covid19/blob/master/README.english.md) of the comparison.
+
+----
+
+<br />
+
+The Result
+----  
+
+Masks, gloves and social distancing have been the answer to the virus in many parts of the world.  
+Experts warn that avoiding contact with the infected greatly reduces the infection. Logic says they are right.  
+  
+Yet the data (and the consequent numerical ranking) are not entirely congruous:
+* Italy has carried out the most drastic measures first and finds itself penultimate;
+* Sweden refused to apply restrictive measures, however it is far better than Spain, France and the United Kingdom;
+* The USA of the reviled Trump is better than all the others above, a few points from Germany;
+* Germany is the best, however the measures it has taken have not been the hardest at all.
+  
+The same logic as before tells me that there is something that I don't know but that has a great effect.  
+  
+A great deal of scientific research effort will be needed to provide convincing answers.  
 
 ----
 
