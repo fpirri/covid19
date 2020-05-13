@@ -69,19 +69,57 @@ Il grafico che avevamo visto prima diviene ora:
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Total%20Deaths%20per%20Million.png">
   
-Come e' possibile vedere, gli USA retrocedono fortemente.
-Per cominciare a fare una comparazione, realizziamo un grafico relativo ai decessi in ogni singolo giorno:
+Come e' possibile vedere, le cose cambiano molto ma rimane difficile fare dei confronti fortemente.  
+
+Decidiamo allora di usare gli stessi dati per vedere l'andamento giornaliero dei decessi per milione di abitanti nei vari paesi.
+Usiamo una media su sette giorni per eliminare periodicita' nella rilevazaione dei dati in molti paesi.  
+Otteniamo il seguente grafico:  
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.wma.all.png">
 
-Il grafico sopra e' stato normalizzato usando un media mobile pesata su sette giorni. Il sito [worldometers](https://www.worldometers.info/coronavirus/#countries) citato sopra presenta i dati separati per singolo paese con una media mobile semplice su tre  giorni.  
+Come si vede, la Spagna ha un numero di decessi giornalieri quasi sempre superiore a tutti gli altri.  
+Vediamo anche che la Germania presenta quasi sempre un numero di decessi giornalieri molto minori di tutti gli altri.  
+Per gli altri paesi si hanno situazioni miste e non e' evidente chi sia migliore di un altro.  
 
-In sostanza, guardando il grafico, deduciamo che la Spagna e' il Paese piu' colpito. Tutti gli altri, a decrescere sono successivamente i piu' colpiti, fino alla Germania che e' decisamente il meno colpito di tutti.
+Prendendo spunto da quello che spesso si fa per arrivare ad una graduatoria numerica, assegnamo un insieme di punti ai vari paesi usando i seguenti parametri:  
+- totale dei decessi per milione in tutto il periodo;
+- valore di picco dei decessi giornalieri;
+- durata totale del periodo di crisi.
+  
+Arriviamo alla seguente graduatoria, calcolata il 10 Maggio 2020:  
+*    Germany   60
+*    USA      46
+*    Sweden   38
+*    France    25
+*    UK      24
+*    Italy     16
+*    Spain     10
+ 
+ Il procedimento usato per arrivare a questo risultato e' illustrato in dettaglio nella [versione estesa](./README.italiano.md) del confronto.  
+ 
+----
+   
+<br />
 
-Purtroppo, il confronto visivo sul grafico riportato non riesce a dare una misura di quanto un dato Paese sia stato affetto rispetto ad un altro.  
- 
- Per questo, e' necessaria una [versione piu' estesa](./README.italiano.md) del nostro ragionamento.  
- 
+----  
+
+La conclusione
+----
+
+Mascherine, guanti e distanziamento sociale sono stati la risposta al virus in molte parti del mondo.  
+Gli esperti avvisano che evitare i contatti con gli infetti riduce di molto il contagio. La logica dice che hanno ragione.  
+
+Eppure, i dati (e la conseguente graduatoria numerica) non sono del tutto congrui:
+* L'Italia ha effettuato per prima le misure piu' drastiche e si ritrova penultima;
+* La Svezia si e' rifiutata di applicare misure restrittive, tuttavia sta decisamente meglio di Spagna, Francia e Regno Unito;
+* L'USA del vituperato Trump sta meglio di tutti gli altri, a pochi punti dalla Germania;
+* La Germania sta molto meglio di tutti quanti, tuttavia le misure da essa intraprese non sono state affatto le piu' dure.
+
+La stessa logica di prima mi dice che **esiste qualcosa che non so** ma che ha un grande effetto.  
+
+Sara' necessario un grande sforzo di ricerca scientifica per fornire risposte convincenti.
+
+
 ----
    
 <br />
