@@ -271,17 +271,10 @@ E allora: perche' sono totalmente insoddisfatto di cio' che ho trovato?
   
 Ecco:
 * L'Italia ha effettuato per prima le misure piu' drastiche e si ritrova penultima;
-* La Svezia si e' rifiutata di applicare misure restrittive, tuttavia sta decisamente meglio del gruppo citato sopra* L'Italia ha effettuato per prima le misure piu' drastiche e si ritrova penultima;
-* Spagna, Francia e UK sono in condizioni molto simili, anche se le misure prese non sono troppo diverse;
+* La Svezia si e' rifiutata di applicare misure restrittive, tuttavia sta decisamente meglio del gruppo citato sopra
 * La Svezia si e' rifiutata di applicare misure restrittive, tuttavia sta decisamente meglio di Spagna, Francia e UK;
 * L'USA del vituperato Trump sta meglio di tutti gli altri, a pochi punti dalla Germania;
 * La Germania sta molto meglio di tutti quanti, tuttavia le misure da essa intraprese non sono state affatto le piu' dure.
-
-La stessa logica di prima mi dice che **esiste qualcosa che non so** ma che ha un grande effetto.  
-
-
-* L'USA del vituperato Trump sta meglio di tutti gli altri, a pochi punti dalla Germania;
-* La Germania sta molto meglio di tutti gli altri citati, tuttavia le misure da essa intraprese non sono state affatto le piu' dure.
 
 La stessa logica di prima mi dice che **esiste qualcosa che non so** ma che ha un grande effetto.  
 

@@ -70,16 +70,16 @@ Il grafico che avevamo visto prima diviene ora:
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Total%20Deaths%20per%20Million.png">
   
-Come e' possibile vedere, le cose cambiano molto ma rimane difficile fare dei confronti fortemente.  
+Come e' possibile vedere, le cose cambiano molto ma rimane difficile fare dei confronti accurati.  
 
 Decidiamo allora di usare gli stessi dati per vedere l'andamento giornaliero dei decessi per milione di abitanti nei vari paesi.
-Usiamo una media su sette giorni per eliminare periodicita' nella rilevazaione dei dati in molti paesi.  
+Usiamo una media su sette giorni per eliminare periodicita' nella rilevazione dei dati in molti paesi.  
 Otteniamo il seguente grafico:  
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.wma.all.png">
 
 Come si vede, la Spagna ha un numero di decessi giornalieri quasi sempre superiore a tutti gli altri.  
-Vediamo anche che la Germania presenta quasi sempre un numero di decessi giornalieri molto minori di tutti gli altri.  
+Vediamo anche che la Germania presenta quasi sempre un numero di decessi giornalieri molto minore di tutti gli altri.  
 Per gli altri paesi si hanno situazioni miste e non e' evidente chi sia migliore di un altro.  
 
 Prendendo spunto da quello che spesso si fa per arrivare ad una graduatoria numerica, assegnamo un insieme di punti ai vari paesi usando i seguenti parametri:  
