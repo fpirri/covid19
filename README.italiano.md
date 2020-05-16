@@ -398,7 +398,6 @@ E' il momento di una domanda importante:
 
 Per rispondere, ci puo' essere utile leggere l'intervista del Prof. Carlo Gaudio a [Il Tempo](https://www.iltempo.it/salute/2020/04/11/news/date-e-numeri-parla-il-professor-carlo-gaudio-che-cosa-ci-insegnano-le-epidemie-1313244/).
 Il titolo dell'articolo riporta: **che cosa ci insegnano le epidemie**.
-[==> DETTAGLI: una pandemia ogni 4 anni](./README.italiano.md/#dettagli-una-pandemia-ogni-4-anni)  
   
 Nella sua intervista il Prof. Gaudio ci ricorda le undici epidemie virali negli ultimi 100 anni, culminate negli anni 2000 con una media di una epidemia ogni 4 anni, con esiti sempre piu' gravi.   
   
@@ -475,22 +474,6 @@ Questo procedimento usa registri meno affidabili di quelli dei decessi e trascur
 Sarebbe possibile fare dei sondaggi statistici, ma in questo caso sarebbe solo una fotografia in un dato momento. Inoltre la validita' statistica dei test attuali e' quanto meno dubbia.  
 Esiste anche il problema degli asintomatici, cioe' delle persone che non hanno sintomi significativi. Per questi si propongono test di immunita' a posteriori, che comunque poco dicono su quando il contagio e' avvenuto. 
 <br />
-
-----
-
-# DETTAGLI: Una pandemia ogni 4 anni
-
-* Questa parte e' in lavorazione sopra  
-Da fare:
-* passare da una lista/puti vari ad esposizione corrente
-* effettuare eventuali traduzioni
-* rivedere prima della pubblicazione finale
-
-
-ref. a il tempo:
-[Carlo Gaudio - Il Tempo](https://www.iltempo.it/salute/2020/04/11/news/date-e-numeri-parla-il-professor-carlo-gaudio-che-cosa-ci-insegnano-le-epidemie-1313244/)
-
-<br />  
 
 ----
 

@@ -184,7 +184,7 @@ Let's analyze !
 The initial purpose of the reflections was a comparison between the various countries. We are looking for an easy way, but one that is objective.  
 How can we do it?  
 
-To ask the question in a more formal way, we try, for each of the countries examined:  
+To ask the question in a more formal way, we search, for each of the countries examined:  
 * the peak value of the infection;
 * the duration from the start day to the peak;
 * we define 'end' the day on which daily deaths decrease to below a simple weekly average equal to the starting value;
@@ -216,7 +216,7 @@ First we recover the values ​​as defined above:
     * copied on rank for convenience
 * Peak value
     * manually detected from the Daily Deaths sheet
-    * also detected fromthe smooth sheet
+    * also detected from the smooth sheet
     * calculated for both sheets
     * choice of the value on the smooth sheet for the ranking
 * Start-to-end duration
@@ -264,7 +264,7 @@ So why am I totally dissatisfied with what I found?
 
 Let's see:
 * Italy has carried out the most drastic measures first and finds itself penultimate;
-* Sweden refused to apply restrictive measures, however it is far better than Spain, France and the UK;
+* Sweden refused to apply restrictive measures, however it is far better than Spain, Italy, France and the UK;
 * The USA of the reviled Trump is better than all the others above, a few points from Germany;
 * Germany is the best, however the measures it has taken have not been the hardest at all.  
   
@@ -281,8 +281,7 @@ Another step
 
 The question of the moment is:
 What do we know about COVID19 and what should we know better about it?  
-My answer is daunting: it seems that the important parameters are unknown or little known. To understand this, I had to first study some epidemiological theories. [==> DETAILS: the teory]( ./README.english.md#details-epidemiology)  
-  
+My answer is daunting: it seems that the important parameters are unknown or little known. To understand this, I had to first study some epidemiological theories.   
 What parameters would I like to know about COVID19? Here is a short and non-exhaustive list:  
 1. percentage of naturally immune people;
 2. presence and duration of immunity for healed persons;
@@ -363,7 +362,7 @@ with the snobbish air of those who consider not understanding mathematics as an 
   
 The Italy governments of the past 40 years, including the last one, have financed research with percentages lower than half of other European countries, while expressing wonder at our delayed development compared to the others.  
   
-Our hundred-year-old universities have become bureaucratic offices, valued only on the basis of the quantity of diplomas they deliver regardless of their quality.  
+Our hundreds-year-old universities have become bureaucratic offices, valued only on the basis of the quantity of diplomas they deliver regardless of their quality.  
 Student parking - next unemployed - has become more important than their preparation.  
 The science labs have been deprived of funding and young researchers are forced to earn a salary elsewhere.  
   
@@ -383,9 +382,8 @@ It's time for an important question:
 **Do we have to worry about the future?**
 
 To answer it, it may be useful to read Prof. Carlo Gaudio's interview with [Il Tempo](https://www.iltempo.it/salute/2020/04/11/news/date-e-numeri-parla-il-professor-carlo-gaudio-che-cosa-ci-insegnano-le-epidemie-1313244/).
-The title of the article reads: **what epidemics teach us**.
-[==> DETAILS: a pandemic every 4 years](./README.english.md/#details-a-pandemic-every-4-years)   
-
+The title of the article reads: **what epidemics teach us**.  
+  
 In his interview Prof. Gaudio reminds us of the eleven viral epidemics in the last 100 years, which culminated in the 2000s with an average of one epidemic every 4 years, with increasingly serious outcomes.  
   
 Considering that the average is maintained, we will have the next pandemic between 2024 and 2027.  
@@ -437,169 +435,51 @@ This section is organized into several parts. Each will discuss a particular poi
 
 # DETAILS: why to look at death
 
-* Turn list into organic display
-* Translation still to be done
-* To be reviewed for publication
-
-- dato molto controllato nel mondo occidentale
-- molte diverse sorgenti sia ufficiali che indirette
- anagrafe comunale, cimiteri, registri parrocchiali, vox populi
-- controllo statistico a posteriori
-(un altro primato italiano?)
-vedi: Rapporto_Istat_ISS.pdf & Decessi 2020
-https://www.istat.it/it/files//2020/05/Rapporto_Istat_ISS.pdf  
-https://www.istat.it/it/files/2020/03/Decessi_2020_Nota.pdf  
-contenuto:
-nel periodo 20/2-31/3 i morti passano da 65.592 (media periodo 2015-2019) a 90.946 con un incremento di 25.354 unità - quelli ufficialmente covid denunciati sono stati 13.710  
-si potrebbero confrontare anche i dati di comunita' chiuse e con dati meglio conosciuti  
-
+There are many parameters that are mentioned. Perhaps the most significant is the transmission coefficient R0, which is the average number of people infected by an infected first person. This, like other technical parameters, has a real meaning only within a theoretical model and is outside of an analysis like the one I'm doing.  
+   
+The official data that is disclosed mainly takes into consideration the following parameters:  
+  
+* total of active cases;
+* total deaths;
+* total of the healed.
+  
+To these are added other interesting parameters, such as the number of people in intensive care, those in quarantine and so on.  
+Other significant numerical data can also be deduced from the mentioned parameters, such as the healed and the daily deaths.  
+  
+Personally I see how much more significant the number of total deaths and therefore also the daily.  
+In fact, death is one of the most controlled events in western countries and is recorded almost always. The sources of registration are multiple and very reliable.  
+We must say that sometimes the cause of death is not correctly identified and this certainly happened for the first deaths due to COVID19.  
+Then there are cases deliberately ignored, such as deaths in sanitary homes for the elderly.  
+These are however recognizable and recognized, albeit late. I understand that Spain and the United Kingdom have corrected the data and, in Italy, we have a study by the Higher Institute of Statistics which estimated the differences after a study on the mortality of the last few years compared with the current mortality:
+[Rapporto Istat ISS](https://www.istat.it/it/files//2020/05/Rapporto_Istat_ISS.pdf )  
+[Nota sui decessi 2020](https://www.istat.it/it/files/2020/03/Decessi_2020_Nota.pdf)  
+  
+The judiciary also intervened and now these data are correctly registered.  
+   
+On the contrary, for the other data, both the detection and the subsequent correction are impractical.
+Taking for example the number of active cases, we say that it is highly unreliable because it is detected by seeing who arrives in the hospital or by making tests and declaring a person infected.
+This process uses less reliable records than those of deaths and neglects many of the infected people.  
+It would be possible to make statistical surveys, but in this case it would only be a photograph at a given moment. Furthermore, the statistical validity of the current tests is at least doubtful.  
+There is also the problem of asymptomatics, that is, of people who have no significant symptoms. For these, immunity tests are proposed a posteriori, which however say little about when the infection occurred.  
 <br />
-
-----
-
-# DETAILS: Epidemiology
-
-* Turn list into organic display
-* Translation still to be done
-* To be reviewed for publication
-
-Senza entrare troppo nello specifico, i modelli dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:
-* S    Susceptible
- * E    Exposed
- * I    Infected
- * R     Removed, Recovered or Death
- I modelli studiano  i passaggi da una classe all'altra per gli individui in una popolazione assegnata.
- Su internet troviamo il modello SIR, cioe' il modello Suscettibile-Infected-Removed ed altri.
- 
-Negli ultimi 100 anni si e' tentato di ottenere modelli matematici formali per analizzare l'andamento delle epidemie. Lo scopo principale del modello matematico e' quello di individuare a priori l'efficacia delle misure preventive che si vogliono usare.
-Senza entrare troppo nello specifico, i modelli dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:
- * S    Susceptible
-     * Individuals who may become infected
- * E    Exposed
-     * Individuals who got the infection
-     * the infection will become transmissible in a while
- * I    Infected
-     * Individuals affected by the infection
-     * they are a vehicle for further infections
- * R     Removed
-      * Individuals no more counted owing to death or becoming immune
- * M    Martenally derived immunity
-     * new born, which are not susceptible to infections for a given time
- * C Carrier
-     * Individui che hanno la malattia latente (es. tubercolosy)
-     * possono trasmetterla indefinitamente nel tempo
-     
- le definizioni sembrano poter subire piccole variazioni
-
-I modelli studiano  i passaggi da una classe all'altra per gli individui in una popolazione assegnata.
-Il padre dei vari modelli e' il modello SIR: Suscettibile-Infected-Removed
-[Mathematical modelling of infectious disease](https://en.wikipedia.org/wiki/Mathematical_modelling_of_infectious_disease)
-Altri modelli sono stati sviluppati:
-[Compartmental models in epidemiology](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology)
-
-SIRD
-MSIR
-Carrier state
-SEIR 
-SEIS
-MSEIR
-MSEIRS
-
- 
-  There are many modifications of the SIR model, including those that include births and deaths, where upon recovery there is no immunity (SIS model), where immunity lasts only for a short period of time (SIRS), where there is a latent period of the disease where the person is not infectious (SEIS and SEIR), and where infants can be born with immunity (MSIR). 
-
-
-<br />
-
-----
-
-# DETAILS: 
-
-* Turn list into organic display
-* Translation still to be done
-* To be reviewed for publication
-
-Un esempio di come potrebbero essere fatte le cose ? ....
-
-In 2018, Ciofi et al. pubblicano un lavoro estremamente interessante:  
-[Mitigation Measures for Pandemic Influenza in Italy: An Individual Based Model Considering Different Scenarios](https://doi.org/10.1371/journal.pone.0001790)  
-Il lavoro e' stato sottoposto alla pubblicazione nel 2017.
-lavoro:
-- si genera un modello di c
-
-basic reproductive number (R 0 )
-
-
-<br />
-
-----
-
-# DETAILS: A pandemic every 4 years
-
-* Turn list into organic display
-* Translation still to be done
-* To be reviewed for publication
-
-ref. a il tempo:
-[Carlo Gaudio - Il Tempo](https://www.iltempo.it/salute/2020/04/11/news/date-e-numeri-parla-il-professor-carlo-gaudio-che-cosa-ci-insegnano-le-epidemie-1313244/)
-
-<br />  
 
 ----
 
 # DETAILS: Why 5 death per Million
+  
+It would certainly be interesting to know when, where and who is the person who died first in each country.  
+Unfortunately, there are some reasons why this figure appears to be not very certain, also because at the beginning practically no doctor was sufficiently prepared to diagnose it, being the respiratory difficulty very evident and often pre-existing, even if in a non-lethal form.  
+Furthermore, from a statistical point of view, a single death is decidedly insignificant.  
+    
+The transmission process is in turn a statistical process, so it is valid to study it when the numbers are high enough.  
+By choosing 5 deaths per million, the Italian date is March 7, coincidentally the day of the decree *** stay at the house *** of the Italian Government.
+  
+In retrospect it will be possible to repeat the calculations by choosing a different value, but the same for all countries.
+I reserve the right to present these results when we arrive at the end of the Pandemic or, at the worst, in the month of July.
 
-* Turn list into organic display
-* Translation still to be done
-* To be reviewed for publication
-
-- il primo morto appare poco certo e statisticamente troppo variabile
-- necessita' di avere punti di uguale significato per tutti:
-scegliamo 1 morto per milione o 2,3,4 ?
-- oppure: un altro valore assoluto: 2, 3, ..., 10 morti per nazione
-- oppure: meta' dell'intervallo tra 1 e 5 (?) morti per milione
-- DA FARE:
-vedere come cambia l'origine e/o il confronto se si fa una scelta diversa: come cambia la posizione del picco ?
--forse il confronto andrebbe fatto per aree geografiche ciascuna con 100k o piu' abitanti (perche' 100k, 500k e' meglio?
-
-<br />  
-
-----
-
-
-
-PLEASE NOTE: this is WORK IN PROGRESS
-===
-
-This document is incomplete: I am trying to coordinate my thoughts, but I cannot find a common thread in the many things I read online.
-I need help.  
- Do you have any suggestion?
 <br />
 
 ----
-
-Tentative sections.  
-I accept suggestions.  
-
-[Document short description]()  
-Not easy!  
-  
-  
-[Herd immunity]()  
-Is it applicable?  
-  
-
-[Why I write this document]()  
-Probably thi is not important.
-  
-
-[What this document discuss]()  
-
-----
-
-<br />
-----
-
 
 # DETAILS: eCat blog Mats Lewan
 
