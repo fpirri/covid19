@@ -151,7 +151,7 @@ Proviamo con il gruppo Svezia e Stati Uniti.
 Damn ...   
 Ci sono periodicità nei dati che portano solo alla confusione. Sembra che vari paesi inseriscano i dati settimanalmente. Cosa potremmo fare per migliorare la situazione?  
 Dopo alcuni esperimenti, si ottiene un risultato soddisfacente con una media ponderata mobile (Dettagli sotto).  
-NOTA: a partire dal 5 maggio, il sito web dei worldometri ha aggiunto la media mobile di 3 giorni nella tabella della morte giornaliera.  
+NOTA: a partire dal 5 maggio, il sito web worldometers ha aggiunto la media mobile di 3 giorni nella tabella della morte giornaliera.  
 
 <img src="https://github.com/fpirri/covid19/raw/master/history/images/archive/2020-04-28%20Countries%20Daily%20Deaths%20per%20Million.wma.all.png">
 
@@ -202,16 +202,16 @@ Per porre in modo piu' formale il quesito, cerchiamo, per ognuno dei paesi esami
 A questo punto, calcoliamo l'ordine dei paesi  secondo questi criteri:
 - definiamo (piu' avanti) i valori da confrontare;
 - per ogni valore assegnamo ad ogni paese un punteggio tra 1 e 10, con 10 al paese *migliore* sul parametro, 1 al paese *peggiore* e gli altri proporzionalmente alle loro differenze con il migliore;
-- analogamente ai concorsi per i tuffi acrobatici, stabiliamo anche un *coefficente di difficolta'* per i punteggi ottenuti;
-- la graduatoria sara' stabilita sommando i prodotti *punteggio per coefficente* cosi' accumulati.  
+- analogamente ai concorsi per i tuffi acrobatici, stabiliamo anche un *coefficiente di difficolta'* per i punteggi ottenuti;
+- la graduatoria sara' stabilita sommando i prodotti *punteggio per coefficiente* cosi' accumulati.  
 
 I valori siano:
 - totale dei decessi per milione in tutto il periodo;
 - valore di picco dei decessi giornalieri;
 - durata totale del periodo start-to-end;
 
-Come coefficente di difficolta' definirei 3-2-1 nell'ordine come sopra.  
-In base ad eventuali commenti motivati potremo  calcolare anche graduatorie diverse da quella che otterremo calcolando come sopra.  
+Come coefficiente di difficolta' definirei 3-2-1 nell'ordine come sopra.  
+Si potranno eseguire graduatorie con regole diverse, ma quelle sopra sembrano considerare almeno i punti piu' importanti.  
     
 Per calcolare la graduatoria aggiungiamo il foglio *rank* al [foglio di calcolo](https://github.com/fpirri/covid19/raw/master/covid19%20evaluation.ods).  
   
@@ -271,8 +271,7 @@ E allora: perche' sono totalmente insoddisfatto di cio' che ho trovato?
   
 Ecco:
 * L'Italia ha effettuato per prima le misure piu' drastiche e si ritrova penultima;
-* La Svezia si e' rifiutata di applicare misure restrittive, tuttavia sta decisamente meglio del gruppo citato sopra
-* La Svezia si e' rifiutata di applicare misure restrittive, tuttavia sta decisamente meglio di Spagna, Francia e UK;
+* La Svezia si e' rifiutata di applicare misure restrittive, tuttavia sta decisamente meglio di Spagna, Italia, Francia e UK;
 * L'USA del vituperato Trump sta meglio di tutti gli altri, a pochi punti dalla Germania;
 * La Germania sta molto meglio di tutti quanti, tuttavia le misure da essa intraprese non sono state affatto le piu' dure.
 
@@ -289,9 +288,8 @@ Vediamo se un'altra dose di indagine fornisce una risposta.
   
 La domanda del momento e':  
 Cosa sappiamo di COVID19 e cosa dovremmo sapere meglio al riguardo?  
-La mia risposta è scoraggiante: sembra che i parametri importanti siano sconosciuti o poco conosciuti.
+La mia risposta è scoraggiante: sembra che i parametri per me importanti siano sconosciuti o poco conosciuti.
 Per capirlo, ho dovuto prima studiare alcune teorie epidemiologiche.
-[==> DETTAGLI: Epidemiologia](./README.italiano.md/#dettagli-epidemiologia)  
 
 Quali parametri vorrei conoscere sul COVID19?
 Ecco un breve e non esaustivo elenco:
@@ -447,131 +445,36 @@ Questa sezione e' composta da varie parti, ognuna delle quali cerca di approfond
 
 ----
 
-# INDICE:
-----
-
-DA FARE
-vedere: fare come README.md di base?
-
-----
-
 <br />
 
 ----
 
 # DETTAGLI: perche' guardare ai decessi?
-
-* Questa parte e' in lavorazione  
-Da fare:
-* passare da una lista/puti vari ad esposizione corrente
-* effettuare eventuali traduzioni
-* rivedere prima della pubblicazione finale
-
-- dato molto controllato nel mondo occidentale
-- molte diverse sorgenti sia ufficiali che indirette
- anagrafe comunale, cimiteri, registri parrocchiali, vox populi
-- controllo statistico a posteriori
-(un altro primato italiano?)
-vedi: Rapporto_Istat_ISS.pdf & Decessi 2020
-https://www.istat.it/it/files//2020/05/Rapporto_Istat_ISS.pdf  
-https://www.istat.it/it/files/2020/03/Decessi_2020_Nota.pdf  
-contenuto:
-nel periodo 20/2-31/3 i morti passano da 65.592 (media periodo 2015-2019) a 90.946 con un incremento di 25.354 unità - quelli ufficialmente covid denunciati sono stati 13.710  
-si potrebbero confrontare anche i dati di comunita' chiuse e con dati meglio conosciuti  
-
-<br />
-
-----
-
-# DETTAGLI: Epidemiologia
-
-* Questa parte e' in lavorazione  
-Da fare:
-* passare da una lista/puti vari ad esposizione corrente
-* effettuare eventuali traduzioni
-* rivedere prima della pubblicazione finale
- 
- **Il contenuto sotto e' in parte gia' usato.**
- 
-Negli ultimi 100 anni si e' tentato di ottenere modelli matematici formali per analizzare l'andamento delle epidemie. Lo scopo principale del modello matematico e' quello di individuare a priori l'efficacia delle misure preventive che si vogliono usare.
-Senza entrare troppo nello specifico, i modelli piu' noti dividono la popolazione in classi relative ai vari stadi della malattia. Le classi sono spesso individuate con una lettera:
- * S    Susceptible
-     * Individuals who may become infected
- * E    Exposed
-     * Individuals who got the infection
-     * the infection will become transmissible in a while
- * I    Infected
-     * Individuals affected by the infection
-     * they are a vehicle for further infections
- * R     Removed
-      * Individuals no more counted owing to death or becoming immune
- * M    Martenally derived immunity
-     * new born, which are not susceptible to infections for a given time
- * C Carrier
-     * Individui che hanno la malattia latente (es. tubercolosy)
-     * possono trasmetterla indefinitamente nel tempo
-     
- le definizioni sembrano poter subire piccole variazioni
-
-I modelli studiano  i passaggi da una classe all'altra per gli individui in una popolazione assegnata.
-Il padre dei vari modelli e' il modello SIR: Suscettibile-Infected-Removed
-[Mathematical modelling of infectious disease](https://en.wikipedia.org/wiki/Mathematical_modelling_of_infectious_disease)
-Altri modelli sono stati sviluppati:
-[Compartmental models in epidemiology](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology)
-
-SIRD
-MSIR
-Carrier state
-SEIR 
-SEIS
-MSEIR
-MSEIRS
-
-
-
- Su internet troviamo il modello SIR, cioe' il modello Suscettibile-Infected-Removed ed altri.
-
- 
-  There are many modifications of the SIR model, including those that include births and deaths, where upon recovery there is no immunity (SIS model), where immunity lasts only for a short period of time (SIRS), where there is a latent period of the disease where the person is not infectious (SEIS and SEIR), and where infants can be born with immunity (MSIR). 
-
-
   
-  https://www.nature.com/articles/s41591-020-0883-7
-  &gt;-- un modello italiano  
-  https://rdcu.be/b34mV   shareable link
-
-https://www.corriere.it/cronache/20_aprile_24/coronavirus-lo-sviluppo-dell-infezione-decisivi-primi-10-15-giorni-69a8d1c6-8642-11ea-9ac6-16666bda3d31.shtml  
-https://www.preprints.org/manuscript/202004.0436/v1  
-  &gt;-- un altro modello italiano
+Sono molti i parametri che vengono citati. Forse il piu' significativo e' il coefficiente di trasmissione R0, ovvero il numero medio di persone infettate da una prima persona infetta. Questo, come altri parametri tecnici ha un vero significato solo all'interno di un modello teorico ed e' al di fuori di una analisi come quella che sto facendo.  
   
--  equazione approssimata:  f (t) ≤ a . exp(M t)  
-     &gt;-- history-aux/notes123.pdf
- 
- https://www.scienzainrete.it/articolo/analisi-dei-dati-epidemiologici-del-coronavirus-italia-al-20-marzo/giovanni-sebastiani/2020
-     &gt;-- in realta' l'analis non c'e', si presentano dei grafici
- 
- http://www.nbst.it/665-coronavirus-modello-fasi-malattia-esposizione-virus-incubazione-sintomi-risposta-sistema-immunitario-anticorpi.html
-      &gt;-- sembra buono, ci sono alcuni dei parametri richiesti sopra
- 
- https://www.preprints.org/manuscript/202004.0436/v1
-      &gt;--  Paolo Matricardi, Roberto Dal Negro, Roberto Nisini 
-      &gt;-- Received: 22 April 2020 / Approved: 24 April 2020
-      &gt;-- vedere se e' citato nell'articolo 'nature' <-- NO
- 
- l
-
+I dati ufficiali che vengono divulgati prendono in considerazione principalmente i seguenti parametri:
+* totale di casi attivi;
+* totale dei decessi;
+* totale dei guariti.
+A questi si aggiungono altri parametri interessanti, come il numero di persone in terapia intensiva, quelle in quarantena e cosi' via.
+Dai parametri citati si possono anche dedurre altri dati numerici significativi, come i guariti ed i decessi giornalieri.  
+  
+Personalmente vedo come di gran lunga piu' significativo il numero di decessi totali e quindi, anche i giornalieri.  
+Infatti, il decesso e' uno degli eventi piu' controllati nei paesi occidentali e viene registrato praticamente sempre. Le fonti di registrazione sono multiple e molto affidabili.
+Dobbiamo dire che a volte la causa del decesso non viene correttamente individuata e questo e' certamente avvenuto per i primi decessi dovuti al COVID19.  
+Ci sono poi casi volutamente ignorati, come i decessi nelle residenze santarie per anziani.  
+Questi sono pero' riconoscibili e riconosciuti, sia pure in ritardo. Mi risulta che Spagna e Regno Unito abbiano corretto i dati relativi e, in Italia, abbiamo uno studio dell'Istituto Superiore di statistica che ha stimato le differenze dopo uno studio sulla mortalita' degli ultimi anni confrontata con la mortalita' attuale:
+[Rapporto Istat ISS](https://www.istat.it/it/files//2020/05/Rapporto_Istat_ISS.pdf )  
+[Nota sui decessi 2020](https://www.istat.it/it/files/2020/03/Decessi_2020_Nota.pdf)  
+Anche la Magistratura e' intervenuta e adesso questi dati sono correttamente registrati.  
+  
+Al contrario, per gli altri dati, sia la rilevazione che la correzione a posteriori sono impraticabili.  
+Prendendo ad esempio il numero di casi attivi, diciamo che e' altamente inaffidabile perche viene rilevato vedendo chi arriva in opspedale o facendo dei test e dichiarando infetta una persona.  
+Questo procedimento usa registri meno affidabili di quelli dei decessi e trascura molte delle persone infette. 
+Sarebbe possibile fare dei sondaggi statistici, ma in questo caso sarebbe solo una fotografia in un dato momento. Inoltre la validita' statistica dei test attuali e' quanto meno dubbia.  
+Esiste anche il problema degli asintomatici, cioe' delle persone che non hanno sintomi significativi. Per questi si propongono test di immunita' a posteriori, che comunque poco dicono su quando il contagio e' avvenuto. 
 <br />
-
-----
-
-# DETTAGLI: 
-
-* Questa parte e' in lavorazione  
-Da fare:
-* passare da una lista/puti vari ad esposizione corrente
-* effettuare eventuali traduzioni
-* rivedere prima della pubblicazione finale
-
 
 ----
 
@@ -592,23 +495,16 @@ ref. a il tempo:
 ----
 
 # DETTAGLI: Perche' 5 decessi per milione?
-
-* Questa parte e' in lavorazione  
-Da fare:
-* passare da una lista/puti vari ad esposizione corrente
-* effettuare eventuali traduzioni
-* rivedere prima della pubblicazione finale
-
-
-- il primo morto appare poco certo e statisticamente troppo variabile
-- necessita' di avere punti di uguale significato per tutti:
-scegliamo 1 morto per milione o 2,3,4 ?
-- oppure: un altro valore assoluto: 2, 3, ..., 10 morti per nazione
-- oppure: meta' dell'intervallo tra 1 e 5 (?) morti per milione
-- DA FARE:
-vedere come cambia l'origine e/o il confronto se si fa una scelta diversa: come cambia la posizione del picco ?
--forse il confronto andrebbe fatto per aree geografiche ciascuna con 100k o piu' abitanti (perche' 100k, 500k e' meglio?
-
+  
+Sarebbe certamente interessante conoscere quando, dove e chi e' la persona deceduta per prima in ogni paese.  
+Purtroppo ci sono alcuni motivi per i quali questo dato appare poco certo, anche perche' all'inizio praticamente nessun medico era sufficientemente preparato per diagnosticarla, essendo la difficolta' respiratoria molto evidente e spesso preesistente, sia pure in forma non letale.
+Inoltre, dal punto di vista statistico, un decesso singolo e' decisamente poco significativo.  
+  
+Il processo di trasmissione e' a sua volta un processo statistico, quindi e' valido studiarlo quando i numeri sono abbastanza alti.  
+Scegliendo 5 decessi per milione la data italiana e' il 7 Marzo, casualmente il giorno del decreto ***stai a casa*** del Governo Italiano.  
+  
+A posteriori sara' possibile ripetere i calcoli scegliendo un valore diverso, ma uguale per tutti i Paesi.  
+Mi riservo di presentare questi risultati quando arriveremo alla fine della Pandemia o nel prossimo mese di Luglio nel caso peggiore.
 <br />  
 
 ----
