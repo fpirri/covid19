@@ -5,10 +5,10 @@ A LibreOffice Calc spreadsheet to examine how some western countries fight with 
 
 ----
 
-[What you may find here](https://github.com/fpirri/covid19/blob/master/spreadsheet.README.md#what-you-may-find-here)  
-[Sheet list](https://github.com/fpirri/covid19/blob/master/spreadsheet.README.md#sheet-list)  
-[Excel version](https://github.com/fpirri/covid19/blob/master/spreadsheet.README.md#excel-version)  
-[Charts & discussion](https://github.com/fpirri/covid19/blob/master/spreadsheet.README.md#charts--discussion)  
+[What you may find here](./spreadsheet.README.md#what-you-may-find-here)  
+[Sheet list](./spreadsheet.README.md#sheet-list)  
+[Excel version](./spreadsheet.README.md#excel-version)  
+[Charts & discussion](./spreadsheet.README.md#charts--discussion)  
   
 ----
    
@@ -69,6 +69,7 @@ Sheet list
 
 An [.xlsx](https://github.com/fpirri/covid19/raw/master/history/last/covid19%20evaluation.xlsx) Excel version is available.  
 The version is saved by LibreOffice Calc, which does not guarantee full compatibility and may present formatting problems.  
+My experience with LibreOffice, on linux, says that it is indistinguishable from the .ods version.
 
  <br />
 

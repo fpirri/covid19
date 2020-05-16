@@ -69,6 +69,7 @@ Elenco dei fogli
 
 Una versione [.xlsx](https://github.com/fpirri/covid19/raw/master/history/last/covid19%20evaluation.xlsx) e' disponibile.  
 La versione e' salvata da LibreOffice Calc, che non garantisce la piena compatibilita' e puo' presentare problemi di formattazione.  
+La mia esperienza con LibreOffice, su linux, dice che e' indistinguibile dalla versione .ods.
 
  <br />
 

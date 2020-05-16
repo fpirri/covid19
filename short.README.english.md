@@ -125,5 +125,5 @@ An [extended version](https://github.com/fpirri/covid19/blob/master/README.engli
 It examines the data and presents the criteria with more details.  
   
 The site also contains a LibreOffice Calc [spreadsheet](https://github.com/fpirri/covid19/raw/master/covid19%20evaluation.ods) that can be downloaded and used for your own data experiments.  
-There is also an excel version that I try to keep up to date. The version is saved by LibreOffice Calc, and full compatibility is not guaranteed.
+There is also an [excel version](https://github.com/fpirri/covid19/raw/master/history/last/covid19%20evaluation.xlsx) that I try to keep up to date. The version is saved by LibreOffice Calc, and full compatibility is not guaranteed.
 
