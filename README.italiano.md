@@ -33,7 +33,7 @@ Cosa e' successo?
 ----  
 
   
-2020-04-28 in Firenze, Italia  
+2020-04-28 in Firenze, Italia.  
 In Italia siamo tutti a casa. Siamo inondati di notizie su COVID19 dalle continue notizie televisive, i giornali non parlano di nient'altro e, nelle chat (a distanza) con gli amici, discutiamo (quasi) sempre del coronavirus.  
 Gli attori principali dei vari discorsi sono principalmente due: i referti medici degli ospedali e le azioni dei governanti.  
 
@@ -394,21 +394,37 @@ Naturalmente, ipotizzando che il suddetto laboratorio, oltre ad esistere, fosse 
 # Il passo che dovremmo fare
 ----
 
-* Questa sezione e' in lavorazione  
-Da fare:
-* fare abstract dell'intervista di Gaudio
-* rivedere prima della pubblicazione finale
+E' il momento di una domanda importante:  
   
-Domanda:  
 **Ci dobbiamo preoccupare per il futuro?**
 
-In un'intervista al quotidiano Il Tempo, il Prof. Carlo Gaudio ha osservato che negli anni 2000 abbiamo avuto 5 pandemie.
+Per rispondere, ci puo' essere utile leggere l'intervista del Prof. Carlo Gaudio a [Il Tempo](https://www.iltempo.it/salute/2020/04/11/news/date-e-numeri-parla-il-professor-carlo-gaudio-che-cosa-ci-insegnano-le-epidemie-1313244/).
+Il titolo dell'articolo riporta: **che cosa ci insegnano le epidemie**.
 [==> DETTAGLI: una pandemia ogni 4 anni](./README.italiano.md/#dettagli-una-pandemia-ogni-4-anni)  
   
-**Quindi, la prossima pandemia accadra' tra 2024 ed 2007**.  
+Nella sua intervista il Prof. Gaudio ci ricorda le undici epidemie virali negli ultimi 100 anni, culminate negli anni 2000 con una media di una epidemia ogni 4 anni, con esiti sempre piu' gravi.   
   
-Non è davvero escluso che che la prossima epidemia non arrivi prima che l'effetto di COVID19 sia terminato.
+Considerando che la media si mantenga, avremo **la prossima pandemia tra il 2024 ed il 2007**.  
+    
+Non è davvero escluso che che la prossima epidemia non arrivi prima che l'effetto di COVID19 sia terminato.  
 
+Quindi:  **SI, ci dobbiamo preoccupare**.
+
+Preoccuparsi vuol dire un forte e positivo impegno per la ricerca scientifica.  
+E' necessario che le persone riflettano su quanto la scienza abbia contribuito a migliorare la vita sul nostro pianeta. E' necessario distinguere tra il lavoro del chimico che lavora nella ricerca e l'industria chimica che eventualmente inquina il territorio.  
+Per esempio, molti cosiddetti  *uomini di cultura* hanno piu' insistito su presupposte mancanze delle industrie farmaceutiche che sui formidabili risultati ottenuti tramite i vaccini. Questa ed altre opere di disinformazione si sono trasformate in un generale rifiuto della ricerca scientifica in generale.
+I ricercatori stessi sono ridotti quasi a doversi scusare perche' lavorano a cose *quasi inutili*.  
+  
+Sul lato positivo, possiamo sperare che la forte paura generata dal COVID19 porti ad un aumento dei finaziamenti alla ricerca e ad un sistema di sanita' ancora piu' efficace.  
+
+Abbiamo bisogno di lavori teorici che siano in grado di fornire in tempi brevissimi i modelli necessari all'analisi del prossimo contagio.  
+Abbiamo bisogno che esistano esperti e procedimenti che consentano di affrontare la prossima epidemia rilevandone i paramentri con tempestivita' ed accuratezza.  
+
+La cosa necessita di finanziamenti pubblici per la ricerca che vadano oltre gli striminziti attuali programmi del [MIUR](https://www.miur.gov.it/).  
+NOTA: MIUR e' il MInistero della Istruzione, dell'Universita e della Ricerca in Italia  
+    
+E' lecita la speranza che la prossima epidemia sia meno letale del COVID19, ma e' intelligente preoccuparsi perche' la prossima volta ci siano strumenti piu' efficaci per affrontarla.  
+ 
 ----
 
 <br />
