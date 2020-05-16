@@ -112,7 +112,7 @@ Yet the data (and the consequent numerical ranking) are not entirely congruous:
   
 The same logic as before tells me that there is something that I don't know but that has a great effect.  
   
-A great deal of scientific research effort will be needed to provide convincing answers.  
+**A great deal of scientific research effort will be needed to provide convincing answers.**  
 
 ----
 

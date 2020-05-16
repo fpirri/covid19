@@ -118,7 +118,7 @@ Eppure, i dati (e la conseguente graduatoria numerica) non sono del tutto congru
 
 La stessa logica di prima mi dice che **esiste qualcosa che non so** ma che ha un grande effetto.  
 
-Sara' necessario un grande sforzo di ricerca scientifica per fornire risposte convincenti.
+**Sara' necessario un grande sforzo di ricerca scientifica per fornire risposte convincenti.**
 
 
 ----
