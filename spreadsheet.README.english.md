@@ -78,5 +78,7 @@ My experience with LibreOffice, on linux, says that it is indistinguishable from
 # Charts & discussion
 ----  
 
- TO DO 
+To consult the graphics, it is advisable to read the [extended version](https://github.com/fpirri/covid19/blob/master/README.english.md) available on this site. Then you can download the [covid19 evaluation.ods](https://github.com/fpirri/covid19/raw/master/covid19%20evaluation.ods) or the .xlsx version mentioned above.
+
+
 
