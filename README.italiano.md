@@ -463,7 +463,7 @@ Personalmente vedo come di gran lunga piu' significativo il numero di decessi to
 Infatti, il decesso e' uno degli eventi piu' controllati nei paesi occidentali e viene registrato praticamente sempre. Le fonti di registrazione sono multiple e molto affidabili.
 Dobbiamo dire che a volte la causa del decesso non viene correttamente individuata e questo e' certamente avvenuto per i primi decessi dovuti al COVID19.  
 Ci sono poi casi volutamente ignorati, come i decessi nelle residenze santarie per anziani.  
-Questi sono pero' riconoscibili e riconosciuti, sia pure in ritardo. Mi risulta che Spagna e Regno Unito abbiano corretto i dati relativi e, in Italia, abbiamo uno studio dell'Istituto Superiore di statistica che ha stimato le differenze dopo uno studio sulla mortalita' degli ultimi anni confrontata con la mortalita' attuale:
+Questi sono pero' riconoscibili e riconosciuti, sia pure in ritardo. Mi risulta che Spagna e Regno Unito abbiano corretto i dati relativi e, in Italia, abbiamo uno studio dell'Istituto Superiore di statistica che ha stimato le differenze dopo uno studio sulla mortalita' degli ultimi anni confrontata con la mortalita' attuale:  
 [Rapporto Istat ISS](https://www.istat.it/it/files//2020/05/Rapporto_Istat_ISS.pdf )  
 [Nota sui decessi 2020](https://www.istat.it/it/files/2020/03/Decessi_2020_Nota.pdf)  
 Anche la Magistratura e' intervenuta e adesso questi dati sono correttamente registrati.  
