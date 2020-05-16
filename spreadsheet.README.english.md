@@ -5,10 +5,10 @@ A LibreOffice Calc spreadsheet to examine how some western countries fight with 
 
 ----
 
-[What you may find here](./spreadsheet.README.md#what-you-may-find-here)  
-[Sheet list](./spreadsheet.README.md#sheet-list)  
-[Excel version](./spreadsheet.README.md#excel-version)  
-[Charts & discussion](./spreadsheet.README.md#charts--discussion)  
+[What you may find here](./spreadsheet.README.english.md#what-you-may-find-here)  
+[Sheet list](./spreadsheet.README.english.md#sheet-list)  
+[Excel version](./spreadsheet.README.english.md#excel-version)  
+[Charts & discussion](./spreadsheet.README.english.md#charts--discussion)  
   
 ----
    
