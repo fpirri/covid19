@@ -57,6 +57,9 @@ Sheet list
     * a number of chart to easy countries comparison
 * smooth compare 
     * as the above, smoothed version
+* rank
+    * tables for the evaluation of the ranking
+    * rank history from May 11th, 2020
 * others
     * experimental sheets to organize thoughts
 

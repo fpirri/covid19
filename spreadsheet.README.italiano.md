@@ -57,6 +57,9 @@ Elenco dei fogli
     * alcuni grafici per i confronti tra Paesi
 * smooth compare 
     * come sopra, versione smoothed
+* rank
+    * tabelle per la valutazione della grauduatoria
+    * storico della graduatoria dal 11 Maggio 2020
 * others
     * fogli sperimentali, lavori in corso
 
