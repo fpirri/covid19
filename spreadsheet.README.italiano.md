@@ -58,7 +58,7 @@ Elenco dei fogli
 * smooth compare 
     * come sopra, versione smoothed
 * rank
-    * tabelle per la valutazione della grauduatoria
+    * tabelle per la valutazione della graduatoria
     * storico della graduatoria dal 11 Maggio 2020
 * others
     * fogli sperimentali, lavori in corso
