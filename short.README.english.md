@@ -82,17 +82,12 @@ Taking a cue from what is often done to arrive at a numerical ranking, we assign
 * total deaths per million throughout the period;
 * peak value of daily deaths;
 * total duration of the crisis period.
+  
+We put, in the same spreadsheet used for the graphs, some tables to calculate a score for each country.
 
-We arrive at the following ranking, calculated on 10 May 2020:
--    Germany 60
--    USA 46
--    Sweden 38
--    France 25
--    UK 24
--    Italy 16
--    Spain 10
-
-The procedure used to achieve this result is illustrated in detail in the [extended version](https://github.com/fpirri/covid19/blob/master/README.english.md) of the comparison.
+The procedure used to achieve the result is illustrated in detail in the [extended version](https://github.com/fpirri/covid19/blob/master/README.english.md) of the comparison.  
+  
+Let's see below the calculated ranking.  
 
 ----
 
@@ -101,19 +96,39 @@ The procedure used to achieve this result is illustrated in detail in the [exten
 The Result
 ----  
 
-Masks, gloves and social distancing have been the answer to the virus in many parts of the world.  
-Experts warn that avoiding contact with the infected greatly reduces the infection. Logic says they are right.  
+ With the spreadsheet available on the site you get to the following ranking of countries, calculated on 10 May 2020:   
+
+-    Germany 60
+-    USA 46
+-    Sweden 38
+-    France 25
+-    UK 24
+-    Italy 16
+-    Spain 10
+  
+The numerical analysis confirms what we had seen on the graph, that is, on May 11th Germany is the best and Spain the last. The sheet will be recalculated daily until 30 June 2020.  
+    
+The ranking measures the differences between countries quantitatively better than the visual examination of the graphs, so I may say that the first objective of the reflection is achieved.  
+However, I am far from satisfied because the ranking found does not agree with the severity of the measures that the various governments have taken.  
+  
+Masks, gloves and social distancing have been the answer to the virus in many parts of the world.
+Experts warn that avoiding contact with the infected greatly reduces the infection. Logic says they are right.
   
 Yet the data (and the consequent numerical ranking) are not entirely congruous:
-* Italy has carried out the most drastic measures first and finds itself penultimate;
-* Sweden refused to apply restrictive measures, however it is far better than Spain, France and the United Kingdom;
+* Italy carried out the most drastic measures first, followed them well, and finds itself penultimate;
+* Sweden refused to apply restrictive measures, however it is far better than Spain, Italy, France and the United Kingdom;
 * The USA of the reviled Trump is better than all the others above, a few points from Germany;
 * Germany is the best, however the measures it has taken have not been the hardest at all.
   
-The same logic as before tells me that there is something that I don't know but that has a great effect.  
+The same logic as before tells me that **there is something that I don't know** but that has a great effect.  
+  
+I believe *something* can only be found with science.
   
 **A great deal of scientific research effort will be needed to provide convincing answers.**  
 
+Once the fear is over, will the effort be made?  
+The answer depends on all of us.  
+  
 ----
 
 <br />

@@ -87,17 +87,12 @@ Prendendo spunto da quello che spesso si fa per arrivare ad una graduatoria nume
 - valore di picco dei decessi giornalieri;
 - durata totale del periodo di crisi.
   
-Arriviamo alla seguente graduatoria, calcolata il 10 Maggio 2020:  
-*    Germany   60
-*    USA      46
-*    Sweden   38
-*    France    25
-*    UK      24
-*    Italy     16
-*    Spain     10
+Mettiamo, nello stesso foglio di calcolo usato per i grafici, alcune tabelle per calcolare un punteggio per ciascun Paese.
+  
+Il procedimento usato per arrivare a questo risultato e' illustrato in dettaglio nella [versione estesa](./README.italiano.md) del confronto.  
  
- Il procedimento usato per arrivare a questo risultato e' illustrato in dettaglio nella [versione estesa](./README.italiano.md) del confronto.  
- 
+Vediamo sotto la graduatoria calcolata.  
+  
 ----
    
 <br />
@@ -106,20 +101,39 @@ Arriviamo alla seguente graduatoria, calcolata il 10 Maggio 2020:
 
 La conclusione
 ----
-
+  
+Con il foglio di calcolo disponibile su sito si arriva alla seguente graduatoria dei Paesi, calcolata il 10 Maggio 2020:  
+  
+*    Germany   60
+*    USA      46
+*    Sweden   38
+*    France    25
+*    UK      24
+*    Italy     16
+*    Spain     10
+ 
+L'analisi numerica conferma cio' che avevamo visto sul grafico, cioe' che il giorno 11 Maggio la Germania e' la migliore e la Spagna l'ultima. Il foglio sara' ricalcolato giornalmente fino al 30 Giugno 2020.  
+  
+La graduatoria misura le differenze tra i paesi quantitativamente in modo migliore dell'esame visivo dei grafici, quindi posso dire che il primo obiettivo della riflessione e' raggiunto.  
+Tuttavia, sono tutt'altro che soddisfatto perche' la graduatoria trovata non e' in accordo con la severita' delle misure che i vari governi hanno preso.  
+  
 Mascherine, guanti e distanziamento sociale sono stati la risposta al virus in molte parti del mondo.  
 Gli esperti avvisano che evitare i contatti con gli infetti riduce di molto il contagio. La logica dice che hanno ragione.  
 
-Eppure, i dati (e la conseguente graduatoria numerica) non sono del tutto congrui:
-* L'Italia ha effettuato per prima le misure piu' drastiche e si ritrova penultima;
-* La Svezia si e' rifiutata di applicare misure restrittive, tuttavia sta decisamente meglio di Spagna, Francia e Regno Unito;
+Eppure, la graduatoria non e' congrua:
+* L'Italia ha effettuato per prima le misure piu' drastiche, le ha seguite bene, e si ritrova penultima;
+* La Svezia si e' rifiutata di applicare misure restrittive, tuttavia sta decisamente meglio di Spagna, Italia, Francia e Regno Unito;
 * L'USA del vituperato Trump sta meglio di tutti gli altri, a pochi punti dalla Germania;
 * La Germania sta molto meglio di tutti quanti, tuttavia le misure da essa intraprese non sono state affatto le piu' dure.
 
 La stessa logica di prima mi dice che **esiste qualcosa che non so** ma che ha un grande effetto.  
-
+  
+Credo che il *qualcosa* possa essere trovato solo con la scienza.  
+  
 **Sara' necessario un grande sforzo di ricerca scientifica per fornire risposte convincenti.**
 
+Passata la paura, lo sforzo verra' fatto?
+La risposta dipende da tutti noi.
 
 ----
    
