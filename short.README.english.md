@@ -96,7 +96,7 @@ Let's see below the calculated ranking.
 The Result
 ----  
 
- With the spreadsheet available on the site you get to the following ranking of countries, calculated on 10 May 2020:   
+ With the spreadsheet available on the site you get to the following ranking of countries, calculated on May 11th, 2020:   
 
 -    Germany 60
 -    USA 46

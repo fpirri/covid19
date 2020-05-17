@@ -102,7 +102,7 @@ Vediamo sotto la graduatoria calcolata.
 La conclusione
 ----
   
-Con il foglio di calcolo disponibile su sito si arriva alla seguente graduatoria dei Paesi, calcolata il 10 Maggio 2020:  
+Con il foglio di calcolo disponibile su sito si arriva alla seguente graduatoria dei Paesi, calcolata il giorno 11 Maggio 2020:  
   
 *    Germany   60
 *    USA      46
