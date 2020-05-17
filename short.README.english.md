@@ -106,7 +106,7 @@ The Result
 -    Italy 16
 -    Spain 10
   
-The numerical analysis confirms what we had seen on the graph, that is, on May 11th Germany is the best and Spain the last. The sheet will be recalculated daily until 30 June 2020.  
+The numerical analysis confirms what we had seen on the graph, that is, on May 11th Germany is the best and Spain the last. The sheet will be recalculated daily until June 30, 2020.  
     
 The ranking measures the differences between countries quantitatively better than the visual examination of the graphs, so I may say that the first objective of the reflection is achieved.  
 However, I am far from satisfied because the ranking found does not agree with the severity of the measures that the various governments have taken.  
