@@ -9,12 +9,12 @@
 
 [Aggionamenti](./0-README.UPDATE.italiano.md#aggiornamenti)  
   
-[Discussione breve](./short.README.italiano.md)  
-[Discussione estesa](./README.italiano.md)  
+[Discussione breve](https://github.com/fpirri/covid19/blob/master/short.README.italiano.md)  
+[Discussione estesa](https://github.com/fpirri/covid19/blob/master/README.italiano.md)  
   
 [Osservazione personale](./0-README.UPDATE.italiano.md#osservazione-personale)  
 <br />  
- 
+ https://github.com/fpirri/covid19/blob/master/short.README.italiano.md#covid19-un-confronto-tra-paesi
    
 ----
 
